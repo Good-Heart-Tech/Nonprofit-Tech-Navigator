@@ -95,11 +95,12 @@
   * [Configure Microsoft Defender for Endpoint for Nonprofit (Antivirus)](microsoft/microsoft-365-nonprofit-setup/configure-microsoft-defender-for-endpoint-for-nonprofit-antivirus.md)
   * [Managing Nonprofit Licenses in the Microsoft 365 Admin Center](microsoft/microsoft-365-nonprofit-setup/managing-nonprofit-licenses-in-the-microsoft-365-admin-center.md)
 * [Windows Guides](microsoft/windows-guides/README.md)
-  * [How to Check if You’re Running Windows 10 or 11](microsoft/windows-guides/how-to-check-if-youre-running-windows-10-or-11.md)
+  * [How to Check if You're Running Windows 10 or 11](microsoft/windows-guides/how-to-check-if-youre-running-windows-10-or-11.md)
   * [Upgrading to Windows 11](microsoft/windows-guides/upgrading-to-windows-11.md)
   * [How to Check for Windows Updates](microsoft/windows-guides/how-to-check-for-windows-updates.md)
-  * [How to Find Your Computer’s Name (Hostname)](microsoft/windows-guides/how-to-find-your-computers-name-hostname.md)
+  * [How to Find Your Computer's Name (Hostname)](microsoft/windows-guides/how-to-find-your-computers-name-hostname.md)
   * [How to Use Clipboard History in Windows](microsoft/windows-guides/how-to-use-clipboard-history-in-windows.md)
+  * [Signing In to Windows Using Web Sign-In](microsoft/windows-guides/signing-in-to-windows-using-web-sign-in.md)
   * [Bypassing Microsoft Account Requirement in Windows 11](microsoft/windows-guides/bypassing-microsoft-account-requirement-in-windows-11.md)
 
 ## Other Nonprofit Resources
