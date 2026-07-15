@@ -25,30 +25,29 @@ icon: lock-keyhole
 6. Position the QR code on the screen within the boxes of the camera view.
    * Depending on your phone model, you may need to allow access to the camera.
 7. Continue through the prompts to test sign-in from your mobile device.
-8. MFA is now configured for your primary work email account.  Great work :clap:
+8. MFA is now configured for your primary work email account. Great work :clap:
 
 ## :vertical\_traffic\_light: **In the future, you'll occasionally be prompted to confirm sign-ins with MFA.**
 
 * This may happen from Outlook or other Office applications, from apps on your mobile device, or when accessing the Office 365 webmail interface.
 * By default, the confirmation should be a push notification. A prompt on-screen will ask you to confirm sign-in. You should receive a notification on your mobile device asking to “**Approve**” or “**Deny**” sign in.
   * Choose “**Approve**” if you are receiving a prompt for one of the scenarios listed above.
-  * Choose “**Deny**” if you are not aware of any legitimate sign-ins. &#x20;
+  * Choose “**Deny**” if you are not aware of any legitimate sign-ins.
 
-&#x20;**Example Screenshots:** \
+**Example Screenshots:**\
 ![](../../.gitbook/assets/66.png)
 ---------------------------------
 
-![](<../../.gitbook/assets/63 (1).png>)
+![](../../.gitbook/assets/63.png)
 
 ![](../../.gitbook/assets/64.png)
 
-![](<../../.gitbook/assets/65 (1).png>)
+![](../../.gitbook/assets/65.png)
 
 ![](../../.gitbook/assets/67.png)
 
 ![](../../.gitbook/assets/61.png)
 
-![](<../../.gitbook/assets/60 (1).png>)
+![](../../.gitbook/assets/60.png)
 
 ![](../../.gitbook/assets/62.png)
-

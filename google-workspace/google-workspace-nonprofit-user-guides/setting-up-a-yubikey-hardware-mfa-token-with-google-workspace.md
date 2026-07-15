@@ -7,7 +7,7 @@ icon: key-skeleton
 Multi-Factor Authentication (MFA) adds an extra layer of security to your Google Workspace account. Using a hardware security key, such as a YubiKey key, provides a strong form of authentication that is phishing-resistant and highly secure. This guide walks you through the process of setting up a hardware security key for your Google Workspace account.
 
 {% hint style="success" %}
-Looking for free YukiKeys for your nonprofit?  [Click here](../../tech-recommendations/hardware/mfa-security-token.md)
+Looking for free YukiKeys for your nonprofit? [Click here](../../tech-recommendations/hardware/mfa-security-token.md)
 {% endhint %}
 
 ## **Step 1: Access Your Google Account Security Settings**
@@ -40,4 +40,4 @@ Looking for free YukiKeys for your nonprofit?  [Click here](../../tech-recommend
 12. Once registered, your security key will be listed as an authentication method.
 13. You can now use it for **multi-factor authentication (MFA)** when signing into your Google Workspace account.
 
-<figure><img src="../../.gitbook/assets/image (50).png" alt="" width="244"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49).png" alt="" width="244"><figcaption></figcaption></figure>

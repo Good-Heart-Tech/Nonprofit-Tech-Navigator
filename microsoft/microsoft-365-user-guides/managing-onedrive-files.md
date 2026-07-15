@@ -20,7 +20,7 @@ OneDrive is where your organizations' files live in Microsoft 365. It makes it e
 ### ✅ Check OneDrive Status
 
 1. Look for the **OneDrive cloud icon** in the bottom-right corner of your screen (the taskbar).
-   * ![](<../../.gitbook/assets/image (3).png>) A **blue cloud** means you’re connected to your account.
+   * ![](<../../.gitbook/assets/image (2).png>) A **blue cloud** means you’re connected to your account.
    * 🔄 A **spinning arrows icon** means files are syncing.
    * ❌ A **red X** means something isn’t syncing correctly, and you likely need to sign in again.
 
@@ -33,10 +33,11 @@ OneDrive is where your organizations' files live in Microsoft 365. It makes it e
 ### 📂 Access Your Files in File Explorer
 
 1. Open **File Explorer** (the folder icon on your taskbar).
-2. On the left side, you’ll see **OneDrive – \[Your Organization Name]**.
-   *
+2.  On the left side, you’ll see **OneDrive – \[Your Organization Name]**. \*
 
-       <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="200"><figcaption></figcaption></figure>
+    ```
+    <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="200"><figcaption></figcaption></figure>
+    ```
 3. Click it to open your OneDrive files, just like you would any other folder on your computer.
 
 ***

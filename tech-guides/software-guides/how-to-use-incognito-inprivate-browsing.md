@@ -23,24 +23,24 @@ Use a private browsing window when you need to:
 
 1. Open Chrome.
 2. Use the hotkey:
-   * Windows: `Ctrl + Shift + N` &#x20;
-   * Mac:  `Cmd + Shift + N`&#x20;
-   * Alternatively, open it manually:  Menu (⋯) → **New Incognito window**.
+   * Windows: `Ctrl + Shift + N`
+   * Mac: `Cmd + Shift + N`
+   * Alternatively, open it manually: Menu (⋯) → **New Incognito window**.
 
-<p align="center"><img src="../../.gitbook/assets/image (6).png" alt=""></p>
+<div align="center"><img src="../../.gitbook/assets/image (6).png" alt=""></div>
 
 ***
 
 ### **Microsoft Edge — InPrivate Mode**
 
 1. Open Edge.
-2. &#x20;Use the hotkey:
-   * Windows: `Ctrl + Shift +P`&#x20;
-   * Mac:  `Cmd + Shift + P`&#x20;
+2. Use the hotkey:
+   * Windows: `Ctrl + Shift +P`
+   * Mac: `Cmd + Shift + P`
 
-Alternatively, open it manually:  Menu (⋯) → **New InPrivate window**.
+Alternatively, open it manually: Menu (⋯) → **New InPrivate window**.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +48,7 @@ Alternatively, open it manually:  Menu (⋯) → **New InPrivate window**.
 
 1. Open Firefox.
 2. Press **Ctrl+Shift+P** (Windows) or **⌘+Shift+P** (Mac).\
-   &#xNAN;_&#x4F;r:_ Menu (≡) → **New Private Window**.
+   \&#xNAN;_Or:_ Menu (≡) → **New Private Window**.
 
 ***
 
@@ -56,7 +56,6 @@ Alternatively, open it manually:  Menu (⋯) → **New InPrivate window**.
 
 1. Open Safari.
 2. Press **⌘+Shift+N**.\
-   &#xNAN;_&#x4F;r:_ File → **New Private Window**.
+   \&#xNAN;_Or:_ File → **New Private Window**.
 
 ***
-

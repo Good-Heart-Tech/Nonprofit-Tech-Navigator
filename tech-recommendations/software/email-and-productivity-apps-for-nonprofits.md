@@ -28,7 +28,7 @@ The following Microsoft licenses can be applied for FREE for verified 501(c)(3)s
 
 ## Google Workspace <a href="#google-workspace4" id="google-workspace4"></a>
 
-<div align="left"><figure><img src="../../.gitbook/assets/Google Workspace (1).jpg" alt="Google Workspace for nonprofits" width="356"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Google Workspace.jpg" alt="Google Workspace for nonprofits" width="356"><figcaption></figcaption></figure></div>
 
 [**Google Workspace** offers special licensing for nonprofits](https://www.google.com/nonprofits/workspace/compare/) that provides a comprehensive suite of productivity tools designed to enhance the operations of nonprofit organizations. To apply for these services, [apply here](https://www.google.com/nonprofits/) using [these instructions](../../google-workspace/google-workspace-nonprofit-setup/how-to-apply-for-free-nonprofit-google-workspace-services.md). Nonprofits can streamline communication, collaboration, and project management by leveraging features like Google Chat, Drive, Docs, Meet, and Sites.
 
