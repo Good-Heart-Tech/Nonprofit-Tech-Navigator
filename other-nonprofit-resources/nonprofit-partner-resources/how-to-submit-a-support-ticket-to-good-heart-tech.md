@@ -2,7 +2,7 @@
 
 Submitting a ticket is the fastest way to get help from our team and ensures your request is tracked from start to finish.
 
-#### Option #1: Use the Good Heart Tech Desktop Icon (Preferred)
+#### 🖥️ Option #1: Use the Good Heart Tech Desktop Icon (Preferred)
 
 {% hint style="info" %}
 This option will only be available if the Good Heart Tech support tools are installed on your computer. If you want them installed, please use one of the other options on this page to request the installation code. We’ll have you [follow these instructions](install-good-heart-techs-support-tools-on-your-computer.md).
@@ -14,7 +14,7 @@ This option will only be available if the Good Heart Tech support tools are inst
 
 This option helps us the most because it allows us to more easily identify your computer and environment. If needed, it also lets our team securely remote into your computer to troubleshoot the issue faster.
 
-#### Option #2: Use the Support Portal
+#### 🌐 Option #2: Use the Support Portal
 
 1. Go to [**https://support.goodhearttech.org**](https://support.goodhearttech.org/).
 2. Log in using your Google or Microsoft 365 account.
@@ -24,7 +24,7 @@ This option helps us the most because it allows us to more easily identify your 
 
 You can also use the portal to review and update existing tickets, check statuses, and view metrics about past services we’ve provided.
 
-#### Option #3: Email Support
+#### ✉️ Option #3: Email Support
 
 1. Send an email to [**support@goodhearttech.org**.](mailto:support@goodhearttech.org.)
 2. Include a clear subject line and a brief description of the issue.
@@ -32,7 +32,13 @@ You can also use the portal to review and update existing tickets, check statuse
 
 Your help request will be created in our system, and you will receive an email confirmation.
 
-#### Tips for Faster Support
+#### 📞 Option #4: Call Us
+
+Call **208-817-0403** and leave a voicemail with your name, organization, phone number, and a brief description of the issue.
+
+We cannot guarantee that we will answer every call. Your voicemail automatically creates a support ticket, and we will get back to you as soon as we can.
+
+#### 💡 Tips for Faster Support
 
 * Describe what you were trying to do and what happened instead.
 * Attach screenshots or error messages when possible.
