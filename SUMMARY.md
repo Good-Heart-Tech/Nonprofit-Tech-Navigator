@@ -116,5 +116,6 @@
 * [Nonprofit Insurance](other-nonprofit-resources/nonprofit-insurance.md)
 * [Nonprofit Employee Benefits](other-nonprofit-resources/nonprofit-employee-benefits.md)
 * [Nonprofit Legal Resources](other-nonprofit-resources/nonprofit-legal-resources.md)
+* [Starting a Nonprofit (501(c)(3))](other-nonprofit-resources/starting-a-nonprofit.md)
 * [Other Organizations Providing IT Services to Nonprofits](other-nonprofit-resources/other-organizations-providing-it-services-to-nonprofits.md)
 * [💜 Good Heart Tech Website](https://goodhearttech.org)
