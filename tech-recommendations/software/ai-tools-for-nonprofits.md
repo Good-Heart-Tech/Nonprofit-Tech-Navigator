@@ -50,6 +50,15 @@ If you want a simple place to begin, these are the strongest options for most no
 * **Free option:** There is no free nonprofit organization plan. Individuals can still use Claude’s personal version.
 * **Learn more:** [Get started with Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits)
 
+#### ChatGPT for Nonprofits
+
+[OpenAI for Nonprofits](https://help.openai.com/en/articles/9359041-openai-for-nonprofits) gives eligible organizations discounted access to ChatGPT Business. ChatGPT can help with drafting, brainstorming, summarizing, and first-pass editing.
+
+* **Best for:** Teams that need a flexible AI assistant for everyday work
+* **Pricing:** ChatGPT Business costs $8 per user each month when billed annually, or $10 per user each month when billed monthly.
+* **How to apply:** Complete the [nonprofit validation form](https://validate.poweredbypercent.com/openai) using the email address associated with your ChatGPT Business account.
+* **Learn more:** [OpenAI for Nonprofits](https://help.openai.com/en/articles/9359041-openai-for-nonprofits)
+
 ### AI design tools for nonprofit communications
 
 #### Canva
@@ -104,10 +113,6 @@ AI meeting assistants can record, transcribe, summarize, and pull out action ite
 {% hint style="info" %}
 Free AI tools are easy to test. Review privacy settings and output quality before adopting them across your team.
 {% endhint %}
-
-#### ChatGPT
-
-[ChatGPT](https://chatgpt.com/) is a flexible general-purpose AI assistant. It is useful for drafting, brainstorming, and quick first-pass editing.
 
 #### Google NotebookLM
 

@@ -45,11 +45,17 @@ Find additional details about the '_Google Workspace for Nonprofits'_ plan and o
 [how-to-apply-for-free-nonprofit-google-workspace-services.md](../../google-workspace/google-workspace-nonprofit-setup/how-to-apply-for-free-nonprofit-google-workspace-services.md)
 {% endcontent-ref %}
 
-## Language Tool
+## QuillBot
 
-<div align="left"><figure><img src="../../.gitbook/assets/language-tool.png" alt="" width="200"><figcaption></figcaption></figure></div>
+[QuillBot](https://quillbot.com/app/chrome-extension) is an AI writing assistant. It can help staff improve grammar, rewrite sentences, summarize text, and adjust tone. It is useful for drafting emails, reports, and public-facing communications.
 
-[The free version of LanguageToo](https://languagetool.org/)l is an excellent resource for nonprofits, offering grammar, spelling, and style checks for all users, not just nonprofit organizations. Its features, like multilingual support, plagiarism detection, and writing enhancement suggestions, help users write more clearly and professionally. Nonprofits can use LanguageTool to refine their communication, whether for emails, reports, or social media content, improving outreach and engagement. [While Grammarly once offered free services to nonprofits during COVID-19, it ended the free access](https://support.grammarly.com/hc/en-us/articles/23933968316557-Grammarly-for-Nonprofits-and-NGOs-has-been-discontinued), making LanguageTool a valuable and entirely free alternative for nonprofits looking to maintain high-quality writing without the cost.
+The free plan includes basic writing tools. Paid plans add more features and higher usage limits.
+
+[Install QuillBot for Chrome](https://chromewebstore.google.com/detail/quillbot-ai-writing-assis/iidnbdjijdkbmajdffnidomddglmieko) to use its writing tools in supported websites and online documents.
+
+{% hint style="warning" %}
+Do not paste donor information, HR records, legal documents, or other sensitive information into QuillBot unless your organization has approved its use.
+{% endhint %}
 
 ## Scheduling & Booking Services
 
