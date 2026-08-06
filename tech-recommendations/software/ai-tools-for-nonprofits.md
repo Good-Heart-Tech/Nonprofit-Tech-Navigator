@@ -59,6 +59,15 @@ If you want a simple place to begin, these are the strongest options for most no
 * **How to apply:** Complete the [nonprofit validation form](https://validate.poweredbypercent.com/openai) using the email address associated with your ChatGPT Business account.
 * **Learn more:** [OpenAI for Nonprofits](https://help.openai.com/en/articles/9359041-openai-for-nonprofits)
 
+#### ChatBot.com
+
+[ChatBot.com](https://www.chatbot.com/nonprofit/) lets you build website chatbots without coding. It can answer common questions and automate simple intake tasks.
+
+* **Best for:** After-hours donor or volunteer questions, applications, and event sign-ups
+* **Nonprofit benefit:** Eligible nonprofits receive the Team Plan free. It includes up to 20 agents, five chatbots, and 5,000 chats monthly.
+* **How to apply:** Complete the [nonprofit application form](https://www.chatbot.com/nonprofit/) with your registration number. Approved organizations must link to ChatBot.com or show its nonprofit badge.
+* **Eligibility:** Churches, most schools, and government-affiliated organizations do not qualify.
+
 ### AI design tools for nonprofit communications
 
 #### Canva
