@@ -12,6 +12,22 @@ The organizations below are paid IT service providers, unless noted otherwise.
 
 The price labels are relative, not exact quotes. Use them to compare typical cost levels between providers.
 
+## Good Heart Tech — Free ($0) national MSP for nonprofits
+
+**Website:** [goodhearttech.org/for-nonprofits.html](https://goodhearttech.org/for-nonprofits.html)
+
+Good Heart Tech is a **501(c)(3) nonprofit** (EIN 84-3156575) that provides **free managed IT (MSP-style) services** to qualifying nonprofit partners across the United States. This is not a discounted commercial MSP — eligible partners receive ongoing helpdesk, security, cloud (Microsoft 365 / Google Workspace), backups, WordPress maintenance, and consulting at **$0**.
+
+**Typical eligibility:** fewer than 50 paid staff; less than $2M external funding/year; excludes certain org types.
+
+**Limitations:** volunteer-run; no SLAs or guaranteed 24/7 support.
+
+Good Heart Tech also publishes free resources: [Nonprofit Tech Navigator](https://learn.goodhearttech.org/), [Nonprofit Web Tools](https://nonprofittools.org/), [Nonprofit Monitor](https://nonprofitmonitor.org/), and [M365 Audit](https://m365audit.org/).
+
+See also: [Free IT Support from Good Heart Tech](free-it-support-from-good-heart-tech.md)
+
+---
+
 #### BEMA Information Technologies `Mid-range cost`
 
 **Website:** [https://bemaservices.com](https://bemaservices.com)\
