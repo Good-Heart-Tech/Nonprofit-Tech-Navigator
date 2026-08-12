@@ -21,6 +21,7 @@ If you want a simple place to begin, these are the strongest options for most no
 * **Microsoft Copilot** if your team already uses Microsoft 365.
 * **Google Gemini** if your team already uses Google Workspace.
 * **Claude** if you want strong writing, summarizing, and long-document analysis.
+* **ChatGPT** if you want a versatile assistant with custom GPTs and team workspaces.
 * **Canva** or **Adobe Express** if you need AI help with graphics and marketing content.
 
 ### AI assistants for writing, planning, and research
@@ -52,12 +53,12 @@ If you want a simple place to begin, these are the strongest options for most no
 
 #### ChatGPT for Nonprofits
 
-[OpenAI for Nonprofits](https://help.openai.com/en/articles/9359041-openai-for-nonprofits) gives eligible organizations discounted access to ChatGPT Business. ChatGPT can help with drafting, brainstorming, summarizing, and first-pass editing.
+[OpenAI for Nonprofits](https://openai.com/index/introducing-openai-for-nonprofits/) gives eligible nonprofits discounted access to ChatGPT Business and ChatGPT Enterprise. It is a strong fit for drafting, brainstorming, quick editing, and building custom GPTs for repeatable workflows.
 
-* **Best for:** Teams that need a flexible AI assistant for everyday work
-* **Pricing:** ChatGPT Business costs $8 per user each month when billed annually, or $10 per user each month when billed monthly.
-* **How to apply:** Complete the [nonprofit validation form](https://validate.poweredbypercent.com/openai) using the email address associated with your ChatGPT Business account.
-* **Learn more:** [OpenAI for Nonprofits](https://help.openai.com/en/articles/9359041-openai-for-nonprofits)
+* **Best for:** General-purpose AI assistance and team workspaces with admin controls
+* **Pricing:** Eligible nonprofits can apply for up to a **75% discount** on ChatGPT Business and ChatGPT Enterprise — similar to Anthropic’s nonprofit pricing for Claude
+* **Free option:** ChatGPT’s free tier is available to anyone, but it lacks team admin tools and the stronger data protections of paid plans
+* **Learn more:** [OpenAI for Nonprofits overview](https://openai.com/index/introducing-openai-for-nonprofits/) and [OpenAI for Nonprofits Help Center](https://help.openai.com/en/articles/9359041-openai-for-nonprofits)
 
 #### ChatBot.com
 
@@ -122,6 +123,10 @@ AI meeting assistants can record, transcribe, summarize, and pull out action ite
 {% hint style="info" %}
 Free AI tools are easy to test. Review privacy settings and output quality before adopting them across your team.
 {% endhint %}
+
+#### ChatGPT (free tier)
+
+[ChatGPT](https://chatgpt.com/) offers a free tier for individuals. For team use, see [ChatGPT for Nonprofits](#chatgpt-for-nonprofits) above for discounted Business and Enterprise plans.
 
 #### Google NotebookLM
 
