@@ -1,6 +1,6 @@
-# 🙋‍♀️ Volunteer Management Software for Nonprofits
+# 🙋‍♀️ Event & Volunteer Management Software for Nonprofits
 
-Volunteer Management tools are essential for nonprofits, streamlining the process of recruiting, organizing, and engaging volunteers. These platforms help efficiently match volunteers with opportunities, track participation, and foster a sense of community, enabling nonprofits to optimize their volunteer programs for more significant impact and effectiveness.
+Volunteer and event management tools are essential for nonprofits, streamlining the process of recruiting, organizing, and engaging people. Volunteer platforms help match volunteers with opportunities, track participation, and foster a sense of community. Dedicated conference tools can run the full event lifecycle—ticketing, speakers, sponsors, and budgeting—when a volunteer signup tool is not enough.
 
 ### Point <a href="#point3" id="point3"></a>
 
@@ -29,4 +29,10 @@ Although [Zeffy ](https://www.zeffy.com/en-US/referral?referredByOrganizationId=
 <div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/51" alt="VolunteerMatch volunteer managment for nonprofits" width="188"><figcaption></figcaption></figure></div>
 
 [VolunteerMatch ](https://www.volunteermatch.org/)provides a national digital infrastructure connecting volunteers and nonprofit organizations. It offers free basic accounts for nonprofits and recruiting tools for VolunteerMatch Members. By facilitating connections between passionate volunteers and nonprofits, VolunteerMatch helps organizations find highly qualified individuals who can contribute their time, money, and support.&#x20;
+
+### Goots Conference
+
+<div align="left"><figure><img src="../../.gitbook/assets/goots-conference.png" alt="Goots Conference logo" width="118"><figcaption></figcaption></figure></div>
+
+[Goots Conference](https://conference.goots.app/) is a full conference management app built by the MSP community for community events that cannot afford enterprise event platforms. It covers registration and ticketing, call for speakers, agenda, sponsor pipeline, branded event sites (or a WordPress plugin), and live budget tracking in one place. The **free** plan includes one conference with financial dashboards, revenue and cost tracking, sponsor pipeline management, and CSV import/export. Standard is **$30/month per hosted conference** and adds unlimited conferences, hosting and storage, and REST API access. Paid tickets include a 1.5% platform fee plus Stripe processing; free tickets and free events stay free. [Get started free](https://conference.goots.app/).
 
