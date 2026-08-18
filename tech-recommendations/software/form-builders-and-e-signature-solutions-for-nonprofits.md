@@ -29,11 +29,15 @@ The [JotForm Sign](https://www.jotform.com/products/sign/) free plan offers basi
 
 ### Microsoft SharePoint eSignature
 
+<div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft 365" width="188"><figcaption></figcaption></figure></div>
+
 [Microsoft SharePoint's eSignature solution](https://learn.microsoft.com/en-us/microsoft-365/syntex/esignature-send-requests) provides a secure method for obtaining digital signatures. It is free for nonprofits, though it requires activating the free nonprofit Azure subscription and [involves some administrative setup](https://learn.microsoft.com/en-us/microsoft-365/syntex/esignature-setup). Users need to manually format documents prior to sending them. Additionally, it offers a limited range of fields that can be requested, only including _Signature_, _Initials_, and _Date_.
 
 ## Form Builders
 
 ### Tally
+
+<div align="left"><figure><img src="../../.gitbook/assets/tally.svg" alt="Tally" width="75"><figcaption></figcaption></figure></div>
 
 [Tally](https://tally.so/) is a modern, no-code form builder ideal for nonprofits needing flexible data collection. It supports consent checkboxes and free-text fields for informal approvals.
 
@@ -50,6 +54,8 @@ The [JotForm Sign](https://www.jotform.com/products/sign/) free plan offers basi
 Best for lightweight agreements, intake forms, and general data collection.
 
 ### Google Forms
+
+<div align="left"><figure><img src="../../.gitbook/assets/google.svg" alt="Google" width="75"><figcaption></figcaption></figure></div>
 
 [Google Forms ](https://forms.google.com)is included with Google Workspace for Nonprofits. It’s a simple, effective tool for surveys, registrations, and consent collection (non-legal).
 
@@ -80,6 +86,8 @@ Ideal for basic workflows and internal data gathering.
 [Nonprofits and schools can apply for a 50% discount](https://profile.forms.app/education-npo-application) on paid plans. See [current pricing here](https://forms.app/en/pricing).
 
 ### Microsoft Forms
+
+<div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft 365" width="188"><figcaption></figcaption></figure></div>
 
 [Microsoft Forms](https://forms.office.com) is bundled with Microsoft 365 for Nonprofits. It supports surveys, polls, and simple approvals, but lacks legal eSignature support.
 

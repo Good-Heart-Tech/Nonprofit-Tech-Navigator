@@ -18,9 +18,13 @@ Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-secu
 
 ### 1Password <a href="#vpn-and-zero-trust-software3" id="vpn-and-zero-trust-software3"></a>
 
+<div align="left"><figure><img src="../../.gitbook/assets/1password.svg" alt="1Password" width="150"><figcaption></figcaption></figure></div>
+
 [1Password Teams](https://1password.com/teams) is a robust business-grade password management system with an unadvertised nonprofit rate (50% off the normal [teams rate](https://1password.com/business-pricing)).  Email [business@1password.com](mailto:business@1password.com) to learn more and receive the discount.
 
 ### DashLane <a href="#vpn-and-zero-trust-software3" id="vpn-and-zero-trust-software3"></a>
+
+<div align="left"><figure><img src="../../.gitbook/assets/dashlane.svg" alt="Dashlane" width="150"><figcaption></figcaption></figure></div>
 
 [**DashLane Business**](https://www.dashlane.com/pricing) is a fantastic choice for nonprofits seeking a robust password manager. Its user-friendly interface and advanced security features make it easy to protect sensitive data. By utilizing [TechSoup's 50% discount ($admin fee of $35),](https://www.techsoup.org/products/dashlane-business-g-52246-) nonprofits can acquire DashLane at a significantly reduced cost ($4 per user per month), making it an affordable option.&#x20;
 
@@ -32,7 +36,7 @@ Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-secu
 
 ### Hudu
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/30" alt="Hudu password management systems for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/hudu.png" alt="Hudu" width="188"><figcaption></figcaption></figure></div>
 
 [Hudu ](https://www.hudu.com/)is an incredible platform for managing passwords and documentation for your organization. It's very customizable and can mold to your needs. Hudu offers some special nonprofit pricing, but you'll have to[ reach out to inquire](mailto:contact@usehudu.com) about your specific organization.&#x20;
 

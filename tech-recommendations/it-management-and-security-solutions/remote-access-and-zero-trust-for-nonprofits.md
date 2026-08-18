@@ -23,7 +23,7 @@ Zero trust platforms are safer because they can limit access to specific apps, s
 
 ### Twingate
 
-<div align="left"><img src="https://cdn.simpleicons.org/twingate" alt="Twingate logo" width="188"></div>
+<div align="left"><figure><img src="../../.gitbook/assets/twingate.png" alt="Twingate logo" width="75"><figcaption></figcaption></figure></div>
 
 [Twingate](https://www.twingate.com/) is our easiest recommendation for small nonprofits that want secure remote access with minimal setup.
 
@@ -46,7 +46,7 @@ Install the connector where your internal resources live. Then install the clien
 
 ### Cloudflare Zero Trust
 
-<div align="left"><img src="https://cdn.simpleicons.org/cloudflare" alt="Cloudflare logo" width="188"></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare logo" width="188"><figcaption></figcaption></figure></div>
 
 [Cloudflare Zero Trust](https://www.cloudflare.com/products/zero-trust/) is a strong fit when you want remote access plus broader security controls.
 

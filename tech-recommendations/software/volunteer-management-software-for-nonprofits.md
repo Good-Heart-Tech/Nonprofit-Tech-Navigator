@@ -20,7 +20,7 @@ Volunteer and event management tools are essential for nonprofits, streamlining 
 
 ### Zeffy
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/8" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/zeffy.png" alt="Zeffy" width="188"><figcaption></figcaption></figure></div>
 
 Although [Zeffy ](https://www.zeffy.com/en-US/referral?referredByOrganizationId=a90a19bd-a857-4291-92e3-ca7cca14e2b4)is primarily [a fundraising platform](payment-and-financial-software-for-nonprofits.md), it also has volunteer registration and sign up features.  Learn how to setup up an event and create a volunteer sign up page, here: [Create a volunteering opportunity and receive volunteer registrations](https://support.zeffy.com/how-can-i-create-a-volunteering-opportunity-and-receive-volunteer-registrations)
 

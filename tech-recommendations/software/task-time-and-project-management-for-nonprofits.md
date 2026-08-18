@@ -10,11 +10,13 @@ These tools enhance collaboration, boost efficiency, and ensure that nonprofit t
 
 ### Monday.com <a href="#monday.com2" id="monday.com2"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/26" alt="Monday.com for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/monday.svg" alt="Monday.com" width="188"><figcaption></figcaption></figure></div>
 
 [Monday.com](https://monday.com/product) provides a robust and integration-rich platform for project and task management and much more. Nonprofits can get the tool for [FREE for up to 10 users.](https://monday.com/nonprofits/eligibility) For over 10 users, you can get the enterprise plan for a 33% discount per user.
 
 ### Trello
+
+<div align="left"><figure><img src="../../.gitbook/assets/trello.svg" alt="Trello" width="75"><figcaption></figcaption></figure></div>
 
 [Trello offers a free tier](https://trello.com/pricing) accessible to all users, providing a versatile platform for project management. Nonprofits can create a Trello Workspace at no cost, enabling efficient collaboration and organization for their initiatives.
 

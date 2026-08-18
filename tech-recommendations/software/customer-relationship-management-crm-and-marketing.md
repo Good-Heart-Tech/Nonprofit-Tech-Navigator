@@ -22,7 +22,7 @@ These applications empower organizations to manage donor relationships, track in
 
 ### Brevo (formerly SendInBlue) <a href="#brevo-formerly-sendinblue-3" id="brevo-formerly-sendinblue-3"></a>
 
-<div align="left" data-full-width="false"><img src="https://docs.goodhearttech.org/public_photo/55" alt="" height="22" width="101"></div>
+<div align="left"><figure><img src="../../.gitbook/assets/brevo.svg" alt="Brevo" width="150"><figcaption></figcaption></figure></div>
 
 [Brevo (formerly Sendinblue) ](https://www.brevo.com/pricing/)allows you to send out emails easily and is an excellent solution for sending emails from WordPress. Using the Fluent SMTP WordPress plugin, you can use Brevo (previously SendinBlue) to send emails from your websites for things like invoices, receipts, and contact forms. The free tier is available for up to 300 emails per day and unlimited contacts.
 
@@ -33,5 +33,7 @@ These applications empower organizations to manage donor relationships, track in
 [Salesforce ](https://www.salesforce.org/products/nonprofit-pricing/#power-of-us)offers a [free plan for nonprofits accommodating up to 10 users](https://www.salesforce.org/products/nonprofit-pricing/#power-of-us). It can empower nonprofits with robust customer relationship management (CRM) capabilities, enabling efficient donor and volunteer management, fundraising, and program tracking. This solution can be difficult to configure if you don't have a lot of experience with the platform.&#x20;
 
 ### Microsoft Cloud for Nonprofit (Microsoft 365 Dynamics)
+
+<div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft 365" width="188"><figcaption></figcaption></figure></div>
 
 [Microsoft Cloud for Nonprofit](https://learn.microsoft.com/en-us/industry/nonprofit/overview) is a powerful suite of tools designed to help nonprofits manage their operations, engage with donors and volunteers, and deliver programs effectively. All these tools are free for nonprofits, but unlocking their full potential requires careful configuration. While nonprofits can benefit significantly from this platform, setting it up without dedicated IT support can be challenging due to its complexity and the need for technical expertise.

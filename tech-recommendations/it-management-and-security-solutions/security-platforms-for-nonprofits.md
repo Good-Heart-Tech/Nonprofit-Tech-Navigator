@@ -24,7 +24,7 @@ Need help choosing the right fit? See [Remote Access & Zero Trust for Nonprofits
 
 #### Cloudflare WARP <a href="#cloudflare2" id="cloudflare2"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/10" alt="Cloudflare free WARP VPN and Zero-Trust for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare WARP" width="188"><figcaption></figcaption></figure></div>
 
 [Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) is free, and the app is straightforward to use. You can download the software for free and enable the VPN without creating an account. You know your internet is secure when the Cloudflare cloud is enabled (orange). Cloudflare runs one of the most reliable networks on the planet.
 
@@ -34,6 +34,8 @@ Need help choosing the right fit? See [Remote Access & Zero Trust for Nonprofits
 
 ### Cloudflare Zero Trust <a href="#cloudflare2" id="cloudflare2"></a>
 
+<div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare Zero Trust" width="188"><figcaption></figcaption></figure></div>
+
 [Cloudflare Zero Trust](https://www.cloudflare.com/products/zero-trust/) has a free tier for up to 50 users that allows you to securely connect all your organization's endpoints to the same secure network, even if they are all over the world. It can ensure your computers' network traffic is secure and allows users to access your network and applications quickly. You can even build application tunnels (reverse proxy), eliminating the need for open ports on your network firewall. If you've got a website or other app you host, it can become much more secure, even on the free tier of Cloudflare Zero Trust.
 
 {% content-ref url="../../tech-guides/security-guides/cloudflare-zero-trust-setup.md" %}
@@ -41,6 +43,8 @@ Need help choosing the right fit? See [Remote Access & Zero Trust for Nonprofits
 {% endcontent-ref %}
 
 ### Twingate
+
+<div align="left"><figure><img src="../../.gitbook/assets/twingate.png" alt="Twingate" width="75"><figcaption></figcaption></figure></div>
 
 [Twingate](https://www.twingate.com/) is a strong fit for small nonprofits that need simple, secure access to private resources. The free plan supports up to **5 users**, which makes it a practical starting point for smaller teams.
 
@@ -62,7 +66,7 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 ## Security Information and Event Management (SIEM) <a href="#security-information-and-event-management-siem-1" id="security-information-and-event-management-siem-1"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/32" alt="Blumria SIEM for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Blumira.png" alt="Blumira" width="188"><figcaption></figcaption></figure></div>
 
 [Blumira](https://www.blumira.com/) is a SIEM tool you can set up and use **for free** to collect and analyze security data from your Microsoft 365 environment. The platform automatically detects security risks by looking at the fine details and activity within your Microsoft 365 environment. You can configure email alerts and see your security posture in an easy-to-maneuver cloud-hosted portal.
 

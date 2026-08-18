@@ -36,7 +36,7 @@ Give Lively is a free fundraising platform that relies on payment gateways like 
 
 ### **Stripe** <a href="#stripe2" id="stripe2"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/16" alt="Stripe donation platform for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/stripe.png" alt="Stripe" width="188"><figcaption></figcaption></figure></div>
 
 [Stripe](https://stripe.com/) is an industry-standard payment processor used all over the world.  [Stripe offers a discount](https://support.stripe.com/questions/fee-discount-for-nonprofit-organizations) on transaction fees when you go through the nonprofit application process. They provide a user-friendly interface for donation forms that can be easily embedded on your website with a WordPress plugin called [GiveWP](https://givewp.com/).
 

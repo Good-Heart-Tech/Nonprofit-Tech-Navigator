@@ -10,7 +10,7 @@ We recommend modern printers and scanners that allow for secure imaging to cloud
 
 ## Brother
 
-![Brother printers for nonprofits](https://learn.goodhearttech.org/~gitbook/image?url=https%3A%2F%2Fdocs.goodhearttech.org%2Fpublic_photo%2F24\&width=768\&dpr=4\&quality=100\&sign=80ead0d07ff6f7b697c936db4cb8fa68c1bdc25b953c80883681e99ad057ff0b)
+![Brother printers for nonprofits](../../.gitbook/assets/brother.png)
 
 We recommend **Brother printers** because they’re reliable, cost-effective, and capable of handling most printing and scanning needs with ease.
 

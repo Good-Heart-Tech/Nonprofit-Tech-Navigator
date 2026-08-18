@@ -28,6 +28,8 @@ If you want a simple place to begin, these are the strongest options for most no
 
 #### Microsoft Copilot
 
+<div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft Copilot" width="188"><figcaption></figcaption></figure></div>
+
 [Microsoft Copilot](https://copilot.microsoft.com/) is a practical starting point for drafting emails, rewriting text, summarizing content, and answering everyday questions.
 
 * **Best for:** Microsoft 365 organizations
@@ -35,6 +37,8 @@ If you want a simple place to begin, these are the strongest options for most no
 * **Start here:** [Open Copilot with your Microsoft 365 account](https://m365.cloud.microsoft/chat/?auth=2)
 
 #### Google Gemini
+
+<div align="left"><figure><img src="../../.gitbook/assets/googlegemini.svg" alt="Google Gemini" width="75"><figcaption></figcaption></figure></div>
 
 [Google Gemini](https://gemini.google.com/app) works well for brainstorming, writing, research, and organizing information. It is a natural fit for teams already working in Google Workspace.
 
@@ -44,6 +48,8 @@ If you want a simple place to begin, these are the strongest options for most no
 
 #### Claude for Nonprofits
 
+<div align="left"><figure><img src="../../.gitbook/assets/anthropic.svg" alt="Anthropic Claude" width="75"><figcaption></figcaption></figure></div>
+
 [Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits) is especially strong for drafting, editing, summarizing long documents, and helping staff think through complex ideas in plain language.
 
 * **Best for:** Writing-heavy teams and long-form analysis
@@ -52,6 +58,8 @@ If you want a simple place to begin, these are the strongest options for most no
 * **Learn more:** [Get started with Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits)
 
 #### ChatGPT for Nonprofits
+
+<div align="left"><figure><img src="../../.gitbook/assets/openai.svg" alt="OpenAI ChatGPT" width="188"><figcaption></figcaption></figure></div>
 
 [OpenAI for Nonprofits](https://openai.com/index/introducing-openai-for-nonprofits/) gives eligible nonprofits discounted access to ChatGPT Business and ChatGPT Enterprise. It is a strong fit for drafting, brainstorming, quick editing, and building custom GPTs for repeatable workflows.
 
@@ -73,6 +81,8 @@ If you want a simple place to begin, these are the strongest options for most no
 
 #### Canva
 
+<div align="left"><figure><img src="../../.gitbook/assets/Canva.jpg" alt="Canva" width="188"><figcaption></figcaption></figure></div>
+
 [Canva](https://www.canva.com/) remains one of the best design platforms for nonprofits. It is easy to learn and works well for social posts, flyers, presentations, event graphics, and basic brand materials.
 
 * **Nonprofit access:** Eligible nonprofits can get Canva premium benefits
@@ -81,6 +91,8 @@ If you want a simple place to begin, these are the strongest options for most no
 * **Related guide:** [Design & Creative Tools for Nonprofits](design-and-creative-tools-for-nonprofits.md)
 
 #### Adobe Express for Nonprofits
+
+<div align="left"><figure><img src="../../.gitbook/assets/adobe.svg" alt="Adobe" width="150"><figcaption></figcaption></figure></div>
 
 [Adobe Express](https://www.adobe.com/express/) offers a strong free option for eligible nonprofits. It includes Adobe Express Premium and built-in Firefly generative AI features.
 
@@ -94,6 +106,8 @@ If you want a simple place to begin, these are the strongest options for most no
 AI meeting assistants can record, transcribe, summarize, and pull out action items. They help small teams keep momentum without relying on one person’s notes.
 
 #### Fathom
+
+<div align="left"><figure><img src="../../.gitbook/assets/fathom.svg" alt="Fathom" width="75"><figcaption></figcaption></figure></div>
 
 [Fathom](https://fathomvideo.typeform.com/nonprofits) records meetings, creates transcripts, and highlights action items and key moments.
 
@@ -110,6 +124,8 @@ AI meeting assistants can record, transcribe, summarize, and pull out action ite
 * **Cost:** Free plan available, with paid upgrades
 
 #### Otter.ai
+
+<div align="left"><figure><img src="../../.gitbook/assets/otter.svg" alt="Otter.ai" width="188"><figcaption></figcaption></figure></div>
 
 [Otter.ai](https://otter.ai/) provides live transcription, speaker identification, summaries, and collaboration features. Nonprofits can also access a discount through TechSoup.
 
@@ -130,8 +146,12 @@ Free AI tools are easy to test. Review privacy settings and output quality befor
 
 #### Google NotebookLM
 
+<div align="left"><figure><img src="../../.gitbook/assets/notebooklm.svg" alt="Google NotebookLM" width="75"><figcaption></figcaption></figure></div>
+
 [Google NotebookLM](https://notebooklm.google/) helps you work with your own source materials. It can summarize documents, organize notes, and generate audio-style overviews.
 
 #### Suno
+
+<div align="left"><figure><img src="../../.gitbook/assets/suno.svg" alt="Suno" width="75"><figcaption></figcaption></figure></div>
 
 [Suno](https://www.suno.ai/) focuses on AI-generated music and audio. It is more niche, but it can help with creative campaigns and simple audio experiments.

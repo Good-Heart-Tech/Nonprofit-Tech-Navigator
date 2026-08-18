@@ -9,7 +9,7 @@ description: >-
 
 Canva
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/22" alt="Canva design platform for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/Canva.jpg" alt="Canva" width="188"><figcaption></figcaption></figure></div>
 
 [Canva](https://canva.com/) offers nonprofits [10 free users premium design tools](https://www.canva.com/canva-for-nonprofits/). You can design your logo and other branding materials on the platform and collaborate with your team on designs. They even have [a great QR code generator](https://www.canva.com/apps/qr-code), which is excellent for printing out for events & fundraisers. You can design logos, business cards, flyers, and more.&#x20;
 
@@ -27,7 +27,7 @@ These three tools offer nonprofits a complete design and editing suite without t
 
 ### Adobe <a href="#adobe2" id="adobe2"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/53" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/adobe.svg" alt="Adobe" width="150"><figcaption></figcaption></figure></div>
 
 Adobe offers numerous free and discounted offerings, and [the best way to get them is through TechSoup](https://www.techsoup.org/adobe). Nonprofits can leverage a comprehensive suite of creative design applications and services. Create stunning visuals, design captivating websites, and develop engaging marketing materials to support your cause.&#x20;
 

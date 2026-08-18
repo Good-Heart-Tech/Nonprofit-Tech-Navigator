@@ -9,7 +9,7 @@ icon: wordpress-simple
 
 ### **WordPress Overview** <a href="#wordpress4" id="wordpress4"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/18" alt="WordPress for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/WordPress.png" alt="WordPress" width="188"><figcaption></figcaption></figure></div>
 
 [WordPress](https://wordpress.org/) is a powerful and widely-used content management system (CMS) that powers **over 40% of all websites on the internet**. Its flexibility and vast ecosystem of plugins and tools make it an excellent choice for creating professional, secure, and highly customizable websites. Whether you're running a nonprofit, small business, or personal blog, WordPress has something to offer.
 
@@ -29,7 +29,7 @@ icon: wordpress-simple
 
 ### **Avada (WordPress Theme)** <a href="#avada3" id="avada3"></a>
 
-<div align="left" data-full-width="false"><figure><img src="https://docs.goodhearttech.org/public_photo/20" alt="Avada for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/avada.webp" alt="Avada" width="188"><figcaption></figcaption></figure></div>
 
 [Avada](https://avada.com/) is an excellent WordPress theme choice for nonprofits, offering a combination of flexibility, user-friendliness, and affordability. For [one-time cost of $70](https://themeforest.net/item/avada-responsive-multipurpose-theme/2833226), Avada provides access to a wide range of features that make building and managing a nonprofit website seamless, even for those with limited technical expertise.
 

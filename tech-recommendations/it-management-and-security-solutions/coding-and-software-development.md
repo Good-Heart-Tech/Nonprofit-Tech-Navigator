@@ -4,7 +4,7 @@ Coding and software development can be invaluable for nonprofits seeking custom 
 
 ### GitHub
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/47" alt="" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/github.png" alt="GitHub" width="188"><figcaption></figcaption></figure></div>
 
 [GitHub](https://github.com/) is the most popular source code management platform in the world. Microsoft owns this product, and they offer a [free version for nonprofits](https://socialimpact.github.com/). Most nonprofits don't need this tool, but it can be beneficial if you deal with programming or code. Free nonprofit setup steps:
 

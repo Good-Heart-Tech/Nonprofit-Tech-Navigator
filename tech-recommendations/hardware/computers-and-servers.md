@@ -47,6 +47,8 @@ Here are some of the places you may consider looking for PCs for your nonprofit:
 
 #### HP
 
+<div align="left"><figure><img src="../../.gitbook/assets/hp.png" alt="HP" width="75"><figcaption></figcaption></figure></div>
+
 HP has great PCs available:
 
 * HP Laptops - [16 GB 512 GB Business | HP® Store](https://www.hp.com/us-en/shop/vwa/business-solutions/bizcat=Laptop\&mem=16-GB\&ssd=Yes\&stor=512-GB)
