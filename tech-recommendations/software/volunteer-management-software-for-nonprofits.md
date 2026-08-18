@@ -26,7 +26,7 @@ Although [Zeffy ](https://www.zeffy.com/en-US/referral?referredByOrganizationId=
 
 ### VolunteerMatch <a href="#volunteermatch4" id="volunteermatch4"></a>
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/51" alt="VolunteerMatch volunteer managment for nonprofits" width="188"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/VolunteerMatch.jpg" alt="VolunteerMatch" width="188"><figcaption></figcaption></figure></div>
 
 [VolunteerMatch ](https://www.volunteermatch.org/)provides a national digital infrastructure connecting volunteers and nonprofit organizations. It offers free basic accounts for nonprofits and recruiting tools for VolunteerMatch Members. By facilitating connections between passionate volunteers and nonprofits, VolunteerMatch helps organizations find highly qualified individuals who can contribute their time, money, and support.&#x20;
 
