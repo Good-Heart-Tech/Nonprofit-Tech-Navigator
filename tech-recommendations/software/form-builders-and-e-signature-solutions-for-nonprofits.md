@@ -4,6 +4,10 @@ icon: signature
 
 # Form Builders & e-Signature Solutions for Nonprofits
 
+{% hint style="success" %}
+**If you only pick one:** Use BoldSign for e-signatures (free for nonprofits). For everyday forms, use Google Forms or Microsoft Forms, whichever matches the suite you already have.
+{% endhint %}
+
 ## eSignature platforms
 
 eSignature platforms offer numerous advantages for nonprofits, including increased efficiency, reduced costs, and enhanced security. By eliminating the need for physical signatures, these platforms streamline workflows, save time, and reduce paper consumption. Some eSignature platforms offer free or discounted plans specifically designed for nonprofits.

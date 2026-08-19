@@ -7,6 +7,10 @@ description: >-
 
 # 🎨 Design & Creative Tools for Nonprofits
 
+{% hint style="success" %}
+**If you only pick one:** Start with Canva. Eligible nonprofits get premium design tools for free, and it covers flyers, social posts, presentations, and event graphics.
+{% endhint %}
+
 Canva
 
 <div align="left"><figure><img src="../../.gitbook/assets/Canva.jpg" alt="Canva" width="188"><figcaption></figcaption></figure></div>

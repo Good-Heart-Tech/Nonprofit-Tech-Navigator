@@ -2,6 +2,10 @@
 
 Fax solutions were once challenging but can now be manageable with cloud technologies. Nonprofits benefit from significant discounts, streamlined processes, secure communications, and reduced costs.&#x20;
 
+{% hint style="success" %}
+**If you only pick one:** HumbleFax. It is $10/month for unlimited faxing and unlimited users, or $25/month if you need HIPAA-secure faxing.
+{% endhint %}
+
 #### HumbleFax
 
 <div align="left"><figure><img src="../../.gitbook/assets/humblefaxLogo.png" alt="" width="300"><figcaption></figcaption></figure></div>

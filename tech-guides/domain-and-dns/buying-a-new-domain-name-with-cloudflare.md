@@ -26,6 +26,10 @@ icon: globe
 
 Great job, you own a domain! :clap: But what can you do with it? Check out our other guides:
 
-{% content-ref url="/broken/pages/sVVuR7j8RbOI4gG8Ghcb" %}
-[Broken link](/broken/pages/sVVuR7j8RbOI4gG8Ghcb)
+{% content-ref url="email-sender-validation-using-dns-spf-dkim-and-dmarc.md" %}
+[email-sender-validation-using-dns-spf-dkim-and-dmarc.md](email-sender-validation-using-dns-spf-dkim-and-dmarc.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../tech-recommendations/it-management-and-security-solutions/website-and-dns-services-for-nonprofits.md" %}
+[website-and-dns-services-for-nonprofits.md](../../tech-recommendations/it-management-and-security-solutions/website-and-dns-services-for-nonprofits.md)
 {% endcontent-ref %}

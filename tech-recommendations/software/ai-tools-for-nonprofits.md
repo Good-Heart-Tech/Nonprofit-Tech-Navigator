@@ -10,6 +10,10 @@ icon: user-robot
 
 AI tools can save time on writing, design, research, and meeting follow-up. The best choice depends on your existing tools, budget, and comfort with sharing data.
 
+{% hint style="success" %}
+**If you only pick one:** Use Microsoft Copilot if your team is on Microsoft 365, or Google Gemini if your team is on Google Workspace.
+{% endhint %}
+
 {% hint style="warning" %}
 Do not paste donor data, HR records, legal documents, or other sensitive information into a consumer AI tool unless your organization has approved it.
 {% endhint %}

@@ -7,6 +7,10 @@ icon: wordpress-simple
 
 # WordPress Website Hosting for Nonprofits
 
+{% hint style="success" %}
+**If you only pick one:** WordPress with the Avada theme. Good Heart Tech partners also receive free WordPress hosting and maintenance.
+{% endhint %}
+
 ### **WordPress Overview** <a href="#wordpress4" id="wordpress4"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/WordPress.png" alt="WordPress" width="188"><figcaption></figcaption></figure></div>

@@ -2,6 +2,10 @@
 
 Backup software ensures data security and continuity by regularly backing up critical information. This technology minimizes the risk of data loss, providing nonprofits with a reliable safeguard against potential disruptions and fostering operational resilience.
 
+{% hint style="success" %}
+**If you only pick one:** Do not treat OneDrive or Google Drive as your backup. For Microsoft 365 or Google Workspace, start with CubeBackup ($2/user/year for nonprofits). Use Veeam or Synology if you need a full backup of PCs or servers.
+{% endhint %}
+
 ### **Microsoft OneDrive** <a href="#microsoft-onedrive0" id="microsoft-onedrive0"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/onedrive.png" alt="Microsoft OneDrive" width="188"><figcaption></figcaption></figure></div>

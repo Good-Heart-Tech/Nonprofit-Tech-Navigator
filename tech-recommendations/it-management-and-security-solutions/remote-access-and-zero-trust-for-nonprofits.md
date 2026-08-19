@@ -9,6 +9,10 @@ icon: road-lock
 
 Remote access should not require exposing your network to the public internet. We recommend zero trust platforms instead of traditional VPNs because they verify users and devices before granting access.
 
+{% hint style="success" %}
+**If you only pick one:** Start with Twingate if you have 5 or fewer users. Choose Cloudflare Zero Trust if you already use Cloudflare or need room to grow past 5 users.
+{% endhint %}
+
 {% hint style="info" %}
 If you only need safer internet access on laptops and phones, start with [Cloudflare WARP](../../tech-guides/security-guides/securing-network-traffic-on-your-pc-using-cloudflare-warp.md). If users need access to office resources, use a zero trust platform.
 {% endhint %}

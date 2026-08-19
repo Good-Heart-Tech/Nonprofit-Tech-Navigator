@@ -2,6 +2,10 @@
 
 Strong security doesn’t have to be complicated or expensive. Nonprofits can make a significant impact by focusing on a few proven practices that block the majority of attacks. The recommendations below highlight practical tools and configurations—like multi-factor authentication, DNS protections, and free assessments—that any nonprofit team can implement to reduce risks and safeguard their mission.
 
+{% hint style="success" %}
+**If you only pick one:** Enforce MFA everywhere first. Then set SPF, DKIM, and DMARC on your email domain. Those two steps stop most account takeovers and email impersonation.
+{% endhint %}
+
 ## Multi-factor Authentication (MFA) <a href="#multi-factor-authentication0" id="multi-factor-authentication0"></a>
 
 {% hint style="info" %}

@@ -2,6 +2,10 @@
 
 Enhance your nonprofit's connectivity with these networking and hardware recommendations. Whether deploying a new network or refining existing setups, our selections are geared for optimal performance and affordability.
 
+{% hint style="success" %}
+**If you only pick one:** HP Aruba Instant On for office Wi-Fi and switching. Add a Mobile Beacon hotspot if staff need reliable internet in the field.
+{% endhint %}
+
 ### Mobile Hotspots
 
 <div align="left"><figure><img src="../../.gitbook/assets/mobile-beacon.png" alt="" width="180"><figcaption></figcaption></figure></div>

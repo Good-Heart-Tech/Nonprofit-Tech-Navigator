@@ -2,6 +2,10 @@
 
 Coding and software development can be invaluable for nonprofits seeking custom solutions tailored to their specific operational needs, improving efficiency and functionality. However, not all nonprofits may require these capabilities, as some can effectively leverage existing technologies without the need for extensive coding, directing their resources toward other mission-critical areas.
 
+{% hint style="success" %}
+**If you only pick one:** Skip this unless your team writes code. If you do, GitHub offers a free nonprofit plan.
+{% endhint %}
+
 ### GitHub
 
 <div align="left"><figure><img src="../../.gitbook/assets/github.png" alt="GitHub" width="188"><figcaption></figcaption></figure></div>

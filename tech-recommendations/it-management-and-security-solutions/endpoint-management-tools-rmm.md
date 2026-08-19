@@ -2,6 +2,10 @@
 
 Remote monitoring and management tools allow an organization to remote into, manage, update, and inventory all endpoints. This enables the organization to respond to incidents and address security vulnerabilities effectively.&#x20;
 
+{% hint style="success" %}
+**If you only pick one:** Most small nonprofits do not need an RMM. If you do manage a fleet of PCs, look at Level RMM and ask for nonprofit pricing.
+{% endhint %}
+
 #### Level RMM
 
 <div align="left"><figure><img src="../../.gitbook/assets/Level-clearbg.png" alt="" width="257"><figcaption></figcaption></figure></div>

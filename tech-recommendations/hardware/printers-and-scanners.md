@@ -4,6 +4,10 @@ description: Printing & imaging recommendations for nonprofits.
 
 # 🖨️ Printers & Scanners
 
+{% hint style="success" %}
+**If you only pick one:** A Brother black-and-white laser (such as the HLL2395DW). Use a print shop when you occasionally need color.
+{% endhint %}
+
 ## General Recommendations
 
 We recommend modern printers and scanners that allow for secure imaging to cloud services. For example, the model below can scan directly to cloud services like OneDrive, Google Drive, SharePoint, and any email address.

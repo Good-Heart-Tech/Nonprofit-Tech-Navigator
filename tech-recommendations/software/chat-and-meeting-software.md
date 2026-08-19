@@ -2,6 +2,10 @@
 
 Communication apps like Microsoft Teams, Google Chat, and Slack serve as integral tools for nonprofits, facilitating seamless telephony and chat functionalities. These platforms enhance collaboration among team members, enabling efficient communication, real-time information sharing, and streamlined coordination, ultimately fostering increased productivity and organizational cohesion within nonprofit environments.
 
+{% hint style="success" %}
+**If you only pick one:** Use Microsoft Teams if you are on Microsoft 365, or Google Chat and Meet if you are on Google Workspace. Both are included in the free nonprofit licenses. Add Slack only if you need a separate chat workspace.
+{% endhint %}
+
 {% hint style="info" %}
 Look for Phone Systems? [Click Here.](../phone-systems-for-nonprofits.md)
 {% endhint %}

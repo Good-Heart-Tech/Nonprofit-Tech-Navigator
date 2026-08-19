@@ -2,14 +2,16 @@
 
 Volunteer and event management tools are essential for nonprofits, streamlining the process of recruiting, organizing, and engaging people. Volunteer platforms help match volunteers with opportunities, track participation, and foster a sense of community. Dedicated conference tools can run the full event lifecycle—ticketing, speakers, sponsors, and budgeting—when a volunteer signup tool is not enough.
 
-### Point <a href="#point3" id="point3"></a>
+{% hint style="success" %}
+**If you only pick one:** Use [Point](https://pointapp.org/nonprofit-pricing/) for volunteer recruiting and scheduling. Use [Goots Conference](https://conference.goots.app/) if you run a ticketed conference or similar event.
+{% endhint %}
 
-<div align="left"><figure><img src="https://docs.goodhearttech.org/public_photo/19" alt="" width="188"><figcaption></figcaption></figure></div>
+### Point <a href="#point3" id="point3"></a>
 
 [Point App](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj26QkHdW43Rxqj3zfPSjf43Wg2w04\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27) is a **free** web and mobile app that makes volunteer management and communication a breeze. Picture Point as Eventbrite meets Salesforce, but specifically for volunteer management. There are many features available for free: [the ability to manage volunteers](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj4cm2zwW45Szks4fDYjCW1JDwVN1LBFGdW45TRgF3T3KWKW3K1M5V49KwrLW3F4G5c3P4GBGW1LBbZd3zb1Cw0\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27), [the ability to recruit volunteers](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj4cm2zwW45Szks4fDYjCW1JDwVN1LBFGdW45TRgF3T3KWKW3K1M5V49KwrLW3F4G5c3P4GBGW1LDhH749S89K1V3\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27), and [the ability to report on volunteer impact](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj4cm2zwW45Szks4fDYjCW1JDwVN1LBFGdW45TRgF3T3KWKW3K1M5V49KwrLW3F4G5c3P4GBGW1LDhHn43Whb70\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27). Set up a Core account and get start the process to get verfied [here.](https://pointapp.org/nonprofit-pricing/)
 
-{% content-ref url="/broken/pages/WM9oxIPZDt14lf2JEXLi" %}
-[Broken link](/broken/pages/WM9oxIPZDt14lf2JEXLi)
+{% content-ref url="../../tech-guides/software-guides/set-up-point-for-volunteer-management.md" %}
+[set-up-point-for-volunteer-management.md](../../tech-guides/software-guides/set-up-point-for-volunteer-management.md)
 {% endcontent-ref %}
 
 ### Golden Volunteer

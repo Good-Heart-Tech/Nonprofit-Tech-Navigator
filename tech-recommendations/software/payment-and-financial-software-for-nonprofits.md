@@ -2,6 +2,10 @@
 
 These tools enable seamless online transactions and finance management, providing a convenient and trustworthy way for supporters to contribute to a nonprofit's mission and manage their money easily.
 
+{% hint style="success" %}
+**If you only pick one:** Start with Zeffy or Givebutter. Both are free fundraising platforms with donation forms, event ticketing, and a donor CRM. Add Stripe or Square later if you need a payment processor for in-person or website checkout.
+{% endhint %}
+
 {% hint style="info" %}
 Every organization's reporting, integration, and communication needs differ, so we recommend signing up for the free versions of the tools you like most to find the solution that meets your needs.  You may find multiple free offerings that meet different needs.&#x20;
 {% endhint %}

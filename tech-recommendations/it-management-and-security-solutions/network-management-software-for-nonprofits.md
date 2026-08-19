@@ -6,6 +6,10 @@ icon: network-wired
 
 Managing a nonprofit’s network infrastructure effectively is crucial for ensuring security, performance, and reliability. Fortunately, several powerful network monitoring and management tools offer premium subscriptions free to nonprofits. Below are two excellent options:
 
+{% hint style="success" %}
+**If you only pick one:** Skip this page unless you have IT staff. If you do need network monitoring, start with ntop.
+{% endhint %}
+
 ### ntop
 
 <div align="left"><figure><img src="../../.gitbook/assets/ntop.png" alt="" width="171"><figcaption></figcaption></figure></div>

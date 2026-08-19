@@ -2,6 +2,10 @@
 
 These tools enhance collaboration, boost efficiency, and ensure that nonprofit teams can effectively manage their workflows, deadlines, and project timelines, ultimately contributing to the successful execution of their missions.
 
+{% hint style="success" %}
+**If you only pick one:** Use Kimai for time tracking (Good Heart Tech uses it internally). Use Trello if you only need a simple shared board.
+{% endhint %}
+
 ### Kimai <a href="#monday.com2" id="monday.com2"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/Kimai.png" alt="" width="375"><figcaption></figcaption></figure></div>

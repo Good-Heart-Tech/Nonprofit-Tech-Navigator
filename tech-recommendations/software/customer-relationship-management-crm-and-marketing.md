@@ -2,6 +2,10 @@
 
 These applications empower organizations to manage donor relationships, track interactions, and streamline communication. By utilizing CRM and Email Marketing Tools, nonprofits can enhance engagement, personalize contact with supporters, and strategically cultivate lasting relationships, thereby optimizing their outreach efforts and maximizing impact.
 
+{% hint style="success" %}
+**If you only pick one:** Start with Givebutter or Zeffy. Both are free for nonprofits and cover donations plus email. Choose Salesforce or Microsoft Cloud for Nonprofit only if you have someone who can configure them.
+{% endhint %}
+
 ### **Givebutter** <a href="#zeffy0" id="zeffy0"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/givebutter logo.svg" alt=""><figcaption></figcaption></figure></div>

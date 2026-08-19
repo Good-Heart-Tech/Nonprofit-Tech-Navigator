@@ -2,6 +2,10 @@
 
 For nonprofits, procuring computers and other tech equipment can be challenging on a budget. Below, we outline some great resources for finding low-cost or free computers.
 
+{% hint style="success" %}
+**If you only pick one:** Buy a Windows 11 Pro laptop with 16 GB RAM and a 512 GB SSD. TechSoup and Dell Refurbished are the usual starting points.
+{% endhint %}
+
 {% hint style="info" %}
 We only recommend purchasing Windows 11 computers. [Windows 10 became obsolete in October 2025](https://www.microsoft.com/en-us/windows/end-of-support?r=1).
 {% endhint %}

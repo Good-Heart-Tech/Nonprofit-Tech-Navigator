@@ -7,6 +7,10 @@ icon: ethernet
 Reliable internet keeps your nonprofit running smoothly—whether you’re using VoIP phones, cloud services, or shared files.
 
 {% hint style="success" %}
+**If you only pick one:** Choose fiber or cable broadband if it is available at your address. Fill out [this form](https://forms.office.com/r/4qwPdGRpx0) and Good Heart Tech can compare options and pricing for you.
+{% endhint %}
+
+{% hint style="success" %}
 Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.office.com/r/4qwPdGRpx0).
 {% endhint %}
 

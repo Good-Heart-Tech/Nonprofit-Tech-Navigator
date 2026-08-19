@@ -2,6 +2,10 @@
 
 These apps empower nonprofits with efficient digital tools. They facilitate seamless communication, enabling remote teamwork through email clients and collaboration platforms. Cloud storage services ensure secure file sharing, while word processing and spreadsheet applications enhance productivity. These solutions amplify nonprofit effectiveness, fostering streamlined operations, impactful outreach, and polished documentation through integrated spell-checking.
 
+{% hint style="success" %}
+**If you only pick one:** Apply for free Microsoft 365 or Google Workspace first. That is your email, files, chat, and meetings. Then add a password manager and backups. See the [Getting Started roadmap](../../getting-started-a-tech-setup-roadmap-for-new-nonprofits.md).
+{% endhint %}
+
 {% hint style="info" %}
 Microsoft 365 and Google Workspace are the leading productivity platforms nonprofits use worldwide. Both can be great for your nonprofit, but understanding your organization's needs and the pros & cons of each solution can help you make an informed decision on which to use.
 {% endhint %}

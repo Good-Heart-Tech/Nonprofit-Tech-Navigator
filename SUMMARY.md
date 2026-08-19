@@ -1,6 +1,7 @@
 # Table of contents
 
 * [❤️ Nonprofit Tech Navigator](README.md)
+* [Getting Started: A Tech Setup Roadmap for New Nonprofits](getting-started-a-tech-setup-roadmap-for-new-nonprofits.md)
 * [Free IT Support from Good Heart Tech](free-it-support-from-good-heart-tech.md)
 * [Web-Based Tools for Nonprofits](web-based-tools-for-nonprofits.md)
 

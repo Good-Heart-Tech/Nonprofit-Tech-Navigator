@@ -4,6 +4,10 @@ Password and documentation platforms provide nonprofits with a secure infrastruc
 
 You should never use passwords in conventional Excel, Word, or Google Docs documents. Instead, use robust encryption mechanisms and dedicated password management systems to safeguard sensitive credentials, ensuring higher security and data protection.
 
+{% hint style="success" %}
+**If you only pick one:** Start with NordPass (up to 35% off for nonprofits) or 1Password Teams (ask for the 50% nonprofit rate). Either is far safer than a shared spreadsheet.
+{% endhint %}
+
 {% hint style="info" %}
 Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-security-token.md](../hardware/mfa-security-token.md "mention")
 {% endhint %}

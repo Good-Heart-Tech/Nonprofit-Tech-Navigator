@@ -6,6 +6,10 @@ description: >-
 
 # 🔑 MFA/Security Token
 
+{% hint style="success" %}
+**If you only pick one:** Apply for free YubiKeys through Yubico's Secure It Forward program, then enroll them as security keys in Microsoft 365 or Google Workspace.
+{% endhint %}
+
 ## Yubico YubiKeys
 
 <div align="left"><figure><img src="../../.gitbook/assets/yubico_logo.webp" alt="" width="159"><figcaption></figcaption></figure></div>

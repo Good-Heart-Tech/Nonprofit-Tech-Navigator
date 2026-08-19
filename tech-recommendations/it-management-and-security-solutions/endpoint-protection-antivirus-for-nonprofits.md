@@ -2,6 +2,10 @@
 
 **Endpoint Protection (Antivirus)** is essential for nonprofits, safeguarding devices and networks from malware, phishing, and ransomware. It protects sensitive data, prevents costly disruptions, and strengthens digital infrastructure, allowing nonprofits to focus on their mission without compromising security.
 
+{% hint style="success" %}
+**If you only pick one:** Use Microsoft Defender for Endpoint if you already have Microsoft 365 nonprofit licensing. Otherwise, look at ThreatDown (Malwarebytes) through TechSoup.
+{% endhint %}
+
 ## Malwarebytes ThreatDown
 
 <div align="left"><figure><img src="../../.gitbook/assets/malwarebytes-threatdown.png" alt="" width="250"><figcaption></figcaption></figure></div>

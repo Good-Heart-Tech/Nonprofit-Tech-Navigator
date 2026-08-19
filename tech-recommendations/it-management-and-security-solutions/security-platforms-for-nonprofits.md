@@ -2,6 +2,10 @@
 
 Security tools are essential for nonprofits to protect data, prevent unauthorized access, and maintain operational integrity. Implementing strong authentication, network monitoring, and endpoint protection reduces cyber risks and ensures a secure environment to support their mission.
 
+{% hint style="success" %}
+**If you only pick one:** Install Cloudflare WARP on laptops and phones for safer internet. Add Control D if you want DNS filtering that blocks malicious and inappropriate sites.
+{% endhint %}
+
 {% hint style="info" %}
 If you're looking for password managers, those are listed [in this article](https://learn.goodhearttech.org/it-management-and-security-solutions/password-and-documentation-platforms).
 {% endhint %}

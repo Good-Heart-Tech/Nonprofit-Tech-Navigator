@@ -6,6 +6,10 @@ icon: sidebar
 
 For nonprofits relying on Google Workspace or Microsoft 365 for email, choosing the right browser and extensions can enhance productivity, security, and ease of use. Both Google Chrome and Microsoft Edge are built on the same Chromium engine, but they offer specific advantages when used alongside their respective email solutions.&#x20;
 
+{% hint style="success" %}
+**If you only pick one:** Use Google Chrome with Google Workspace, or Microsoft Edge with Microsoft 365. Then install [CyberDrain Check](https://cyberdrain.com/products/check) on every computer to help block phishing login pages.
+{% endhint %}
+
 ## Web Browsers
 
 #### **Google Workspace and Google Chrome**

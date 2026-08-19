@@ -8,6 +8,10 @@ description: >-
 # 📞 Phone Systems for Nonprofits
 
 {% hint style="success" %}
+**If you only pick one:** Grasshopper if you will never need desk phones. net2phone if you use Google Workspace. OIT VoIP if you use Microsoft 365. Skip Microsoft Teams Voice unless you have dedicated IT support.
+{% endhint %}
+
+{% hint style="info" %}
 **What are softphones?**\
 Softphones include all software-based methods of using your phone system, such as mobile apps (iOS/Android) or apps on your computer. They’re a great way to avoid the cost of physical desk phones.
 {% endhint %}

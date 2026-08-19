@@ -2,6 +2,10 @@
 
 Website and DNS services, including hosting and components, are vital for nonprofits, offering a digital presence and reliable infrastructure. These tools facilitate easy website management, ensure seamless hosting, and provide essential features for online visibility.
 
+{% hint style="success" %}
+**If you only pick one:** Put DNS and domain registration on Cloudflare. It is free to host DNS, domains are near wholesale pricing, and you get SSL, caching, and basic DDoS protection.
+{% endhint %}
+
 ## Domain Registrar & DNS Hosting <a href="#domain-registrar-and-dns-hosting4" id="domain-registrar-and-dns-hosting4"></a>
 
 #### **Cloudflare** <a href="#cloudflare4" id="cloudflare4"></a>
