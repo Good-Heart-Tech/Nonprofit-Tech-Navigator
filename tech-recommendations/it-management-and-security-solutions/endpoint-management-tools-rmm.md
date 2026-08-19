@@ -1,4 +1,5 @@
 ---
+icon: display
 description: >-
   Remote monitoring and management tools for nonprofit fleets when a spreadsheet is no longer enough.
 ---

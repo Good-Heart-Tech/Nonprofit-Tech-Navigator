@@ -1,4 +1,5 @@
 ---
+icon: laptop
 description: >-
   Buy Windows 11 Pro PCs with enough RAM; skip Windows 10. Server notes for small nonprofits.
 ---

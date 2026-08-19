@@ -1,4 +1,5 @@
 ---
+icon: code
 description: >-
   Low-cost coding and development tools nonprofits can use when they need to build or maintain software.
 ---

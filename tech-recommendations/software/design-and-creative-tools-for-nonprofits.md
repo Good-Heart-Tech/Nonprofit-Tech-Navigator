@@ -1,4 +1,5 @@
 ---
+icon: palette
 description: >-
   Design tools help nonprofits visually communicate their mission effectively,
   enhancing brand and message impact by creating compelling graphics and

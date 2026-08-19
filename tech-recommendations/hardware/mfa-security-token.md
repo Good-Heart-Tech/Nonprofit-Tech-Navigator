@@ -1,4 +1,5 @@
 ---
+icon: key
 description: >-
   Nonprofits can get Yubikeys for FREE through Yubico's Secure It Forward
   program, which help increase security dramatically.

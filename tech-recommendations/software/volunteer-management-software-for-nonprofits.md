@@ -1,4 +1,5 @@
 ---
+icon: handshake
 description: >-
   Point for volunteer recruiting and scheduling (free). Goots Conference for ticketed events.
 ---

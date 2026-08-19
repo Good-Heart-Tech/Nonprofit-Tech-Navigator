@@ -1,4 +1,5 @@
 ---
+icon: fax
 description: >-
   Online fax options so nonprofits can send and receive faxes without a phone line.
 ---

@@ -1,4 +1,5 @@
 ---
+icon: arrows-rotate
 description: >-
   Keeping your computer up to date is one of the easiest ways to stay secure and
   avoid problems. Windows Updates provide important security fixes, performance

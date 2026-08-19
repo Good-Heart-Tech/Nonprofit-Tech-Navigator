@@ -1,4 +1,5 @@
 ---
+icon: key
 description: >-
   Use a real password manager, not a spreadsheet. NordPass or 1Password Teams are the usual starting points.
 ---

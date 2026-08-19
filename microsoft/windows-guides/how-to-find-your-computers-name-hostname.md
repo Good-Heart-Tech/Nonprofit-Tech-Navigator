@@ -1,4 +1,5 @@
 ---
+icon: desktop
 description: >-
   Sometimes, support staff may ask you for your computer’s name (also called the
   hostname). This is how your computer is identified on a network. Here are a

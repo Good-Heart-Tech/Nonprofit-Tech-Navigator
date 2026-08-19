@@ -1,4 +1,5 @@
 ---
+icon: shield
 description: >-
   Antivirus and endpoint protection options for nonprofits, including Microsoft Defender.
 ---

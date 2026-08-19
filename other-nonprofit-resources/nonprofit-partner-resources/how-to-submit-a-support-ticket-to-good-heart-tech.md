@@ -1,4 +1,5 @@
 ---
+icon: ticket
 description: >-
   Partners only: open a Good Heart Tech support ticket from the desktop icon, portal, or email.
 ---

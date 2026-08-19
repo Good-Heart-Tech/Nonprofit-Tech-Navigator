@@ -1,4 +1,5 @@
 ---
+icon: screwdriver-wrench
 description: >-
   Start with MFA, a password manager, Cloudflare DNS, and real backups. Then add antivirus and hosting.
 ---

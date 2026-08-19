@@ -1,4 +1,5 @@
 ---
+icon: phone
 description: >-
   The right phone system depends on your nonprofit’s size, Google Workspace or
   Microsoft 365 use, need for desk vs. softphones, and available IT/admin

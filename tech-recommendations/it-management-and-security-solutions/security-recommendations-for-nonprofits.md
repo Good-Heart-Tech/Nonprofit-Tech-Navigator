@@ -1,4 +1,5 @@
 ---
+icon: list-check
 description: >-
   The short list of security steps every nonprofit should take first: MFA, passwords, DNS, backups.
 ---

@@ -1,4 +1,5 @@
 ---
+icon: address-book
 description: >-
   Start with Givebutter or Zeffy for free donations and email. Use Salesforce only if someone can configure it.
 ---

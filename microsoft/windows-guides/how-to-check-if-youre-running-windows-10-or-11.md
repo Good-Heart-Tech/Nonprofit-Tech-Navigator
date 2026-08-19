@@ -1,4 +1,5 @@
 ---
+icon: circle-info
 description: >-
   Knowing which version of Windows your computer is running helps you understand
   what updates and features are available—and whether you need to upgrade.

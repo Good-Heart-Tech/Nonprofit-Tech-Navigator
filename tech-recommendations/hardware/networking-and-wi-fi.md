@@ -1,4 +1,5 @@
 ---
+icon: wifi
 description: >-
   Office Wi-Fi and wired networking picks that are simple enough for a small nonprofit to run.
 ---

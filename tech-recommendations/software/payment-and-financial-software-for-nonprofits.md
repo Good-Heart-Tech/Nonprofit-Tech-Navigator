@@ -1,4 +1,5 @@
 ---
+icon: credit-card
 description: >-
   Start with Zeffy or Givebutter for donations. Add Stripe or Square for checkout; QuickBooks for accounting.
 ---

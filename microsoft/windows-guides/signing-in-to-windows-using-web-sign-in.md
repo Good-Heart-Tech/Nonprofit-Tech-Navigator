@@ -1,4 +1,5 @@
 ---
+icon: globe
 description: Sign into Windows 11 using your browser instead of typing a password.
 ---
 

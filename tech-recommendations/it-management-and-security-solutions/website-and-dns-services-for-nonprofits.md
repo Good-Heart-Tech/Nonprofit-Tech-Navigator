@@ -1,4 +1,5 @@
 ---
+icon: globe
 description: >-
   Use Cloudflare for DNS and site protection. Domain, CDN, and related website service picks.
 ---

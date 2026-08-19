@@ -1,4 +1,5 @@
 ---
+icon: life-ring
 description: >-
   Partners only: sign in to support.goodhearttech.org to open and track tickets.
 ---

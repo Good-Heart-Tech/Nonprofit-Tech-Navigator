@@ -1,4 +1,5 @@
 ---
+icon: list-check
 description: >-
   Task and project tools for nonprofit teams, including free Trello and similar options.
 ---

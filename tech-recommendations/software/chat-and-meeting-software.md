@@ -1,4 +1,5 @@
 ---
+icon: comments
 description: >-
   Use Teams or Google Meet that come with free nonprofit email. Zoom and others if you need extras.
 ---

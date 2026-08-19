@@ -1,4 +1,5 @@
 ---
+icon: grid-2
 description: >-
   Free and discounted nonprofit software. Pick Microsoft 365 or Google Workspace first, then add mission tools.
 ---

@@ -1,4 +1,5 @@
 ---
+icon: arrow-up
 description: >-
   Check eligibility and upgrade a nonprofit PC from Windows 10 to Windows 11.
 ---

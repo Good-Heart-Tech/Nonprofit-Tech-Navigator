@@ -1,4 +1,5 @@
 ---
+icon: laptop
 description: >-
   Hardware for nonprofit offices: computers, Wi-Fi, printers, and free YubiKey MFA tokens.
 ---

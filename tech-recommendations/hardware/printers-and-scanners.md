@@ -1,4 +1,5 @@
 ---
+icon: print
 description: Printing & imaging recommendations for nonprofits.
 ---
 

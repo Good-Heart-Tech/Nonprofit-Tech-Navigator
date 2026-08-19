@@ -1,4 +1,5 @@
 ---
+icon: book
 description: >-
   Short software how-tos: private browsing, cookies, POINT volunteer setup, and Microsoft accounts.
 ---

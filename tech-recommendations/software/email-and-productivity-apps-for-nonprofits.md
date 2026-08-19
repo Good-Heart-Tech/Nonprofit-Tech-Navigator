@@ -1,4 +1,5 @@
 ---
+icon: envelope
 description: >-
   Apply for free Microsoft 365 or Google Workspace first. That is email, files, chat, and meetings.
 ---

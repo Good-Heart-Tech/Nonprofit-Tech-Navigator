@@ -1,4 +1,5 @@
 ---
+icon: shield-halved
 description: >-
   Broader security platforms (SIEM, email security, phishing simulation) after the basics are in place.
 ---

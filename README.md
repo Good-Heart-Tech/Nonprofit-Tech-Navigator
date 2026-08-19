@@ -1,4 +1,5 @@
 ---
+icon: book
 description: >-
   Free tech recommendations and how-to guides for nonprofits, from Good Heart
   Tech (501(c)(3)). Start with the setup roadmap, then pick tools.

@@ -1,4 +1,5 @@
 ---
+icon: cloud-arrow-up
 description: >-
   Do not treat OneDrive or Google Drive as backup. CubeBackup is $2/user/year for M365 or Google Workspace.
 ---

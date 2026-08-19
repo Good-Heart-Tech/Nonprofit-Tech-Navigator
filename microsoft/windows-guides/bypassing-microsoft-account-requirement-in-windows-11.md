@@ -1,4 +1,5 @@
 ---
+icon: user
 description: >-
   Set up Windows 11 with a local or work account when setup insists on a personal Microsoft account.
 ---

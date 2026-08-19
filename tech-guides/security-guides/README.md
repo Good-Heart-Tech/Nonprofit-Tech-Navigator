@@ -1,4 +1,5 @@
 ---
+icon: shield
 description: >-
   Step-by-step security setup: MFA, Cloudflare WARP, Zero Trust, and Windows PIN sign-in.
 ---
