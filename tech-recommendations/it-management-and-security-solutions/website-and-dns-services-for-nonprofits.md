@@ -98,14 +98,6 @@ All of the services below must be manually renewed yearly or when the granted cr
 
 [Google Ads](https://ads.google.com/), available [for nonprofits **at no cost** through the Google Ad Grants program](https://www.google.com/grants/), is an online advertising platform. It enables nonprofits to create and display ads on Google, raising awareness and driving traffic to their causes, all while effectively managing budgets and targeting their desired audience.
 
-## Web Hosting Software
-
-#### cPanel
-
-![](../../.gitbook/assets/cpanel-whm-logo.png)
-
-[cPanel ](https://cpanel.net/)offers [a free option specifically for nonprofits](https://go.cpanel.net/nonprofit) and serves as a user-friendly control panel, empowering organizations to manage and control aspects of their web hosting environment efficiently. However, due to its robust features, it requires a high level of technical proficiency. We don't recommend this for nonprofits with just one website.
-
 ## Email-Sending Services
 
 {% include "../../.gitbook/includes/smtp2go-is-a-reliable-email....md" %}
