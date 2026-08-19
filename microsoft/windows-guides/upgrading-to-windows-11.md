@@ -1,3 +1,8 @@
+---
+description: >-
+  Check eligibility and upgrade a nonprofit PC from Windows 10 to Windows 11.
+---
+
 # Upgrading to Windows 11
 
 Microsoft is [ending support for Windows 10 in October 2025](https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281). After that date, Windows 10 computers will no longer receive essential security updates, which makes them less safe to use. To keep your organization secure, it’s critical to move to Windows 11.

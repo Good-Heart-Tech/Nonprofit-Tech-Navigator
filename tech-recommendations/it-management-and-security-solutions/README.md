@@ -1,4 +1,9 @@
-# 🪛 IT Management & Security Solutions
+---
+description: >-
+  Start with MFA, a password manager, Cloudflare DNS, and real backups. Then add antivirus and hosting.
+---
+
+# IT Management & Security Solutions
 
 Security, backups, websites, and the tools that keep a nonprofit’s IT running. Start with MFA, a password manager, DNS on Cloudflare, and real backups. Add antivirus, remote access, and website hosting as you need them.
 

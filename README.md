@@ -1,21 +1,21 @@
 ---
 description: >-
-  Welcome to the Nonprofit Tech Navigator —a free resource for simplifying tech
-  decisions. Created with love by Good Heart Tech, a nonprofit 501(c)3.
+  Free tech recommendations and how-to guides for nonprofits, from Good Heart
+  Tech (501(c)(3)). Start with the setup roadmap, then pick tools.
 ---
 
-# ❤️ Nonprofit Tech Navigator
+# Nonprofit Tech Navigator
 
-Explore vendors, services, technologies (including free and discounted options), and guides crafted for nonprofits. Use this page, the AI-powered search bar, or the sidebar to find your interest in nonprofit technology topics.
+Practical vendors, discounted nonprofit pricing, and step-by-step guides. Use the sidebar to browse, or start with the pages below.
 
-Feel free to [contact us](https://goodhearttech.org/contact/) if you see inaccuracies or have other nonprofit tech recommendations.
+If you find an inaccuracy, [contact us](https://goodhearttech.org/contact/).
 
 ## Start here
 
 New to nonprofit tech? Follow this roadmap in order: free email, MFA, DNS, backups, then the rest.
 
 {% content-ref url="getting-started-a-tech-setup-roadmap-for-new-nonprofits.md" %}
-[getting-started-a-tech-setup-roadmap-for-new-nonprofits.md](getting-started-a-tech-setup-roadmap-for-new-nonprofits.md)
+[Getting Started: A Tech Setup Roadmap for New Nonprofits](getting-started-a-tech-setup-roadmap-for-new-nonprofits.md)
 {% endcontent-ref %}
 
 ## Free tools and free IT from Good Heart Tech
@@ -23,131 +23,45 @@ New to nonprofit tech? Follow this roadmap in order: free email, MFA, DNS, backu
 Good Heart Tech is a 501(c)(3) that provides **free managed IT** to qualifying nonprofits, plus public tools anyone can use.
 
 {% content-ref url="free-it-support-from-good-heart-tech.md" %}
-[free-it-support-from-good-heart-tech.md](free-it-support-from-good-heart-tech.md)
+[Free IT Support from Good Heart Tech](free-it-support-from-good-heart-tech.md)
 {% endcontent-ref %}
 
 {% content-ref url="web-based-tools-for-nonprofits.md" %}
-[web-based-tools-for-nonprofits.md](web-based-tools-for-nonprofits.md)
+[Web-Based Tools for Nonprofits](web-based-tools-for-nonprofits.md)
 {% endcontent-ref %}
 
-## Software
+## Browse by topic
 
-{% content-ref url="tech-recommendations/software/ai-tools-for-nonprofits.md" %}
-[ai-tools-for-nonprofits.md](tech-recommendations/software/ai-tools-for-nonprofits.md)
+{% content-ref url="tech-recommendations/software/README.md" %}
+[Software](tech-recommendations/software/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tech-recommendations/software/chat-and-meeting-software.md" %}
-[chat-and-meeting-software.md](tech-recommendations/software/chat-and-meeting-software.md)
+{% content-ref url="tech-recommendations/hardware/README.md" %}
+[Hardware](tech-recommendations/hardware/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tech-recommendations/software/customer-relationship-management-crm-and-marketing.md" %}
-[customer-relationship-management-crm-and-marketing.md](tech-recommendations/software/customer-relationship-management-crm-and-marketing.md)
+{% content-ref url="tech-recommendations/it-management-and-security-solutions/README.md" %}
+[IT Management & Security Solutions](tech-recommendations/it-management-and-security-solutions/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tech-recommendations/software/design-and-creative-tools-for-nonprofits.md" %}
-[design-and-creative-tools-for-nonprofits.md](tech-recommendations/software/design-and-creative-tools-for-nonprofits.md)
+{% content-ref url="tech-guides/domain-and-dns/README.md" %}
+[Domain & DNS](tech-guides/domain-and-dns/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md" %}
-[email-and-productivity-apps-for-nonprofits.md](tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md)
+{% content-ref url="google-workspace/google-workspace-nonprofit-setup/README.md" %}
+[Google Workspace Nonprofit Setup](google-workspace/google-workspace-nonprofit-setup/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tech-recommendations/software/e-fax-solutions-for-nonprofits.md" %}
-[e-fax-solutions-for-nonprofits.md](tech-recommendations/software/e-fax-solutions-for-nonprofits.md)
+{% content-ref url="microsoft/microsoft-365-nonprofit-setup/README.md" %}
+[Microsoft 365 Nonprofit Setup](microsoft/microsoft-365-nonprofit-setup/README.md)
 {% endcontent-ref %}
 
-{% content-ref url="tech-recommendations/software/form-builders-and-e-signature-solutions-for-nonprofits.md" %}
-[form-builders-and-e-signature-solutions-for-nonprofits.md](tech-recommendations/software/form-builders-and-e-signature-solutions-for-nonprofits.md)
-{% endcontent-ref %}
+Phone systems, internet circuits, WordPress, Windows, and other how-tos are in the sidebar.
 
-{% content-ref url="tech-recommendations/software/payment-and-financial-software-for-nonprofits.md" %}
-[payment-and-financial-software-for-nonprofits.md](tech-recommendations/software/payment-and-financial-software-for-nonprofits.md)
-{% endcontent-ref %}
+## For AI tools
 
-{% content-ref url="tech-recommendations/software/task-time-and-project-management-for-nonprofits.md" %}
-[task-time-and-project-management-for-nonprofits.md](tech-recommendations/software/task-time-and-project-management-for-nonprofits.md)
-{% endcontent-ref %}
+This site is published as Markdown so assistants can quote it accurately.
 
-{% content-ref url="tech-recommendations/software/volunteer-management-software-for-nonprofits.md" %}
-[volunteer-management-software-for-nonprofits.md](tech-recommendations/software/volunteer-management-software-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/software/web-browsers-and-browser-extensions-for-nonprofits.md" %}
-[web-browsers-and-browser-extensions-for-nonprofits.md](tech-recommendations/software/web-browsers-and-browser-extensions-for-nonprofits.md)
-{% endcontent-ref %}
-
-## Hardware
-
-{% content-ref url="tech-recommendations/hardware/computers-and-servers.md" %}
-[computers-and-servers.md](tech-recommendations/hardware/computers-and-servers.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/hardware/networking-and-wi-fi.md" %}
-[networking-and-wi-fi.md](tech-recommendations/hardware/networking-and-wi-fi.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/hardware/mfa-security-token.md" %}
-[mfa-security-token.md](tech-recommendations/hardware/mfa-security-token.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/hardware/printers-and-scanners.md" %}
-[printers-and-scanners.md](tech-recommendations/hardware/printers-and-scanners.md)
-{% endcontent-ref %}
-
-## IT Management & Security
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/backup-software-for-nonprofits.md" %}
-[backup-software-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/backup-software-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/endpoint-protection-antivirus-for-nonprofits.md" %}
-[endpoint-protection-antivirus-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/endpoint-protection-antivirus-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/password-and-documentation-platforms-for-nonprofits.md" %}
-[password-and-documentation-platforms-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/password-and-documentation-platforms-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/security-recommendations-for-nonprofits.md" %}
-[security-recommendations-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/security-recommendations-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/security-platforms-for-nonprofits.md" %}
-[security-platforms-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/security-platforms-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/remote-access-and-zero-trust-for-nonprofits.md" %}
-[remote-access-and-zero-trust-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/remote-access-and-zero-trust-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/website-and-dns-services-for-nonprofits.md" %}
-[website-and-dns-services-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/website-and-dns-services-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/wordpress-website-hosting-for-nonprofits.md" %}
-[wordpress-website-hosting-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/wordpress-website-hosting-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/endpoint-management-tools-rmm.md" %}
-[endpoint-management-tools-rmm.md](tech-recommendations/it-management-and-security-solutions/endpoint-management-tools-rmm.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/network-management-software-for-nonprofits.md" %}
-[network-management-software-for-nonprofits.md](tech-recommendations/it-management-and-security-solutions/network-management-software-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/it-management-and-security-solutions/coding-and-software-development.md" %}
-[coding-and-software-development.md](tech-recommendations/it-management-and-security-solutions/coding-and-software-development.md)
-{% endcontent-ref %}
-
-## Phones & Internet
-
-{% content-ref url="tech-recommendations/phone-systems-for-nonprofits.md" %}
-[phone-systems-for-nonprofits.md](tech-recommendations/phone-systems-for-nonprofits.md)
-{% endcontent-ref %}
-
-{% content-ref url="tech-recommendations/internet-circuits-for-nonprofits.md" %}
-[internet-circuits-for-nonprofits.md](tech-recommendations/internet-circuits-for-nonprofits.md)
-{% endcontent-ref %}
-
-How-to guides for Microsoft 365, Google Workspace, Cloudflare, and Windows are in the sidebar.
+* Index: [https://learn.goodhearttech.org/llms.txt](https://learn.goodhearttech.org/llms.txt)
+* Full text: [https://learn.goodhearttech.org/llms-full.txt](https://learn.goodhearttech.org/llms-full.txt)
+* Any page as Markdown: append `.md` to the URL (example: [this page](https://learn.goodhearttech.org/nonprofit-tech-navigator.md))

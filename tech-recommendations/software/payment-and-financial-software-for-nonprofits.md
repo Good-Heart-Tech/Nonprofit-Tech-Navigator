@@ -1,10 +1,24 @@
-# 💸 Payment & Financial Software for Nonprofits
+---
+description: >-
+  Start with Zeffy or Givebutter for donations. Add Stripe or Square for checkout; QuickBooks for accounting.
+---
+
+# Payment & Financial Software for Nonprofits
 
 These tools enable seamless online transactions and finance management, providing a convenient and trustworthy way for supporters to contribute to a nonprofit's mission and manage their money easily.
 
 {% hint style="success" %}
 **If you only pick one:** Start with Zeffy or Givebutter. Both are free fundraising platforms with donation forms, event ticketing, and a donor CRM. Add Stripe or Square later if you need a payment processor for in-person or website checkout.
 {% endhint %}
+
+| Tool | Nonprofit cost | Best for |
+| --- | --- | --- |
+| Zeffy | Free, 0% platform fee | Online donations and events |
+| Givebutter | Free | Fundraising plus email from your domain |
+| Give Lively | Free (payment-processor fees apply) | Donation forms if you already use Stripe/PayPal |
+| Stripe | Nonprofit fee discount | Website checkout and recurring billing |
+| Square | Standard rates + hardware | In-person card payments |
+| QuickBooks | Discount via TechSoup | Accounting and reporting |
 
 {% hint style="info" %}
 Every organization's reporting, integration, and communication needs differ, so we recommend signing up for the free versions of the tools you like most to find the solution that meets your needs.  You may find multiple free offerings that meet different needs.&#x20;
@@ -14,7 +28,7 @@ Every organization's reporting, integration, and communication needs differ, so 
 
 <div align="left"><figure><img src="../../.gitbook/assets/zeffy.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-[Zeffy](https://www.zeffy.com/en-US/referral?referredByOrganizationId=a90a19bd-a857-4291-92e3-ca7cca14e2b4) is a donation platform for nonprofits that lets donors give 100% of their contribution, as it charges no transaction fees. This can help attract larger donations. Zeffy also supports donation forms on your website, event ticketing, auctions, and a donor management CRM, making it easy to track and engage supporters. Additional features include a built-in newsletter tool with customizable templates for mass emails.
+[Zeffy](https://www.zeffy.com/) is a donation platform for nonprofits that lets donors give 100% of their contribution, as it charges no transaction fees. This can help attract larger donations. Zeffy also supports donation forms on your website, event ticketing, auctions, and a donor management CRM, making it easy to track and engage supporters. Additional features include a built-in newsletter tool with customizable templates for mass emails.
 
 ### **Givebutter** <a href="#zeffy0" id="zeffy0"></a>
 
@@ -70,3 +84,4 @@ To create a [Venmo charity profile](https://help.venmo.com/hc/en-us/articles/667
 
 [MoneyMinder ](https://moneyminder.com/)is a good option for nonprofits due to its user-friendly interface and extensive reporting capabilities. It boasts excellent customer support, catering even to non-technical users. The free plan includes basic features such as budgeting, member tracking, and an online store, making it valuable for budget management and member organization.
 
+*Last reviewed: 2026-08.*

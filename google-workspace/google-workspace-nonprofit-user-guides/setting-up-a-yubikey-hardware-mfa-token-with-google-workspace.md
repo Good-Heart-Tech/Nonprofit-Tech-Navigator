@@ -1,4 +1,6 @@
 ---
+description: >-
+  Register a YubiKey as a hardware MFA method on a nonprofit Google Workspace account.
 icon: key-skeleton
 ---
 

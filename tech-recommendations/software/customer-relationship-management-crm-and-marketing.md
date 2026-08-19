@@ -1,10 +1,23 @@
-# 📣 Customer Relationship Management (CRM) & Marketing
+---
+description: >-
+  Start with Givebutter or Zeffy for free donations and email. Use Salesforce only if someone can configure it.
+---
+
+# Customer Relationship Management (CRM) & Marketing
 
 These applications empower organizations to manage donor relationships, track interactions, and streamline communication. By utilizing CRM and Email Marketing Tools, nonprofits can enhance engagement, personalize contact with supporters, and strategically cultivate lasting relationships, thereby optimizing their outreach efforts and maximizing impact.
 
 {% hint style="success" %}
 **If you only pick one:** Start with Givebutter or Zeffy. Both are free for nonprofits and cover donations plus email. Choose Salesforce or Microsoft Cloud for Nonprofit only if you have someone who can configure them.
 {% endhint %}
+
+| Tool | Nonprofit cost | Best for |
+| --- | --- | --- |
+| Givebutter | Free | Donations plus unlimited email from your domain |
+| Zeffy | Free (no platform fee) | Donations when you want 100% to reach the org |
+| Mailchimp | Free up to 500 contacts | Simple newsletters if you already use it |
+| Salesforce | Free for up to 10 users | Complex CRM when someone can configure it |
+| Microsoft Cloud for Nonprofit | Free with Microsoft 365 | Dynamics-based CRM with IT support |
 
 ### **Givebutter** <a href="#zeffy0" id="zeffy0"></a>
 
@@ -16,7 +29,7 @@ These applications empower organizations to manage donor relationships, track in
 
 <div align="left"><figure><img src="../../.gitbook/assets/zeffy.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-[Zeffy](https://www.zeffy.com/en-US/referral?referredByOrganizationId=a90a19bd-a857-4291-92e3-ca7cca14e2b4) offers a powerful donor management CRM and an easy-to-use newsletter tool that lets nonprofits send mass emails from their own domain. Its templates are simple to customize, making it quick to create professional, branded communications. Combined with donor tracking and engagement features, Zeffy helps nonprofits manage supporters and stay connected effortlessly.
+[Zeffy](https://www.zeffy.com/) offers a powerful donor management CRM and an easy-to-use newsletter tool that lets nonprofits send mass emails from their own domain. Its templates are simple to customize, making it quick to create professional, branded communications. Combined with donor tracking and engagement features, Zeffy helps nonprofits manage supporters and stay connected effortlessly.
 
 ### MailChimp <a href="#mailchimp2" id="mailchimp2"></a>
 
@@ -41,3 +54,5 @@ These applications empower organizations to manage donor relationships, track in
 <div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft 365" width="188"><figcaption></figcaption></figure></div>
 
 [Microsoft Cloud for Nonprofit](https://learn.microsoft.com/en-us/industry/nonprofit/overview) is a powerful suite of tools designed to help nonprofits manage their operations, engage with donors and volunteers, and deliver programs effectively. All these tools are free for nonprofits, but unlocking their full potential requires careful configuration. While nonprofits can benefit significantly from this platform, setting it up without dedicated IT support can be challenging due to its complexity and the need for technical expertise.
+
+*Last reviewed: 2026-08.*

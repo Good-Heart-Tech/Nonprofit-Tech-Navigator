@@ -77,3 +77,5 @@ For most small nonprofits, start with **Twingate** if you want the simplest roll
 {% hint style="warning" %}
 Avoid exposing Remote Desktop, file shares, admin portals, or VPN services directly to the internet.
 {% endhint %}
+
+*Last reviewed: 2026-08.*

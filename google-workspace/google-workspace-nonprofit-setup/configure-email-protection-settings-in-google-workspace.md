@@ -1,4 +1,6 @@
 ---
+description: >-
+  Turn on Gmail safety settings, spam protections, and related admin controls for a nonprofit Google Workspace.
 icon: circle-envelope
 ---
 

@@ -73,7 +73,7 @@ Shared mailboxes (like `info@yourorg.org` or `volunteers@yourorg.org`) allow mul
 * Maintaining continuity when staff change roles
 * Keeping communication centralized for departments or roles
 
-If one has already been set up for you, here’s how to access it: 🔗 [Accessing a Shared Mailbox in Microsoft Outlook](https://learn.goodhearttech.org/microsoft-365/microsoft-365-user-guides/accessing-a-shared-mailbox-in-microsoft-outlook)
+If one has already been set up for you, here’s how to access it: [Accessing a Shared Mailbox in Microsoft Outlook](accessing-a-shared-mailbox-in-microsoft-outlook.md)
 
 {% hint style="warning" %}
 **Ask your IT administrator to create a shared mailbox** if your team needs one.  It's recommended that all Shared Mailboxes have their login DISABLED for security purposes.  Delegates can still access them using their named accounts.

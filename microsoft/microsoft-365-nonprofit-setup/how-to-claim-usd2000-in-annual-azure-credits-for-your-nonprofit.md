@@ -1,4 +1,6 @@
 ---
+description: >-
+  How eligible nonprofits claim up to $2,000 per year in Microsoft Azure credits.
 icon: badge-dollar
 ---
 

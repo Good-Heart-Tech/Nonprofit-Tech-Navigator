@@ -1,4 +1,6 @@
 ---
+description: >-
+  Create a free POINT account and verify your nonprofit for volunteer recruiting and scheduling.
 icon: hand-heart
 ---
 

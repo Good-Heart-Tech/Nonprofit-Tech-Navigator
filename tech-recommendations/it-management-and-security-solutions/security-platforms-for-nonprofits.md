@@ -1,4 +1,9 @@
-# 🛡️ Security Platforms for Nonprofits
+---
+description: >-
+  Broader security platforms (SIEM, email security, phishing simulation) after the basics are in place.
+---
+
+# Security Platforms for Nonprofits
 
 Security tools are essential for nonprofits to protect data, prevent unauthorized access, and maintain operational integrity. Implementing strong authentication, network monitoring, and endpoint protection reduces cyber risks and ensures a secure environment to support their mission.
 
@@ -7,7 +12,7 @@ Security tools are essential for nonprofits to protect data, prevent unauthorize
 {% endhint %}
 
 {% hint style="info" %}
-If you're looking for password managers, those are listed [in this article](https://learn.goodhearttech.org/it-management-and-security-solutions/password-and-documentation-platforms).
+If you're looking for password managers, those are listed [in this article](password-and-documentation-platforms-for-nonprofits.md).
 {% endhint %}
 
 ## Control D - DNS & Web Filtering <a href="#vpn-and-zero-trust-software3" id="vpn-and-zero-trust-software3"></a>
@@ -91,3 +96,5 @@ Setup is usually straightforward. Install the connector where the internal resou
 <div align="left"><figure><img src="../../.gitbook/assets/Senteon-Black.png" alt="" width="190"><figcaption></figcaption></figure></div>
 
 [Senteon](https://senteon.co/) provides automated endpoint hardening that aligns systems with CIS benchmarks and security best practices. It automatically sets hundreds of Windows security settings on both servers and PCs to reduce the attack surface, enforce consistent configurations, and help maintain compliance. For nonprofits with IT staff, Senteon is a powerful solution because it adds enterprise-grade endpoint security while staying cost-effective. Deployment and tuning require some technical knowledge, but once configured, it significantly strengthens defenses and lowers security risks.
+
+*Last reviewed: 2026-08.*

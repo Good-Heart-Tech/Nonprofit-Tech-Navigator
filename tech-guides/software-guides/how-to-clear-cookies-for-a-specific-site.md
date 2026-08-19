@@ -1,4 +1,6 @@
 ---
+description: >-
+  Clear cookies for one website in Chrome or Edge without wiping the whole browser.
 icon: cookie
 ---
 

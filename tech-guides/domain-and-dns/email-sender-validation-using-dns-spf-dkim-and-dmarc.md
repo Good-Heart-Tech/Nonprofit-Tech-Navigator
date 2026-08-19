@@ -1,4 +1,6 @@
 ---
+description: >-
+  Add SPF, DKIM, and DMARC DNS records so nonprofit email is trusted and harder to spoof.
 icon: envelope-circle-check
 ---
 

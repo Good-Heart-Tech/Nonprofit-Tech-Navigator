@@ -1,4 +1,6 @@
 ---
+description: >-
+  How staff sign in to Cloudflare Zero Trust / WARP after it is deployed.
 icon: cloudflare
 ---
 

@@ -1,4 +1,9 @@
-# 🗨️ Chat & Meeting Software
+---
+description: >-
+  Use Teams or Google Meet that come with free nonprofit email. Zoom and others if you need extras.
+---
+
+# Chat & Meeting Software
 
 Communication apps like Microsoft Teams, Google Chat, and Slack serve as integral tools for nonprofits, facilitating seamless telephony and chat functionalities. These platforms enhance collaboration among team members, enabling efficient communication, real-time information sharing, and streamlined coordination, ultimately fostering increased productivity and organizational cohesion within nonprofit environments.
 
@@ -14,7 +19,7 @@ Look for Phone Systems? [Click Here.](../phone-systems-for-nonprofits.md)
 
 <div align="left"><figure><img src="../../.gitbook/assets/microsoft-teams-logo.png" alt="Microsoft Teams" width="188"><figcaption></figcaption></figure></div>
 
-[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) chat, collaboration, and meetings features come with your [free Business Basic licensing](https://learn.goodhearttech.org/#microsoft-365).&#x20;
+[Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) chat, collaboration, and meetings features come with your [free Business Basic licensing](email-and-productivity-apps-for-nonprofits.md).
 
 ### Google Chat & Meet <a href="#google-voice3" id="google-voice3"></a>
 
@@ -30,7 +35,4 @@ Look for Phone Systems? [Click Here.](../phone-systems-for-nonprofits.md)
 
 Slack is an app that allows you to chat quickly with volunteers and your team. You can easily add anyone, and it is easily accessible from any computer or mobile device. Slack offers [a free workspace to everyone](https://slack.com/help/articles/206845317-Create-a-Slack-workspace) but [offers important security and management capabilities to nonprofits for free](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount). Slack offers the Pro Plan for free for 250 members and lower, so [select that plan on the nonprofit application](https://my.slack.com/nonprofit).&#x20;
 
-
-
-
-
+*Last reviewed: 2026-08.*

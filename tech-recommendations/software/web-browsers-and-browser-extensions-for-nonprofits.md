@@ -1,4 +1,6 @@
 ---
+description: >-
+  Browser and extension recommendations for nonprofit staff, including password and privacy helpers.
 icon: sidebar
 ---
 
@@ -37,7 +39,7 @@ Browser extensions can greatly enhance productivity, security, and privacy for n
 
 ### **Productivity Browser Extensions**
 
-* [**LanguageTool**](https://languagetool.org/) is a free, open-source alternative to Grammarly. It checks grammar, spelling, and punctuation in multiple languages and is a useful tool for nonprofits that rely on clear communication in emails, documents, and online content. It works directly within your browser, ensuring accurate and polished messaging.  See [this page for more info about LangaugeTool](https://learn.goodhearttech.org/tech-recommendations-for-nonprofits/software/email-and-productivity-apps-for-nonprofits#language-tool).
+* [**LanguageTool**](https://languagetool.org/) is a free, open-source alternative to Grammarly. It checks grammar, spelling, and punctuation in multiple languages and is a useful tool for nonprofits that rely on clear communication in emails, documents, and online content. It works directly within your browser, ensuring accurate and polished messaging.  See [this page for more info about LanguageTool](email-and-productivity-apps-for-nonprofits.md).
 
 ### **Tech Tools Browser Extensions**
 
@@ -48,3 +50,4 @@ Browser extensions can greatly enhance productivity, security, and privacy for n
 1. [**Microsoft Single Sign-On**](https://chromewebstore.google.com/detail/microsoft-single-sign-on/ppnbnpeolgkicgegkbkbjmhlideopiji?hl=en) helps simplify authentication by streamlining the login process across Microsoft services. With this extension, users can seamlessly access their Microsoft apps, reducing the need for multiple logins and increasing efficiency while maintaining robust security.
 2. [**My Apps Secure Sign-in Extension**](https://chromewebstore.google.com/detail/my-apps-secure-sign-in-ex/ggjhpefgjjfobnfoldnjipclpcfbgbhl?hl=en-US) offers additional security layers for Microsoft 365 users. It facilitates easier, secure access to the My Apps portal, ensuring that users are signed in correctly and safely across various Microsoft applications. This extension enhances both the ease of use and security of Microsoft 365 services, making it an essential tool for nonprofits using Microsoft’s suite of tools.
 
+*Last reviewed: 2026-08.*

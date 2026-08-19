@@ -1,4 +1,6 @@
 ---
+description: >-
+  Set up Cloudflare Zero Trust for nonprofit remote access and safer browsing.
 icon: cloudflare
 ---
 

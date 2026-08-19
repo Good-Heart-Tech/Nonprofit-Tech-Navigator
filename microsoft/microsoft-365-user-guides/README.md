@@ -1,4 +1,6 @@
 ---
+description: >-
+  End-user Microsoft 365 how-tos: MFA, Outlook, OneDrive, Teams voicemail, and Office apps.
 icon: microsoft
 ---
 

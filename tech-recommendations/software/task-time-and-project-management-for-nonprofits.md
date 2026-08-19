@@ -1,4 +1,9 @@
-# ✔️ Task, Time, & Project Management for Nonprofits
+---
+description: >-
+  Task and project tools for nonprofit teams, including free Trello and similar options.
+---
+
+# Task, Time, & Project Management for Nonprofits
 
 These tools enhance collaboration, boost efficiency, and ensure that nonprofit teams can effectively manage their workflows, deadlines, and project timelines, ultimately contributing to the successful execution of their missions.
 
@@ -24,3 +29,4 @@ These tools enhance collaboration, boost efficiency, and ensure that nonprofit t
 
 [Trello offers a free tier](https://trello.com/pricing) accessible to all users, providing a versatile platform for project management. Nonprofits can create a Trello Workspace at no cost, enabling efficient collaboration and organization for their initiatives.
 
+*Last reviewed: 2026-08.*

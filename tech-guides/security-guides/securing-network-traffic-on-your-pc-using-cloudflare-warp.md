@@ -1,4 +1,6 @@
 ---
+description: >-
+  Install and use Cloudflare WARP on a PC to encrypt and filter outbound traffic.
 icon: shield-check
 ---
 

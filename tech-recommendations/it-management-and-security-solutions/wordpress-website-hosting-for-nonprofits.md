@@ -25,7 +25,7 @@ icon: wordpress-simple
 
 * [Google Site Kit](https://sitekit.withgoogle.com/) allows you to implement modern [Google Analytics ](https://analytics.google.com/analytics/web/)and [Google Search Console](https://search.google.com/search-console) integration within minutes.&#x20;
 * [The SEO Framework plugin](https://theseoframework.com/) provides an easy way to enhance and manage SEO for your WordPress site.
-* [Cloudflare](https://wordpress.org/plugins/cloudflare/) has a WordPress plugin that makes its integration seamless and fast. [See this page to learn how Cloudflare can greatly increase the security and speed of your website](https://learn.goodhearttech.org/tech-recommendations-for-nonprofits/it-management-and-security-solutions/website-and-dns-services-hosting-and-components#cloudflare4).&#x20;
+* [Cloudflare](https://wordpress.org/plugins/cloudflare/) has a WordPress plugin that makes its integration seamless and fast. [See this page to learn how Cloudflare can greatly increase the security and speed of your website](website-and-dns-services-for-nonprofits.md).
 * [Equal Web](https://www.equalweb.com/html5/ProLookup.taf?_ID=34601\&did=1116\&G=\&SM=) provides enhanced accessibility options on WordPress sites like a screen reader, magnification, and more.
 * [GiveWP](https://givewp.com/) allows website visitors to make donations through payment gateways like Stripe and PayPal.
 * [Updraft Plus](https://updraftplus.com/) is used to back up your website. It can be set on a schedule, so you don't have to worry about losing data.&#x20;
@@ -47,3 +47,5 @@ Key features include:
 6. **SEO-Ready:** With built-in SEO features, nonprofits can improve their visibility in search engine results, helping them reach a broader audience and attract more supporters.
 7. **Integrations:** Avada seamlessly integrates with popular plugins such as WooCommerce, Contact Form 7, and The Events Calendar, making it easier to manage donations, events, and communications.
 8. **Comprehensive Support:** The theme comes with extensive documentation, video tutorials, and access to a dedicated support team, ensuring nonprofits can quickly resolve any issues.
+
+*Last reviewed: 2026-08.*

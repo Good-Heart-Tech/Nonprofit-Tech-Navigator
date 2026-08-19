@@ -1,4 +1,6 @@
 ---
+description: >-
+  Add and assign free or discounted Microsoft 365 nonprofit licenses in the admin center catalog.
 icon: id-badge
 ---
 

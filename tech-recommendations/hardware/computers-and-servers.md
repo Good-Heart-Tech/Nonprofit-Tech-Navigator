@@ -1,4 +1,9 @@
-# 💻 Computers & Servers
+---
+description: >-
+  Buy Windows 11 Pro PCs with enough RAM; skip Windows 10. Server notes for small nonprofits.
+---
+
+# Computers & Servers
 
 For nonprofits, procuring computers and other tech equipment can be challenging on a budget. Below, we outline some great resources for finding low-cost or free computers.
 
@@ -69,3 +74,5 @@ HP has great PCs available:
 ## Servers <a href="#servers2" id="servers2"></a>
 
 We recommend avoiding physical servers wherever possible because of the affordability and stability of [nonprofit cloud hosting options](computers-and-servers.md#hosting-providers4). However, if on-premise infrastructure is required, we recommend [Dell PowerEdge](https://www.dell.com/en-us/dt/servers/index.htm) servers.
+
+*Last reviewed: 2026-08.*

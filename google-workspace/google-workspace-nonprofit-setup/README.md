@@ -1,4 +1,6 @@
 ---
+description: >-
+  Apply for free Google Workspace, then configure MFA, email protection, and an unlicensed admin account.
 icon: google
 ---
 

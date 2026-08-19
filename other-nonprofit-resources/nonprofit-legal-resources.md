@@ -1,4 +1,6 @@
 ---
+description: >-
+  Starting points for nonprofit legal help, including formation and ongoing compliance resources.
 icon: gavel
 ---
 

@@ -1,4 +1,6 @@
 ---
+description: >-
+  How nonprofit staff use OneDrive to store, share, and recover files in Microsoft 365.
 icon: folder-open
 ---
 

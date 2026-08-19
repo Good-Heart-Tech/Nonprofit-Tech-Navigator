@@ -1,10 +1,22 @@
-# ⬆️ Backup Software for Nonprofits
+---
+description: >-
+  Do not treat OneDrive or Google Drive as backup. CubeBackup is $2/user/year for M365 or Google Workspace.
+---
+
+# Backup Software for Nonprofits
 
 Backup software ensures data security and continuity by regularly backing up critical information. This technology minimizes the risk of data loss, providing nonprofits with a reliable safeguard against potential disruptions and fostering operational resilience.
 
 {% hint style="success" %}
 **If you only pick one:** Do not treat OneDrive or Google Drive as your backup. For Microsoft 365 or Google Workspace, start with CubeBackup ($2/user/year for nonprofits). Use Veeam or Synology if you need a full backup of PCs or servers.
 {% endhint %}
+
+| Tool | Nonprofit cost | Best for |
+| --- | --- | --- |
+| CubeBackup | $2/user/year | Microsoft 365 or Google Workspace backup |
+| Veeam | Free community edition; 10 Microsoft 365 users free | PCs and servers if you have technical skill |
+| Synology Active Backup | Included with a supported NAS | On-prem plus cloud backup if you buy a NAS |
+| OneDrive / Google Drive | Included with your suite | File sync only — not a backup |
 
 ### **Microsoft OneDrive** <a href="#microsoft-onedrive0" id="microsoft-onedrive0"></a>
 
@@ -42,3 +54,5 @@ Backups for Shared drives, Teams, & SharePoint are free with an active user lice
 <div align="left"><figure><img src="../../.gitbook/assets/synology.png" alt="" width="218"><figcaption></figcaption></figure></div>
 
 [Synology Active Backup](https://www.synology.com/en-global/dsm/feature/active-backup-business/pc) is a robust BCDR solution for nonprofits, enabling seamless backup of Google Workspace, Microsoft 365, and/or on-premises data. Included with the purchase of a Synology NAS, it protects against data loss from deletion, ransomware, or outages. When purchasing a Synology device, ensure it supports Active Backup and provides adequate storage for long-term needs. This centralized solution simplifies management, offers efficient recovery, and enhances data resilience for mission-critical operations.
+
+*Last reviewed: 2026-08.*

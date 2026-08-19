@@ -1,4 +1,6 @@
 ---
+description: >-
+  End-user Google Workspace how-tos for nonprofit staff: MFA, YubiKey, and Google Forms on Sites.
 icon: google
 ---
 

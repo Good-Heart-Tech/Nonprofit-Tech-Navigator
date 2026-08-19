@@ -1,4 +1,9 @@
-# 🌐 Website & DNS Services for Nonprofits
+---
+description: >-
+  Use Cloudflare for DNS and site protection. Domain, CDN, and related website service picks.
+---
+
+# Website & DNS Services for Nonprofits
 
 Website and DNS services, including hosting and components, are vital for nonprofits, offering a digital presence and reliable infrastructure. These tools facilitate easy website management, ensure seamless hosting, and provide essential features for online visibility.
 
@@ -73,7 +78,7 @@ All of the services below must be manually renewed yearly or when the granted cr
 {% endhint %}
 
 * [Amazon Web Services (AWS) LightSail](https://aws.amazon.com/lightsail/) – For just $95, purchase a $1000 annual [AWS grant from TechSoup.](https://www.techsoup.org/products/amazon-web-services-credits-for-nonprofits-g-50197-) We only recommend this option for technical folks, as[ it gets pretty involved](https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/). The AWS annual renewable grant can be used for almost any AWS service.
-* [Microsoft Azure](https://azure.microsoft.com/) – Review [the instructions](https://learn.goodhearttech.org/microsoft-365/microsoft-365-setup-for-nonprofits/how-to-claim-usd2000-in-annual-azure-credits-for-your-nonprofit) to apply for a[ $2000 annual Azure grant.](https://docs.microsoft.com/en-us/azure/industry/training-services/microsoft-community-training/infrastructure-management/install-your-platform-instance/setup-platform-instance-on-azure-subscription-for-nonprofits)
+* [Microsoft Azure](https://azure.microsoft.com/) – Review [the instructions](../../microsoft/microsoft-365-nonprofit-setup/how-to-claim-usd2000-in-annual-azure-credits-for-your-nonprofit.md) to apply for a[ $2000 annual Azure grant.](https://docs.microsoft.com/en-us/azure/industry/training-services/microsoft-community-training/infrastructure-management/install-your-platform-instance/setup-platform-instance-on-azure-subscription-for-nonprofits)
 * [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) – Oracle offers "Always Free" cloud resources, including server options that may be enough to run a small application or website, depending on your needs. This is not a nonprofit-specific offer, but it can still be a useful no-cost option for technical teams that can manage their own server.
 * [Digital Ocean](https://www.digitalocean.com/community/pages/hollies-hub-for-good) – Offers free cloud services through [Holly's Hub for good program.](https://www.digitalocean.com/community/pages/hollies-hub-for-good)
 * [DreamHost ](https://help.dreamhost.com/hc/en-us/articles/215769478-Non-profit-discount)- Offers free shared hosting to 501(c)(3)s and 501(c)(19)s. However, **we don't recommend this provider** because of historical nonprofit validation, support, and billing issues.
@@ -103,3 +108,5 @@ All of the services below must be manually renewed yearly or when the granted cr
 ## Email-Sending Services
 
 {% include "../../.gitbook/includes/smtp2go-is-a-reliable-email....md" %}
+
+*Last reviewed: 2026-08.*

@@ -18,8 +18,8 @@ icon: windows
 
 ### Follow the instructions in the section that aligns with your nonprofit
 
-* If your org doesn't have a Microsoft 365 tenant/login, use the [instructions in **section 1.**](https://learn.goodhearttech.org/microsoft-365/microsoft-365-setup-for-nonprofits/how-to-apply-for-free-nonprofit-microsoft-365-services#1.-applying-for-a-new-microsoft-365-nonprofit-tenant)&#x20;
-* If your org already has a Microsoft 365 tenant, use the[ instructions in **section 2**](https://learn.goodhearttech.org/microsoft-365/microsoft-365-setup-for-nonprofits/how-to-apply-for-free-nonprofit-microsoft-365-services#2.-adding-nonprofit-status-to-an-existing-microsoft-365-tenant). If your nonprofit tenant was verified by someone else, your user must be assigned the "_Nonprofit Portal'_ license to access the [Microsoft Nonprofit portal.](https://nonprofit.microsoft.com)
+* If your org doesn't have a Microsoft 365 tenant/login, use the [instructions in **section 1.**](#1.-applying-for-a-new-microsoft-365-nonprofit-tenant)
+* If your org already has a Microsoft 365 tenant, use the [instructions in **section 2**](#2.-adding-nonprofit-status-to-an-existing-microsoft-365-tenant). If your nonprofit tenant was verified by someone else, your user must be assigned the "_Nonprofit Portal'_ license to access the [Microsoft Nonprofit portal.](https://nonprofit.microsoft.com)
 * :eyes: You can always check the status of your nonprofit application in [the Microsoft Nonprofit portal. ](https://nonprofit.microsoft.com/)
 
 ## :new: 1. Applying for a new Microsoft 365 Nonprofit Tenant
@@ -30,7 +30,7 @@ Use these steps if you currently are not using Microsoft 365 and need to create 
 * Click **Register Now**.
 * Fill out each page of the multi-step form and upload the Letter of Exemption from the IRS when prompted. &#x20;
 * After completing all the steps in the application, you'll have to wait to get approved. It can take anywhere from 2 to 30 business days. Once the application has been processed, you'll receive an email notification with the result. If more information is required, the Microsoft team will ask for additional documentation.&#x20;
-* After verification, you can add [free licenses](https://learn.goodhearttech.org/#email-and-productivity-apps) to your account from the [catalog screen of the Micrsofot 365 admin portal](https://admin.microsoft.com/#/catalog). See our next article on [configuring Microsoft 365 for nonprofits.](https://learn.goodhearttech.org/microsoft-365/microsoft-365-setup-for-nonprofits/configuring-microsoft-365-for-your-nonprofit)&#x20;
+* After verification, you can add [free licenses](../../tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md) to your account from the [catalog screen of the Microsoft 365 admin portal](https://admin.microsoft.com/#/catalog). See our next article on [configuring Microsoft 365 for nonprofits](configure-microsoft-365-for-nonprofit.md).
 
 ## :heavy\_plus\_sign: 2. Adding Nonprofit Status to an Existing Microsoft 365 Tenant
 
@@ -48,7 +48,7 @@ Often, nonprofits purchase Microsoft 365 before they realize they can receive fr
 * Click **Confirm,** then click **Continue** to the portal to see your eligibility status.
   * ![](<../../.gitbook/assets/image (36).png>)
 * After completing all the steps in the application, you'll have to wait to get approved. It can take anywhere from 2 to 30 business days. Once the application has been processed, you'll receive an email notification with the result. If more information is required, the Microsoft team will ask for additional documentation.&#x20;
-* After verification, you can add [free licenses](https://learn.goodhearttech.org/#email-and-productivity-apps) to your account from the [catalog screen of the Micrsofot 365 admin portal](https://admin.microsoft.com/#/catalog).  See our next article on [configuring Microsoft 365 for nonprofits.](https://learn.goodhearttech.org/microsoft-365/microsoft-365-setup-for-nonprofits/configuring-microsoft-365-for-your-nonprofit)&#x20;
+* After verification, you can add [free licenses](../../tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md) to your account from the [catalog screen of the Microsoft 365 admin portal](https://admin.microsoft.com/#/catalog). See our next article on [configuring Microsoft 365 for nonprofits](configure-microsoft-365-for-nonprofit.md).
 
 {% content-ref url="configure-microsoft-365-for-nonprofit.md" %}
 [configure-microsoft-365-for-nonprofit.md](configure-microsoft-365-for-nonprofit.md)

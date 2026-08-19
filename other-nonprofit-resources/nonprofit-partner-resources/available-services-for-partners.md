@@ -1,8 +1,14 @@
 ---
+description: >-
+  Partners only: what free IT services Good Heart Tech provides to eligible partner nonprofits.
 icon: hammer-brush
 ---
 
 # Available Services for Partners
+
+{% hint style="warning" %}
+**Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+{% endhint %}
 
 Good Heart Tech provides the services below to our nonprofit partners at **no cost**.
 
@@ -36,3 +42,4 @@ Good Heart Tech provides the services below to our nonprofit partners at **no co
 {% hint style="info" %}
 Not sure where to start? [Submit a ticket to us](how-to-submit-a-support-ticket-to-good-heart-tech.md) and we’ll help you decide what to prioritize.
 {% endhint %}
+

@@ -1,4 +1,13 @@
-# 🎟️ How to Submit a Support Ticket to Good Heart Tech
+---
+description: >-
+  Partners only: open a Good Heart Tech support ticket from the desktop icon, portal, or email.
+---
+
+# How to Submit a Support Ticket to Good Heart Tech
+
+{% hint style="warning" %}
+**Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+{% endhint %}
 
 Submitting a ticket is the fastest way to get help from our team and ensures your request is tracked from start to finish.
 

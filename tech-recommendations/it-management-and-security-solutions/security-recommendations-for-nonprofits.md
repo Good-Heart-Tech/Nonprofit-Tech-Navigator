@@ -1,4 +1,9 @@
-# 🔓 Security Recommendations for Nonprofits
+---
+description: >-
+  The short list of security steps every nonprofit should take first: MFA, passwords, DNS, backups.
+---
+
+# Security Recommendations for Nonprofits
 
 Strong security doesn’t have to be complicated or expensive. Nonprofits can make a significant impact by focusing on a few proven practices that block the majority of attacks. The recommendations below highlight practical tools and configurations—like multi-factor authentication, DNS protections, and free assessments—that any nonprofit team can implement to reduce risks and safeguard their mission.
 
@@ -33,3 +38,5 @@ Microsoft offers a free [Cybersecurity Self-Service Assessment tool](https://por
 ## **Improving Security Awareness and Readiness with Backdoors & Breaches**
 
 [Backdoors & Breaches](https://www.blackhillsinfosec.com/tools/backdoorsandbreaches/) is a tabletop exercise tool that enhances security awareness and incident response preparedness for organizations. It simulates real-world cyberattacks, allowing teams to practice identifying, mitigating, and recovering from security incidents. The tool helps evaluate security policies, test communication workflows, and identify gaps in defenses, improving response strategies. By engaging in realistic scenarios, organizations can foster a proactive security culture and strengthen their incident response readiness without complex or costly simulations. [Click here to play for free.](https://play.backdoorsandbreaches.com/)
+
+*Last reviewed: 2026-08.*

@@ -1,4 +1,9 @@
-# ⌨️ Coding & Software Development
+---
+description: >-
+  Low-cost coding and development tools nonprofits can use when they need to build or maintain software.
+---
+
+# Coding & Software Development
 
 Coding and software development can be invaluable for nonprofits seeking custom solutions tailored to their specific operational needs, improving efficiency and functionality. However, not all nonprofits may require these capabilities, as some can effectively leverage existing technologies without the need for extensive coding, directing their resources toward other mission-critical areas.
 
@@ -35,5 +40,4 @@ Sentry offers **free accounts for qualifying nonprofit organizations**, allowing
 1. **Create a Sentry account** here: [https://sentry.io/signup/](https://sentry.io/signup/)
 2. **Submit a sponsorship application** here: [https://sentry.io/sponsorship](https://sentry.io/sponsorship)
 
-
-
+*Last reviewed: 2026-08.*

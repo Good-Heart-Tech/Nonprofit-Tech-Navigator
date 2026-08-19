@@ -1,4 +1,6 @@
 ---
+description: >-
+  Set up Google Authenticator MFA on a Google Workspace user account.
 icon: mobile
 ---
 

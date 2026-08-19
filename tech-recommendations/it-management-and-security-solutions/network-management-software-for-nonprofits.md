@@ -1,4 +1,6 @@
 ---
+description: >-
+  Network monitoring and management software that small nonprofits can actually operate.
 icon: network-wired
 ---
 
@@ -33,3 +35,5 @@ Managing a nonprofit’s network infrastructure effectively is crucial for ensur
 <div align="left"><figure><img src="../../.gitbook/assets/vyos.svg" alt="" width="30"><figcaption></figcaption></figure></div>
 
 [VyOS](https://vyos.io/) is a powerful, open-source network operating system well-suited for nonprofits with technical expertise seeking a free alternative to commercial routers and firewalls. It supports enterprise-grade features like BGP, OSPF, NAT, DHCP, IPsec, WireGuard, and VPN tunneling, all configurable via a unified CLI similar to Cisco IOS. VyOS runs on both bare-metal and virtual infrastructure. While it lacks a GUI and requires command-line proficiency, it excels in automation, security, and flexibility—making it a strong fit for organizations with capable IT teams or MSP partners. [**Get VyOS for free for your nonprofit by applying here**](https://vyos.io/vyos-for-good).&#x20;
+
+*Last reviewed: 2026-08.*

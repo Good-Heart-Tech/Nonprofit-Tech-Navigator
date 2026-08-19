@@ -1,4 +1,6 @@
 ---
+description: >-
+  Other groups that provide IT help to nonprofits, plus Good Heart Tech as a free US MSP option.
 icon: briefcase-blank
 ---
 

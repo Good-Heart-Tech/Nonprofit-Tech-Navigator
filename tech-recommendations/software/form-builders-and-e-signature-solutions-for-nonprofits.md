@@ -1,4 +1,6 @@
 ---
+description: >-
+  Form and e-signature tools for nonprofit intake, applications, and agreements, including free options.
 icon: signature
 ---
 
@@ -104,3 +106,5 @@ Ideal for basic workflows and internal data gathering.
 * Branding and collaboration via Microsoft 365
 
 Great for organizations already using Microsoft tools.
+
+*Last reviewed: 2026-08.*

@@ -1,4 +1,9 @@
-# 📡 Networking & Wi-Fi
+---
+description: >-
+  Office Wi-Fi and wired networking picks that are simple enough for a small nonprofit to run.
+---
+
+# Networking & Wi-Fi
 
 Enhance your nonprofit's connectivity with these networking and hardware recommendations. Whether deploying a new network or refining existing setups, our selections are geared for optimal performance and affordability.
 
@@ -29,5 +34,4 @@ Cat6 and Cat5e Ethernet standards are best for almost all cases, including conne
 
 * [Amazon.com: 20-Pack Cat6 Patch Cable](https://www.amazon.com/dp/B07MVRL1FH/?th=1)
 
-
-
+*Last reviewed: 2026-08.*

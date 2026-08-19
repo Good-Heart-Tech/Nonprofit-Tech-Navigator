@@ -1,4 +1,9 @@
-# 🙋‍♀️ Event & Volunteer Management Software for Nonprofits
+---
+description: >-
+  Point for volunteer recruiting and scheduling (free). Goots Conference for ticketed events.
+---
+
+# Event & Volunteer Management Software for Nonprofits
 
 Volunteer and event management tools are essential for nonprofits, streamlining the process of recruiting, organizing, and engaging people. Volunteer platforms help match volunteers with opportunities, track participation, and foster a sense of community. Dedicated conference tools can run the full event lifecycle—ticketing, speakers, sponsors, and budgeting—when a volunteer signup tool is not enough.
 
@@ -6,9 +11,17 @@ Volunteer and event management tools are essential for nonprofits, streamlining 
 **If you only pick one:** Use [Point](https://pointapp.org/nonprofit-pricing/) for volunteer recruiting and scheduling. Use [Goots Conference](https://conference.goots.app/) if you run a ticketed conference or similar event.
 {% endhint %}
 
+| Tool | Nonprofit cost | Best for |
+| --- | --- | --- |
+| Point | Free for verified nonprofits | Volunteer recruiting, scheduling, and impact reporting |
+| Goots Conference | Free for one conference; Standard $30/month | Ticketed conferences and similar events |
+| Golden Volunteer | Free plan | Scheduling and hour tracking |
+| VolunteerMatch | Free basic account | Recruiting from a national volunteer board |
+| Zeffy | Free | Volunteer signup if you already use Zeffy for fundraising |
+
 ### Point <a href="#point3" id="point3"></a>
 
-[Point App](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj26QkHdW43Rxqj3zfPSjf43Wg2w04\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27) is a **free** web and mobile app that makes volunteer management and communication a breeze. Picture Point as Eventbrite meets Salesforce, but specifically for volunteer management. There are many features available for free: [the ability to manage volunteers](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj4cm2zwW45Szks4fDYjCW1JDwVN1LBFGdW45TRgF3T3KWKW3K1M5V49KwrLW3F4G5c3P4GBGW1LBbZd3zb1Cw0\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27), [the ability to recruit volunteers](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj4cm2zwW45Szks4fDYjCW1JDwVN1LBFGdW45TRgF3T3KWKW3K1M5V49KwrLW3F4G5c3P4GBGW1LDhH749S89K1V3\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27), and [the ability to report on volunteer impact](https://t.sidekickopen13.com/s3t/c/5/f18dQhb0S7kF8bq4HpW1H4pRp59hl3kW7_k2841CX6NGN35QwvfsgqwYMv6xCDwLD4mf197v5Y04?te=W3R5hFj4cm2zwW45Szks4fDYjCW1JDwVN1LBFGdW45TRgF3T3KWKW3K1M5V49KwrLW3F4G5c3P4GBGW1LDhHn43Whb70\&si=8000000019205251\&pi=365a415d-3190-4add-82ca-a7a042de5d27). Set up a Core account and get start the process to get verfied [here.](https://pointapp.org/nonprofit-pricing/)
+[Point](https://pointapp.org/) is a **free** web and mobile app for volunteer management and communication. Picture it as Eventbrite meets Salesforce, but specifically for volunteers. Free features include volunteer management, recruiting, and impact reporting. Set up a Core account and start nonprofit verification at [pointapp.org/nonprofit-pricing](https://pointapp.org/nonprofit-pricing/).
 
 {% content-ref url="../../tech-guides/software-guides/set-up-point-for-volunteer-management.md" %}
 [set-up-point-for-volunteer-management.md](../../tech-guides/software-guides/set-up-point-for-volunteer-management.md)
@@ -24,7 +37,7 @@ Volunteer and event management tools are essential for nonprofits, streamlining 
 
 <div align="left"><figure><img src="../../.gitbook/assets/zeffy.png" alt="Zeffy" width="188"><figcaption></figcaption></figure></div>
 
-Although [Zeffy ](https://www.zeffy.com/en-US/referral?referredByOrganizationId=a90a19bd-a857-4291-92e3-ca7cca14e2b4)is primarily [a fundraising platform](payment-and-financial-software-for-nonprofits.md), it also has volunteer registration and sign up features.  Learn how to setup up an event and create a volunteer sign up page, here: [Create a volunteering opportunity and receive volunteer registrations](https://support.zeffy.com/how-can-i-create-a-volunteering-opportunity-and-receive-volunteer-registrations)
+Although [Zeffy ](https://www.zeffy.com/)is primarily [a fundraising platform](payment-and-financial-software-for-nonprofits.md), it also has volunteer registration and sign up features.  Learn how to setup up an event and create a volunteer sign up page, here: [Create a volunteering opportunity and receive volunteer registrations](https://support.zeffy.com/how-can-i-create-a-volunteering-opportunity-and-receive-volunteer-registrations)
 
 ### VolunteerMatch <a href="#volunteermatch4" id="volunteermatch4"></a>
 
@@ -38,3 +51,4 @@ Although [Zeffy ](https://www.zeffy.com/en-US/referral?referredByOrganizationId=
 
 [Goots Conference](https://conference.goots.app/) is a full conference management app built by the MSP community for community events that cannot afford enterprise event platforms. It covers registration and ticketing, call for speakers, agenda, sponsor pipeline, branded event sites (or a WordPress plugin), and live budget tracking in one place. The **free** plan includes one conference with financial dashboards, revenue and cost tracking, sponsor pipeline management, and CSV import/export. Standard is **$30/month per hosted conference** and adds unlimited conferences, hosting and storage, and REST API access. Paid tickets include a 1.5% platform fee plus Stripe processing; free tickets and free events stay free. [Get started free](https://conference.goots.app/).
 
+*Last reviewed: 2026-08.*

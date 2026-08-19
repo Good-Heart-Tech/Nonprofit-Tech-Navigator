@@ -1,4 +1,6 @@
 ---
+description: >-
+  Free public tools from Good Heart Tech: Nonprofit Tools hub, Nonprofit Monitor, and a read-only Microsoft 365 security audit.
 icon: globe
 ---
 
@@ -8,7 +10,7 @@ icon: globe
 
 Good Heart Tech also provides [free managed IT (MSP) services](https://goodhearttech.org/for-nonprofits.html) to qualifying 501(c)(3) nonprofit partners.
 
-### 🌟 Start here
+### Start here
 
 * [**Nonprofit Tools Hub**](https://nonprofittools.org/): A simple place to explore all of these tools.
 * [**Nonprofit Monitor**](https://nonprofitmonitor.org/): Look up nonprofit details and common technologies using IRS and other public data.

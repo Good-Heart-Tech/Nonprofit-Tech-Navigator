@@ -4,7 +4,7 @@ description: >-
   program, which help increase security dramatically.
 ---
 
-# 🔑 MFA/Security Token
+# MFA/Security Token
 
 {% hint style="success" %}
 **If you only pick one:** Apply for free YubiKeys through Yubico's Secure It Forward program, then enroll them as security keys in Microsoft 365 or Google Workspace.
@@ -26,5 +26,4 @@ description: >-
 [setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md](../../google-workspace/google-workspace-nonprofit-user-guides/setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md)
 {% endcontent-ref %}
 
-
-
+*Last reviewed: 2026-08.*

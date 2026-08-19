@@ -1,4 +1,6 @@
 ---
+description: >-
+  Recommended username patterns for nonprofit email and identity systems so accounts stay consistent.
 icon: person
 ---
 
@@ -35,3 +37,4 @@ This can foster a friendly tone and may work well internally. However, be aware 
 * **Standardizes onboarding/offboarding** processes
 * **Supports long-term scalability**
 
+*Last reviewed: 2026-08.*

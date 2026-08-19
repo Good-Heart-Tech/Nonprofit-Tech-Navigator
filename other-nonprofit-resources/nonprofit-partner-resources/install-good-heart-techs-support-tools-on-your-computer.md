@@ -1,8 +1,14 @@
 ---
+description: >-
+  Partners only: install Good Heart Tech support tools so we can help remotely.
 icon: toolbox
 ---
 
 # Install Good Heart Tech's Support Tools on Your Computer
+
+{% hint style="warning" %}
+**Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+{% endhint %}
 
 To provide remote support and keep your systems running smoothly, Good Heart Tech uses a small background tool. You can learn more about why we use it here: [What’s an RMM Agent?](https://level.io/blog/rmm-agent)
 

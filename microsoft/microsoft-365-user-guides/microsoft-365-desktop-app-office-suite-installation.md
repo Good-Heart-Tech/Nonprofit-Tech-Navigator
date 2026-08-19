@@ -9,7 +9,7 @@ icon: file-doc
 
 ## :checkered\_flag: Prerequisites
 
-To download the Microsoft 365 Apps (Office suite), you must have a Microsoft 365 Business Standard or above license. Please see [this section](https://learn.goodhearttech.org/microsoft-365/microsoft-365-setup-for-nonprofits) for more info about licensing available to nonprofits.&#x20;
+To download the Microsoft 365 Apps (Office suite), you must have a Microsoft 365 Business Standard or above license. Please see [this section](../microsoft-365-nonprofit-setup/README.md) for more info about licensing available to nonprofits.&#x20;
 
 ## :technologist: Logging in to Microsoft 365
 

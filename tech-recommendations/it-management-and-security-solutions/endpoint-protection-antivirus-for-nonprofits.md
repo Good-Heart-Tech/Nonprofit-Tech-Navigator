@@ -1,4 +1,9 @@
-# 🛡️ Endpoint Protection (Antivirus) for Nonprofits
+---
+description: >-
+  Antivirus and endpoint protection options for nonprofits, including Microsoft Defender.
+---
+
+# Endpoint Protection (Antivirus) for Nonprofits
 
 **Endpoint Protection (Antivirus)** is essential for nonprofits, safeguarding devices and networks from malware, phishing, and ransomware. It protects sensitive data, prevents costly disruptions, and strengthens digital infrastructure, allowing nonprofits to focus on their mission without compromising security.
 
@@ -45,7 +50,4 @@
 
 [Bitdefender](https://bitdefender.com/) can be purchased at a significant discount[ from TechSoup](https://www.techsoup.org/search/products/bitdefender/). It offers cloud management capabilities and a central console to view all threats across all your endpoints.  It does not provide critical services like EDR and MDR, and requires more administrative setup and management than some other solutions, such as Threatdown.&#x20;
 
-
-
-
-
+*Last reviewed: 2026-08.*

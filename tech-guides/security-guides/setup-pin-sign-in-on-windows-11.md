@@ -1,4 +1,6 @@
 ---
+description: >-
+  Enable Windows Hello PIN sign-in on Windows 11 for faster, safer logins.
 icon: lock-hashtag
 ---
 

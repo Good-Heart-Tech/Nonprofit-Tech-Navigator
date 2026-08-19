@@ -1,8 +1,14 @@
 ---
+description: >-
+  Partners only: add an organization admin on TechSoup so GHT can help with discounts.
 icon: person-carry-box
 ---
 
 # How to Delegate Organization Admin Access on TechSoup
+
+{% hint style="warning" %}
+**Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+{% endhint %}
 
 * **Sign in -** Go to [TechSoup.org](https://techsoup.org) and log in with your nonprofit’s account.
 * **Access Organization Settings**

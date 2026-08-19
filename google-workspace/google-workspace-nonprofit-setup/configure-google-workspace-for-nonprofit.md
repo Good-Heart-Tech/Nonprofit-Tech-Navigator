@@ -1,4 +1,6 @@
 ---
+description: >-
+  First-pass Google Workspace admin setup for nonprofits after you receive free licensing.
 icon: google
 ---
 

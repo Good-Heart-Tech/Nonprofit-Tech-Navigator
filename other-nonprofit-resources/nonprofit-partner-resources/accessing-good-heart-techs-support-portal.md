@@ -1,4 +1,13 @@
-# 🧑‍💻 Accessing Good Heart Tech's Support Portal
+---
+description: >-
+  Partners only: sign in to support.goodhearttech.org to open and track tickets.
+---
+
+# Accessing Good Heart Tech's Support Portal
+
+{% hint style="warning" %}
+**Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+{% endhint %}
 
 Use our support portal to submit tickets, review updates, and view your IT inventory and reports.
 

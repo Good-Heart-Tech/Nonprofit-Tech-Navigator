@@ -1,3 +1,8 @@
+---
+description: >-
+  Set up Windows 11 with a local or work account when setup insists on a personal Microsoft account.
+---
+
 # Bypassing Microsoft Account Requirement in Windows 11
 
 ### When to Use This

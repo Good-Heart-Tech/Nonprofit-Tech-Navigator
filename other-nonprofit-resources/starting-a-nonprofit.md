@@ -1,4 +1,6 @@
 ---
+description: >-
+  High-level steps and links for forming a US 501(c)(3) nonprofit.
 icon: building-columns
 ---
 

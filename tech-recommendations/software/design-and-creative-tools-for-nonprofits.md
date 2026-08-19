@@ -5,7 +5,7 @@ description: >-
   engaging a wider audience.
 ---
 
-# 🎨 Design & Creative Tools for Nonprofits
+# Design & Creative Tools for Nonprofits
 
 {% hint style="success" %}
 **If you only pick one:** Start with Canva. Eligible nonprofits get premium design tools for free, and it covers flyers, social posts, presentations, and event graphics.
@@ -39,3 +39,5 @@ Adobe offers numerous free and discounted offerings, and [the best way to get th
 * Adobe Creative Cloud - Access to a collection of creative design applications and services with license management, security, and support
 * Photoshop & Premiere Elements - $30/year - Consumer-level tools for editing digital images and videos
 * Adobe Acrobat Pro - Application for creating, controlling, and exchanging secure, high-quality PDF documents
+
+*Last reviewed: 2026-08.*

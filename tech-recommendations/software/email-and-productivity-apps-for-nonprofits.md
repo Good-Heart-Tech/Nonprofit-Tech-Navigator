@@ -1,4 +1,9 @@
-# 📄 Email & Productivity Apps for Nonprofits
+---
+description: >-
+  Apply for free Microsoft 365 or Google Workspace first. That is email, files, chat, and meetings.
+---
+
+# Email & Productivity Apps for Nonprofits
 
 These apps empower nonprofits with efficient digital tools. They facilitate seamless communication, enabling remote teamwork through email clients and collaboration platforms. Cloud storage services ensure secure file sharing, while word processing and spreadsheet applications enhance productivity. These solutions amplify nonprofit effectiveness, fostering streamlined operations, impactful outreach, and polished documentation through integrated spell-checking.
 
@@ -23,7 +28,7 @@ Microsoft offers eligible 501(c)(3) nonprofits a donation of **Microsoft 365 Bus
 * Basic security and compliance features
 
 {% hint style="info" %}
-To provision the Microsoft licenses listed below, you must be a verified nonprofit with Microsoft and be signed in with an admin account. [Refer to this article to learn how to apply for free Microsoft licensing](https://learn.goodhearttech.org/microsoft-365/microsoft-365-nonprofit-setup/how-to-apply-for-free-nonprofit-microsoft-365-services)
+To provision the Microsoft licenses listed below, you must be a verified nonprofit with Microsoft and be signed in with an admin account. [Refer to this article to learn how to apply for free Microsoft licensing](../../microsoft/microsoft-365-nonprofit-setup/how-to-apply-for-free-nonprofit-microsoft-365-services.md)
 {% endhint %}
 
 The following Microsoft licenses can be applied for FREE for verified 501(c)(3)s.
@@ -100,4 +105,6 @@ Stirling PDF offers self-hosting options for independent use. Find out more on t
 
 **File Converter** is a simple Windows tool that lets you quickly convert media files (documents, images, audio, video) into different formats. Once installed, you can just right-click any file in Windows Explorer and choose **Convert** to get the format you need.
 
-Download here: [GitHub Releases](https://github.com/Tichau/FileConverter/releases/?utm_source=chatgpt.com) or [Official Site](https://file-converter.io/download.html?utm_source=chatgpt.com).
+Download here: [GitHub Releases](https://github.com/Tichau/FileConverter/releases/) or [Official Site](https://file-converter.io/download.html).
+
+*Last reviewed: 2026-08.*

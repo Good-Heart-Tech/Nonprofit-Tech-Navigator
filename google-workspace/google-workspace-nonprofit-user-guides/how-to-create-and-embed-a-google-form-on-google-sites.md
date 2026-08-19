@@ -1,4 +1,6 @@
 ---
+description: >-
+  Create a Google Form and embed it on a Google Site for nonprofit intake, RSVPs, or surveys.
 icon: file-circle-question
 ---
 

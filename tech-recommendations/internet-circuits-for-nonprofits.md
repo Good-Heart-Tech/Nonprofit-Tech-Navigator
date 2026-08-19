@@ -1,4 +1,6 @@
 ---
+description: >-
+  Internet circuit options for nonprofit offices, including when to use business fiber vs consumer broadband.
 icon: ethernet
 ---
 
@@ -36,3 +38,5 @@ Not sure where to start?  [Fill out this quick form](https://forms.office.com/r/
 {% hint style="success" %}
 Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.office.com/r/4qwPdGRpx0).
 {% endhint %}
+
+*Last reviewed: 2026-08.*

@@ -1,4 +1,6 @@
 ---
+description: >-
+  Good Heart Tech (EIN 84-3156575) provides free MSP-style IT to US 501(c)(3)s under 50 staff and $2M funding. No SLA.
 icon: heart
 ---
 

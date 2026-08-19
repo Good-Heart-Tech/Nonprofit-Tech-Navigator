@@ -1,8 +1,14 @@
 ---
+description: >-
+  Partners only: remove Good Heart Tech remote-support software from a PC.
 icon: sign-posts-wrench
 ---
 
 # How to Uninstall Good Heart Tech's Support Tools
+
+{% hint style="warning" %}
+**Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+{% endhint %}
 
 Sometimes, a **personal computer** (not owned by your organization) gets added to Good Heart Tech’s management by mistake. When that happens, uninstalling our support tools removes our ability to access and monitor that device.
 

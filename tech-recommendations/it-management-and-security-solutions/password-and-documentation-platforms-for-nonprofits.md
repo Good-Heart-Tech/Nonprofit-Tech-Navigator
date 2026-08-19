@@ -1,4 +1,9 @@
-# 🔑 Password & Documentation Platforms for Nonprofits
+---
+description: >-
+  Use a real password manager, not a spreadsheet. NordPass or 1Password Teams are the usual starting points.
+---
+
+# Password & Documentation Platforms for Nonprofits
 
 Password and documentation platforms provide nonprofits with a secure infrastructure for managing sensitive information, mitigating the risk of data breaches, and ensuring compliance with industry standards. These platforms enhance operational efficiency by centralizing access control, streamlining documentation processes, and promoting secure password management practices, contributing to nonprofit organizations' overall resilience and data integrity.
 
@@ -7,6 +12,13 @@ You should never use passwords in conventional Excel, Word, or Google Docs docum
 {% hint style="success" %}
 **If you only pick one:** Start with NordPass (up to 35% off for nonprofits) or 1Password Teams (ask for the 50% nonprofit rate). Either is far safer than a shared spreadsheet.
 {% endhint %}
+
+| Tool | Nonprofit cost | Best for |
+| --- | --- | --- |
+| NordPass | Up to 35% off | Simple team password manager |
+| 1Password Teams | 50% off (email to request) | Most orgs that can ask for the nonprofit rate |
+| Dashlane | About 50% via TechSoup | If you already buy software through TechSoup |
+| Psono | Generous free tier; 50% on paid | Tight budgets or self-hosting |
 
 {% hint style="info" %}
 Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-security-token.md](../hardware/mfa-security-token.md "mention")
@@ -52,3 +64,4 @@ Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-secu
 
 [GitBook ](https://gitbook.com)is a versatile knowledge-sharing platform. It streamlines information management, aiding collaboration.  In fact, this website is built on Gitbook! To access [the **free** nonprofit offering](https://docs.gitbook.com/account-management/plans/apply-for-the-non-profit-open-source-plan), visit GitBook's site, provide details, and verify your nonprofit status. [Full instructions here](https://docs.gitbook.com/account-management/plans/apply-for-the-non-profit-open-source-plan#how-to-apply).
 
+*Last reviewed: 2026-08.*
