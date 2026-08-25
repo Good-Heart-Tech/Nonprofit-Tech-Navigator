@@ -71,6 +71,7 @@
   * [Setting up MFA on Your Google Account with Google Authenticator](google-workspace/google-workspace-nonprofit-user-guides/setting-up-mfa-on-your-google-account-with-google-authenticator.md)
   * [Setting up a YubiKey (Hardware/MFA Token) with Google Workspace](google-workspace/google-workspace-nonprofit-user-guides/setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md)
   * [How to Create and Embed a Google Form on Google Sites](google-workspace/google-workspace-nonprofit-user-guides/how-to-create-and-embed-a-google-form-on-google-sites.md)
+  * [How to Install and Configure Google Drive for Desktop](google-workspace/google-workspace-nonprofit-user-guides/how-to-install-and-configure-google-drive-for-desktop.md)
 * [Google Workspace Nonprofit Setup](google-workspace/google-workspace-nonprofit-setup/README.md)
   * [How to Apply for FREE Nonprofit Google Workspace Services](google-workspace/google-workspace-nonprofit-setup/how-to-apply-for-free-nonprofit-google-workspace-services.md)
   * [Configure Google Workspace for Nonprofit](google-workspace/google-workspace-nonprofit-setup/configure-google-workspace-for-nonprofit.md)
