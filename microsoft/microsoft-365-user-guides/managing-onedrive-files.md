@@ -1,71 +1,62 @@
 ---
 description: >-
-  How nonprofit staff use OneDrive to store, share, and recover files in Microsoft 365,
-  and how to add SharePoint library shortcuts so they appear in File Explorer.
+  Install OneDrive, sign in with your work Microsoft 365 account, and add
+  SharePoint shortcuts so team files appear in File Explorer.
 icon: folder-open
 ---
 
 # Managing OneDrive Files
 
-## 🗂️ Getting Started with OneDrive
+OneDrive puts your Microsoft 365 files in File Explorer (Windows) or Finder (Mac), like a normal folder. Sign in with your **work Microsoft 365** account, not a personal Outlook/Hotmail account.
 
-OneDrive is where your organizations' files live in Microsoft 365. It makes it easy to access documents from your computer or the cloud. Here’s how to check that it’s working and some tips to keep everything organized.
+Your own files live in **OneDrive**. Shared team files live in **SharePoint**. To see SharePoint on your computer, add a shortcut (steps below).
 
-***
+Download: [OneDrive for Windows or Mac](https://www.microsoft.com/en-us/microsoft-365/onedrive/download)
 
-### 💻 Install and Sign in to OneDrive
+## Install and sign in
 
-1. Download OneDrive for Windows or Mac here: [https://www.microsoft.com/en-us/microsoft-365/onedrive/download](https://www.microsoft.com/en-us/microsoft-365/onedrive/download)
-2. Install the app and open it.
-3. Sign in with your organization's Microsoft 365 account.
-4. Once signed in, you’ll see the OneDrive cloud icon in your taskbar. This means you’re connected and ready to access your files.
+1. Open the [download page](https://www.microsoft.com/en-us/microsoft-365/onedrive/download) and install OneDrive.
+2. Open the app and sign in with your nonprofit Microsoft 365 email.
+3. Complete MFA if prompted.
+4. Look for the **OneDrive cloud** in the taskbar (Windows, bottom right) or menu bar (Mac, top right).
 
-### ✅ Check OneDrive Status
+A **blue cloud** means you are signed in. Spinning arrows mean files are syncing. A red X means you need to sign in again.
 
-1. Look for the **OneDrive cloud icon** in the bottom-right corner of your screen (the taskbar).
-   * <img src="../../.gitbook/assets/image (2).png" alt="OneDrive cloud icon" width="24"> A **blue cloud** means you’re connected to your account.
-   * 🔄 A **spinning arrows icon** means files are syncing.
-   * ❌ A **red X** means something isn’t syncing correctly, and you likely need to sign in again.
+If you do not see the icon on Windows, click the **^** arrow on the taskbar (**Show hidden icons**):
 
-👉 If you don’t see the icon, click the **up arrow on the Windows taskbar** to expand hidden icons:
+<figure><img src="../../.gitbook/assets/image (2).png" alt="OneDrive cloud icon" width="40"><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt="Windows taskbar Show hidden icons arrow" width="375"><figcaption></figcaption></figure>
 
-***
+## Open your files
 
-### 📂 Access Your Files in File Explorer
-
-1. Open **File Explorer** (the folder icon on your taskbar).
-2. On the left side, you’ll see **OneDrive – \[Your Organization Name]**. Shared SharePoint folders show a small shortcut arrow on the folder icon.
+1. Open **File Explorer** (Windows) or **Finder** (Mac).
+2. In the left sidebar, click **OneDrive – \[Your Organization Name]**.
+3. Open folders and files the same way you would on the rest of your computer.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt="File Explorer sidebar with OneDrive and SharePoint folder shortcuts" width="280"><figcaption></figcaption></figure>
 
-3. Click it to open your OneDrive files, just like you would any other folder on your computer.
+## Get SharePoint files on your computer
 
-***
+Team documents are in SharePoint, not your personal OneDrive. Add a **shortcut** so that library shows up next to your other OneDrive folders. Use this instead of the older **Sync** button.
 
-### ⭐ Best Practice: Pin Folders to Quick Access
+1. In your browser, open the SharePoint **document library** (or the folder) you need.
+2. Click **Add shortcut to OneDrive** on the toolbar (some sites say **Add shortcut to My files**).
+3. When you see the confirmation, go back to File Explorer or Finder → **OneDrive – \[Your Organization Name]**. The library appears there, with a small shortcut arrow on the folder icon.
 
-If there are folders you use all the time, pin them so they’re always easy to find:
+Do this once for each library you use often. After you sign in to OneDrive on another computer, the same shortcuts show up there too.
 
-1. Right-click the folder in OneDrive.
-2. Select **Pin to Quick Access**.
-3. Your folder will now appear at the top of the File Explorer sidebar under **Quick Access**.
+### Make it easier to find
 
-This saves time and keeps your most-used folders one click away.
+* **Pin it:** right-click the folder → **Pin to Quick Access**.
+* **Put it on the Desktop:** right-click the folder → **Show more options** → **Send to** → **Desktop (create shortcut)**.
 
-***
+{% hint style="info" %}
+Syncing is not a backup. Accidental deletes still sync to everyone. See [Backup Software for Nonprofits](../../tech-recommendations/it-management-and-security-solutions/backup-software-for-nonprofits.md).
+{% endhint %}
 
-### 🔗 Add a SharePoint library to your computer (shortcuts)
+## Microsoft’s guides
 
-Team files live in **SharePoint**, not in your personal OneDrive. To see them in File Explorer like a normal folder, add a **shortcut** — that is the supported way to get SharePoint documents on your computer. Prefer this over the older **Sync** button.
-
-1. In your browser, open the SharePoint **document library** (or the specific folder) you need.
-2. On the toolbar, click **Add shortcut to OneDrive** (some tenants say **Add shortcut to My files**).
-3. Wait for the confirmation that the shortcut was added to **My files**.
-4. On your computer, open **File Explorer** → **OneDrive – \[Your Organization Name]**. The SharePoint library or folder appears there (look for a small shortcut arrow on the folder icon).
-5. Optional: right-click that folder and choose **Pin to Quick Access**. To put it on the Desktop, right-click → **Show more options** → **Send to** → **Desktop (create shortcut)**.
-
-Do this once per library or folder you use often. The shortcut follows you to other PCs after you sign in to OneDrive.
-
-Microsoft’s guides: [Add shortcuts to shared folders in OneDrive](https://support.microsoft.com/en-us/office/add-shortcuts-to-shared-folders-in-onedrive-for-work-or-school-d995c321-38e6-4350-b54c-7ca4934648d4) and [View SharePoint files in File Explorer](https://support.microsoft.com/en-us/office/view-sharepoint-files-in-file-explorer-66b574bb-08b4-46b6-a6a0-435fd98194cc).
+* [Download OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/download)
+* [Add shortcuts to shared folders in OneDrive](https://support.microsoft.com/en-us/office/add-shortcuts-to-shared-folders-in-onedrive-for-work-or-school-d995c321-38e6-4350-b54c-7ca4934648d4)
+* [View SharePoint files in File Explorer](https://support.microsoft.com/en-us/office/view-sharepoint-files-in-file-explorer-66b574bb-08b4-46b6-a6a0-435fd98194cc)
