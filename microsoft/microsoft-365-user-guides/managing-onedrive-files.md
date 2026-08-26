@@ -23,24 +23,23 @@ OneDrive is where your organizations' files live in Microsoft 365. It makes it e
 ### ✅ Check OneDrive Status
 
 1. Look for the **OneDrive cloud icon** in the bottom-right corner of your screen (the taskbar).
-   * ![](<../../.gitbook/assets/image (2).png>) A **blue cloud** means you’re connected to your account.
+   * <img src="../../.gitbook/assets/image (2).png" alt="OneDrive cloud icon" width="24"> A **blue cloud** means you’re connected to your account.
    * 🔄 A **spinning arrows icon** means files are syncing.
    * ❌ A **red X** means something isn’t syncing correctly, and you likely need to sign in again.
 
 👉 If you don’t see the icon, click the **up arrow on the Windows taskbar** to expand hidden icons:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt="Windows taskbar Show hidden icons arrow" width="375"><figcaption></figcaption></figure>
 
 ***
 
 ### 📂 Access Your Files in File Explorer
 
 1. Open **File Explorer** (the folder icon on your taskbar).
-2.  On the left side, you’ll see **OneDrive – \[Your Organization Name]**. \*
+2. On the left side, you’ll see **OneDrive – \[Your Organization Name]**. Shared SharePoint folders show a small shortcut arrow on the folder icon.
 
-    ```
-    <figure><img src="../../.gitbook/assets/image (5).png" alt="" width="200"><figcaption></figcaption></figure>
-    ```
+<figure><img src="../../.gitbook/assets/image (5).png" alt="File Explorer sidebar with OneDrive and SharePoint folder shortcuts" width="280"><figcaption></figcaption></figure>
+
 3. Click it to open your OneDrive files, just like you would any other folder on your computer.
 
 ***
