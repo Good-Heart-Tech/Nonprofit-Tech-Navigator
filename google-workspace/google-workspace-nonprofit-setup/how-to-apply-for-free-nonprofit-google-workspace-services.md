@@ -17,7 +17,11 @@ icon: google
 * Verification occurs through _Goodstack_
 
 {% hint style="info" %}
-If Google can't confirm your website belongs to your nonprofit, they'll ask you to add these three things to your site before reviewing again: a contact email on your own domain (not Gmail/Yahoo), your Charity ID/EIN, and a real street address (a PO Box alone won't work).
+Sometimes Google cannot confirm that your public website belongs to your nonprofit. If this happens, they will ask you to make sure your **public website** clearly displays all three of the following before they will review your application again:
+
+* **A professional email address on your own domain**, such as info@yournonprofit.org. A generic address like a Gmail or Yahoo account will not count.
+* **Your organization's Charity ID or EIN**, shown somewhere on the site. An "About Us" or "Contact" page works well for this.
+* **A real, verified street address.** A PO Box alone does not satisfy this requirement. If you use a PO Box for mail, list a physical street address as well.
 {% endhint %}
 
 ## :white\_check\_mark: Application Steps
