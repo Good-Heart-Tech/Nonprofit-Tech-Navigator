@@ -40,6 +40,22 @@ Approval typically takes 2 to 14 days. If the application is declined, review th
 
 You can always check the status of your nonprofit application in [the Google Nonprofit Portal](https://www.google.com/nonprofits/account/).&#x20;
 
+## :warning: If Google Requests Website Changes
+
+Sometimes Google cannot confirm that your website belongs to your nonprofit. When this happens, they will send a verification request asking you to make some changes to your website before they will look at your application again.
+
+{% hint style="info" %}
+This step is only needed if Google specifically asks for it. Most applications do not require any website changes.
+{% endhint %}
+
+If you get this request, make sure your website has all three of the following:
+
+* **A professional email address on your own domain.** Your website should list a contact email that matches your organization's domain, such as info@yournonprofit.org. A generic address like a Gmail or Yahoo account will not count.
+* **Your Charity ID or EIN.** Your organization's official EIN (Employer Identification Number) should be visible somewhere on your website. A page like "About Us" or "Contact" works well for this.
+* **A real street address.** Your website needs to show a verified physical address for your organization. A PO Box by itself is not enough. If you use a PO Box for mail, also list a physical street address.
+
+Once your website includes all three items, reply to Google's verification request or resubmit your application. Review can take a few extra days after you make these changes.
+
 ## :dollar: Converting From Paid Google Workspace to Free Google Workspace for Nonprofits
 
 If you've already been paying for Google Workspace and want to move to free nonprofit licensing, you can’t convert directly from Business Standard, Business Plus, or Enterprise plans. [You must first be on **Business Starter** (or trial) to qualify.](https://support.google.com/a/answer/10069853)
