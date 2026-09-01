@@ -1,14 +1,14 @@
 ---
 description: >-
-  High-level steps and links for forming a US 501(c)(3) nonprofit.
-icon: building-columns
+  Step-by-step guide to forming a US 501(c)(3) nonprofit, in order.
+icon: list-ol
 ---
 
-# Starting a Nonprofit (501(c)(3))
+# Starting a Nonprofit 501(c)(3)
 
-Forming a nonprofit is one of the most meaningful steps you can take to protect and grow your mission. This guide walks you through the full process in the correct order, along with what you need to keep your organization in good standing for the long haul.
+This guide walks you through the full process of forming a nonprofit, in the correct order. Once you're up and running, see [Ongoing Compliance Requirements](ongoing-compliance-requirements.md) for what you need to do every year to stay in good standing.
 
-> **Quick note:** This guide is meant to orient you, not replace legal advice. For anything complex, see [Nonprofit Legal Resources](nonprofit-legal-resources.md) for guidance on finding affordable legal help.
+> **Quick note:** This guide is meant to orient you, not replace legal advice. For anything complex, see [Nonprofit Legal Resources](../nonprofit-legal-resources.md) for guidance on finding affordable legal help.
 
 ---
 
@@ -112,72 +112,7 @@ Search "[your state] nonprofit tax exemption" or "[your state] 501(c)(3) state e
 
 ---
 
-## Ongoing Compliance Requirements
-
-Forming your nonprofit is the beginning, not the finish line. Here is what you need to do every year to keep your status in good standing.
-
-### Annual IRS Filing (Form 990)
-
-All 501(c)(3) organizations must file with the IRS each year. Which form you file depends on your revenue:
-
-| Annual Gross Receipts | Form Required |
-|---|---|
-| Under $50,000 | **Form 990-N** (e-Postcard, filed online, free) |
-| $50,000 to $200,000 | **Form 990-EZ** |
-| Over $200,000, or total assets over $500,000 | **Form 990** (full form) |
-
-**Filing deadline:** The 15th day of the 5th month after your fiscal year ends (May 15 for a December 31 fiscal year end). Extensions are available.
-
-**Critical:** If you miss three consecutive years of 990 filings, the IRS automatically revokes your tax-exempt status. Reinstatement is possible but costly and time-consuming.
-
-#### A Note on the 990-N e-Postcard Portal Status
-
-If you file the 990-N (e-Postcard), you may see your filing listed as "Pending" in the e-Postcard portal even after you submit it. This is a known bug in the IRS portal, not a problem with your filing. If your submission shows as pending, no action is required, and it is likely already accepted.
-
-According to the IRS helpline, you have about a **7-minute window right after you submit** your 990-N to fix this. Here is the procedure:
-
-1. Submit your 990-N filing as usual.
-2. Within about 7 minutes of submitting, go back into the e-Postcard portal and click the **"Get Updated Status"** button.
-3. This pulls the correct, accepted status into the portal.
-
-If you miss that window, the status can stay stuck on "Pending" indefinitely even though the filing went through. Because the window is so short, plan to stay on the page after you submit and set aside a few dedicated minutes for this step. It's easy to click away and miss it.
-
-You can always confirm your organization's real filing status on the IRS's public [Tax Exempt Organization Search](https://apps.irs.gov/app/eos/details/) tool. It will show your e-Postcard filing as accepted even if it still shows as "Pending" in the [e-Postcard portal](https://sa.www4.irs.gov/epostcard/secure/990n/forms/list/).
-
-### State Annual Reports and Registration Renewals
-
-Most states require nonprofits to file an annual report with the Secretary of State to keep the organization in good standing. Fees and deadlines vary by state. Missing filings can result in administrative dissolution.
-
-Check your state's Secretary of State website each year.
-
-### Board Meeting Minutes
-
-Boards are required to hold regular meetings and keep written minutes on file. Minutes should document:
-
-* Date, location, and attendees
-* Decisions and votes taken
-* Any conflicts of interest disclosed
-* Actions assigned
-
-Minutes do not need to be exhaustive, but they must exist. Store them permanently; they may be requested by auditors, lenders, or state regulators.
-
-### Financial Records Retention
-
-Keep the following records for the periods noted:
-
-* **Permanent:** Articles of incorporation, bylaws, IRS determination letter, board meeting minutes, tax returns (990s)
-* **7 years:** General financial records, bank statements, grant agreements, contracts
-* **3 years:** Non-permanent HR records
-
-The IRS can audit up to 3 years back in most cases, and up to 6 years if it suspects substantial underreporting.
-
-### State Charitable Solicitation Registration
-
-If your organization solicits donations (in person, by mail, online, or through third parties), most states require you to register as a charitable solicitor. This is separate from your tax exemption and your annual report.
-
-* Requirements vary widely: some states exempt small organizations, some require registration before your first ask.
-* If you fundraise online, you may need to register in multiple states.
-* [Charitable Allies](https://charitableallies.org/) and the [National Council of Nonprofits](https://www.councilofnonprofits.org/) both have state-by-state registration guidance.
+Once your nonprofit is formed, see [Ongoing Compliance Requirements](ongoing-compliance-requirements.md) for what you need to do every year to keep your status in good standing.
 
 ---
 
