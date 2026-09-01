@@ -134,7 +134,13 @@ All 501(c)(3) organizations must file with the IRS each year. Which form you fil
 
 If you file the 990-N (e-Postcard), you may see your filing listed as "Pending" in the e-Postcard portal even after you submit it. This is a known bug in the IRS portal, not a problem with your filing. If your submission shows as pending, no action is required, and it is likely already accepted.
 
-According to the IRS helpline, there is a short window, just a few minutes, right after you submit your 990-N when clicking the "Get Updated Status" button will pull the correct, accepted status into the portal. If you miss that window, the status can stay stuck on "Pending" even though the filing went through. We recommend setting aside a few dedicated minutes after you submit to come back and click "Get Updated Status" so the portal reflects the accurate result.
+According to the IRS helpline, you have about a **7-minute window right after you submit** your 990-N to fix this. Here is the procedure:
+
+1. Submit your 990-N filing as usual.
+2. Within about 7 minutes of submitting, go back into the e-Postcard portal and click the **"Get Updated Status"** button.
+3. This pulls the correct, accepted status into the portal.
+
+If you miss that window, the status can stay stuck on "Pending" indefinitely even though the filing went through. Because the window is so short, plan to stay on the page after you submit and set aside a few dedicated minutes for this step. It's easy to click away and miss it.
 
 You can always confirm your organization's real filing status on the IRS's public [Tax Exempt Organization Search](https://apps.irs.gov/app/eos/details/) tool. It will show your e-Postcard filing as accepted even if it still shows as "Pending" in the [e-Postcard portal](https://sa.www4.irs.gov/epostcard/secure/990n/forms/list/).
 
