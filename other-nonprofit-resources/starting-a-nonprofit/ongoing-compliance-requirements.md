@@ -94,4 +94,4 @@ If your organization solicits donations (in person, by mail, online, or through 
 
 ---
 
-*This page is maintained by [Good Heart Tech](https://goodhearttech.org). We provide free IT services to nonprofits in the Treasure Valley and beyond.*
+*Maintained by [Good Heart Tech](https://goodhearttech.org), your free IT team.*
