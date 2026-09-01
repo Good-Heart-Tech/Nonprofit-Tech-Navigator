@@ -130,6 +130,14 @@ All 501(c)(3) organizations must file with the IRS each year. Which form you fil
 
 **Critical:** If you miss three consecutive years of 990 filings, the IRS automatically revokes your tax-exempt status. Reinstatement is possible but costly and time-consuming.
 
+#### A Note on the 990-N e-Postcard Portal Status
+
+If you file the 990-N (e-Postcard), you may see your filing listed as "Pending" in the e-Postcard portal even after you submit it. This is a known bug in the IRS portal, not a problem with your filing. If your submission shows as pending, no action is required, and it is likely already accepted.
+
+According to the IRS helpline, there is a short window, just a few minutes, right after you submit your 990-N when clicking the "Get Updated Status" button will pull the correct, accepted status into the portal. If you miss that window, the status can stay stuck on "Pending" even though the filing went through. We recommend setting aside a few dedicated minutes after you submit to come back and click "Get Updated Status" so the portal reflects the accurate result.
+
+You can always confirm your organization's real filing status on the IRS's public [Tax Exempt Organization Search](https://apps.irs.gov/app/eos/details/) tool. It will show your e-Postcard filing as accepted even if it still shows as "Pending" in the [e-Postcard portal](https://sa.www4.irs.gov/epostcard/secure/990n/forms/list/).
+
 ### State Annual Reports and Registration Renewals
 
 Most states require nonprofits to file an annual report with the Secretary of State to keep the organization in good standing. Fees and deadlines vary by state. Missing filings can result in administrative dissolution.
