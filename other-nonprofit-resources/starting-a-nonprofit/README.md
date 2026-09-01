@@ -13,6 +13,3 @@ Forming a nonprofit is one of the most meaningful steps you can take to protect 
 
 > **Quick note:** These guides are meant to orient you, not replace legal advice. For anything complex, see [Nonprofit Legal Resources](../nonprofit-legal-resources.md) for guidance on finding affordable legal help.
 
----
-
-*Maintained by [Good Heart Tech](https://goodhearttech.org), your free IT team.*

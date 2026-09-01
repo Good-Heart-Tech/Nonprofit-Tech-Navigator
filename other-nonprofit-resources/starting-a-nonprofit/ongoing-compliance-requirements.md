@@ -92,6 +92,3 @@ If your organization solicits donations (in person, by mail, online, or through 
 * If you fundraise online, you may need to register in multiple states.
 * [Charitable Allies](https://charitableallies.org/) and the [National Council of Nonprofits](https://www.councilofnonprofits.org/) both have state-by-state registration guidance.
 
----
-
-*Maintained by [Good Heart Tech](https://goodhearttech.org), your free IT team.*

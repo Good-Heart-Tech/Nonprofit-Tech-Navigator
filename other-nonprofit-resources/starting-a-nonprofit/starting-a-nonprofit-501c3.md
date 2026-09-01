@@ -114,6 +114,3 @@ Search "[your state] nonprofit tax exemption" or "[your state] 501(c)(3) state e
 
 Once your nonprofit is formed, see [Ongoing Compliance Requirements](ongoing-compliance-requirements.md) for what you need to do every year to keep your status in good standing.
 
----
-
-*Maintained by [Good Heart Tech](https://goodhearttech.org), your free IT team.*
