@@ -8,7 +8,7 @@ icon: user-robot
 
 # AI Tools for Nonprofits
 
-AI tools can save time on writing, design, research, and meeting follow-up. The best choice depends on your existing tools, budget, and comfort with sharing data. For most nonprofits, a single assistant that can reach both Microsoft 365 and Google Workspace is a better first buy than a pricey add-on from Microsoft or Google.
+AI tools can save time on writing, design, research, and meeting follow-up. The best choice depends on your existing tools, budget, and comfort with sharing data. For most nonprofits, a single assistant that can reach both Microsoft 365 and Google Workspace is a better first buy than Microsoft 365 Copilot or a Google Workspace upgrade just for in-app Gemini.
 
 {% hint style="success" %}
 **If you only pick one:** Use **Claude**. It connects well to both Microsoft 365 and Google Workspace, so you do not have to pick a different AI just because of your email suite. Microsoft 365 Copilot is a steep add-on at **$25.50 per user per month**. Gemini in Gmail, Docs, Sheets, and Meet is cheaper than Copilot but still a paid Workspace upgrade (about **$3.50 per user per month**).
