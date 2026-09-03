@@ -51,6 +51,8 @@ The following Microsoft licenses can be applied for FREE for verified 501(c)(3)s
 
 Find additional details about the '_Google Workspace for Nonprofits'_ plan and other discounts available to nonprofits here: [https://www.google.com/nonprofits/workspace/compare/](https://www.google.com/nonprofits/workspace/compare/)
 
+The **Gemini app** and **NotebookLM** are included on the free Workspace for Nonprofits plan. **Gemini in Gmail, Docs, Sheets, and Meet** is not; that is a paid upgrade, roughly **$3.50 per user per month** on Business Standard nonprofit (annual) or **$6.16** on Business Plus. See [AI Tools for Nonprofits](ai-tools-for-nonprofits.md#google-gemini).
+
 {% content-ref url="../../google-workspace/google-workspace-nonprofit-setup/how-to-apply-for-free-nonprofit-google-workspace-services.md" %}
 [how-to-apply-for-free-nonprofit-google-workspace-services.md](../../google-workspace/google-workspace-nonprofit-setup/how-to-apply-for-free-nonprofit-google-workspace-services.md)
 {% endcontent-ref %}

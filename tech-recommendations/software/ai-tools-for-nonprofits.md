@@ -11,7 +11,7 @@ icon: user-robot
 AI tools can save time on writing, design, research, and meeting follow-up. The best choice depends on your existing tools, budget, and comfort with sharing data. For most nonprofits, a single assistant that can reach both Microsoft 365 and Google Workspace is a better first buy than a pricey add-on from Microsoft or Google.
 
 {% hint style="success" %}
-**If you only pick one:** Use **Claude**. It connects well to both Microsoft 365 and Google Workspace, so you do not have to pick a different AI just because of your email suite. Microsoft 365 Copilot and Google Gemini add-ons are much more expensive for comparable work features.
+**If you only pick one:** Use **Claude**. It connects well to both Microsoft 365 and Google Workspace, so you do not have to pick a different AI just because of your email suite. Microsoft 365 Copilot is a steep add-on at **$25.50 per user per month**. Gemini in Gmail, Docs, Sheets, and Meet is cheaper than Copilot but still a paid Workspace upgrade (about **$3.50 per user per month**).
 {% endhint %}
 
 {% hint style="warning" %}
@@ -22,10 +22,10 @@ Do not paste donor data, HR records, legal documents, or other sensitive informa
 
 If you want a simple place to begin, these are the strongest options for most nonprofits:
 
-* **Claude** for most teams, whether you already use Microsoft 365 or Google Workspace. Connect it to email, files, calendar, and chat instead of buying a high-priced Copilot or Gemini add-on.
+* **Claude** for most teams, whether you already use Microsoft 365 or Google Workspace. Connect it to email, files, calendar, and chat instead of buying Microsoft 365 Copilot or upgrading Google Workspace just for in-app Gemini.
 * **ChatGPT** if you want a versatile assistant with custom GPTs and team workspaces.
 * **Microsoft Copilot** only if you need Copilot inside Word, Outlook, Excel, PowerPoint, and Teams and can afford the nonprofit add-on.
-* **Google Gemini** if you specifically want Google’s in-workspace AI and have budget for a paid Gemini plan.
+* **Google Gemini** if you specifically want Google’s in-workspace AI (Gmail, Docs, Sheets, Meet). That is a paid upgrade, about **$3.50 per user per month** on Business Standard nonprofit.
 * **Canva** or **Adobe Express** if you need AI help with graphics and marketing content.
 
 ### AI assistants for writing, planning, and research
@@ -39,10 +39,10 @@ If you want a simple place to begin, these are the strongest options for most no
 * **Microsoft 365:** Outlook, OneDrive, SharePoint, and Teams ([Microsoft 365 connector](https://support.claude.com/en/articles/15183774-connect-to-microsoft-365))
 * **Google Workspace:** Gmail, Google Calendar, and Google Drive ([Google Workspace connectors](https://support.claude.com/en/articles/10166901-use-google-workspace-connectors))
 
-That is why we recommend Claude over Microsoft 365 Copilot or Google Gemini as a first purchase. You get a capable assistant that works with either suite, without paying Copilot’s **$25.50 per user per month** nonprofit add-on (or a similarly pricey Gemini workspace plan).
+That is why we recommend Claude over Microsoft 365 Copilot or Google Gemini as a first purchase. You get a capable assistant that works with either suite, without paying Copilot’s **$25.50 per user per month** add-on or upgrading Google Workspace to get Gemini in the apps (about **$3.50 per user per month** on Business Standard nonprofit).
 
 * **Best for:** Most nonprofits on Microsoft 365 or Google Workspace; writing-heavy teams and long-form analysis
-* **Pricing:** Claude for organizations is paid. Eligible nonprofits can apply for discounted pricing, which is usually a better fit than per-user Copilot or Gemini add-ons.
+* **Pricing:** Claude for organizations is paid. Eligible nonprofits can apply for discounted pricing. That is usually a better fit than Copilot’s **$25.50 per user per month** add-on, and it covers both Microsoft 365 and Google Workspace without a per-suite upgrade.
 * **Free option:** There is no free nonprofit organization plan. Individuals can still use Claude’s personal version, including connectors on supported plans.
 * **Learn more:** [Get started with Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits)
 
@@ -62,12 +62,19 @@ We do **not** recommend it as a first AI purchase. At **$25.50 per user per mont
 
 <div align="left"><figure><img src="../../.gitbook/assets/googlegemini.svg" alt="Google Gemini" width="75"><figcaption></figcaption></figure></div>
 
-[Google Gemini](https://gemini.google.com/app) works well for brainstorming, writing, research, and organizing information. Consumer Gemini is easy to try. Paid Gemini for Google Workspace is the in-suite option, and that add-on pricing is high for most nonprofit budgets.
+[Google Gemini](https://gemini.google.com/app) works well for brainstorming, writing, research, and organizing information. On Google Workspace for Nonprofits, the **Gemini app** and **NotebookLM** are already included at **$0**. That is the chat/research side of Gemini, with enterprise-style data protections on the nonprofit plan.
 
-We recommend [Claude](#claude-for-nonprofits) first for Google Workspace teams too. Claude’s Gmail, Calendar, and Drive connectors cover the same day-to-day work without locking you into Google’s more expensive workspace AI plan.
+**Gemini in Workspace** (Help me write and the side panel in Gmail, Docs, Drive, and Meet, plus higher NotebookLM limits) is **not** on the free plan. It comes with a paid Workspace upgrade:
 
-* **Best for:** Google Workspace organizations that specifically want Gemini inside Google apps and have budget for it
-* **Cost:** Varies by account and plan. Workspace-grade Gemini is a paid add-on, not part of the free Google Workspace for Nonprofits core licenses.
+* **Business Standard (nonprofit):** about **$3.50 per user per month** with a 1-year commitment, or about **$4.20** if billed monthly (Google lists this as ~75% off the usual $14 rate)
+* **Business Plus (nonprofit):** about **$6.16 per user per month** annual, or about **$7.40** billed monthly
+
+Confirm the current rate in [admin.google.com](https://admin.google.com) under Billing. See [Google’s nonprofit Workspace comparison](https://www.google.com/nonprofits/workspace/compare/) and [what AI is included on the free plan](https://support.google.com/nonprofits/answer/16345471).
+
+We still recommend [Claude](#claude-for-nonprofits) first if you want one assistant that also reaches Microsoft 365. Choose Gemini in Workspace if your whole team lives in Google apps and the ~$3.50 upgrade is worth it.
+
+* **Best for:** Google Workspace organizations that want Gemini inside Gmail, Docs, Sheets, and Meet
+* **Cost:** Gemini app and NotebookLM are **free** on Workspace for Nonprofits. In-app Gemini is a paid upgrade, roughly **$3.50–$6.16 per user per month** depending on Business Standard vs Business Plus (annual nonprofit pricing). It is not a Copilot-style $25 add-on.
 * **Start here:** [Open Gemini](https://gemini.google.com/app)
 
 #### ChatGPT for Nonprofits
