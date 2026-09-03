@@ -34,11 +34,11 @@ If you want a simple place to begin, these are the strongest options for most no
 
 <div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft Copilot" width="188"><figcaption></figcaption></figure></div>
 
-[Microsoft Copilot](https://copilot.microsoft.com/) is a practical starting point for drafting emails, rewriting text, summarizing content, and answering everyday questions.
+[Microsoft Copilot](https://copilot.microsoft.com/) is a practical starting point for drafting emails, rewriting text, summarizing content, and answering everyday questions. The free web version is useful for light work. The paid **Microsoft 365 Copilot** add-on is the work version: it brings Copilot into Word, Outlook, Excel, PowerPoint, Teams, and more, and grounds answers in your organization’s Microsoft Graph content (email, files, and meetings).
 
 * **Best for:** Microsoft 365 organizations
-* **Cost:** Free web version available
-* **Start here:** [Open Copilot with your Microsoft 365 account](https://m365.cloud.microsoft/chat/?auth=2)
+* **Cost:** Free web version available. **Microsoft 365 Copilot (Nonprofit Staff Pricing)** is a paid add-on at **$306 per license per year** (annual commitment, billed yearly), which comes out to **$25.50 per user per month**. It is not included in the free nonprofit Microsoft 365 licenses.
+* **Start here:** [Open Copilot with your Microsoft 365 account](https://m365.cloud.microsoft/chat/?auth=2). Eligible nonprofits can buy the add-on from [Purchase services](https://admin.microsoft.com/#/catalog) in the Microsoft 365 admin center. See [Email & Productivity Apps for Nonprofits](email-and-productivity-apps-for-nonprofits.md) for licensing context.
 
 #### Google Gemini
 
@@ -160,4 +160,4 @@ Free AI tools are easy to test. Review privacy settings and output quality befor
 
 [Suno](https://www.suno.ai/) focuses on AI-generated music and audio. It is more niche, but it can help with creative campaigns and simple audio experiments.
 
-*Last reviewed: 2026-08.*
+*Last reviewed: 2026-09.*
