@@ -8,10 +8,10 @@ icon: user-robot
 
 # AI Tools for Nonprofits
 
-AI tools can save time on writing, design, research, and meeting follow-up. The best choice depends on your existing tools, budget, and comfort with sharing data.
+AI tools can save time on writing, design, research, and meeting follow-up. The best choice depends on your existing tools, budget, and comfort with sharing data. For most nonprofits, a single assistant that can reach both Microsoft 365 and Google Workspace is a better first buy than a pricey add-on from Microsoft or Google.
 
 {% hint style="success" %}
-**If you only pick one:** Use Microsoft Copilot if your team is on Microsoft 365, or Google Gemini if your team is on Google Workspace.
+**If you only pick one:** Use **Claude**. It connects well to both Microsoft 365 and Google Workspace, so you do not have to pick a different AI just because of your email suite. Microsoft 365 Copilot and Google Gemini add-ons are much more expensive for comparable work features.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -22,44 +22,53 @@ Do not paste donor data, HR records, legal documents, or other sensitive informa
 
 If you want a simple place to begin, these are the strongest options for most nonprofits:
 
-* **Microsoft Copilot** if your team already uses Microsoft 365.
-* **Google Gemini** if your team already uses Google Workspace.
-* **Claude** if you want strong writing, summarizing, and long-document analysis.
+* **Claude** for most teams, whether you already use Microsoft 365 or Google Workspace. Connect it to email, files, calendar, and chat instead of buying a high-priced Copilot or Gemini add-on.
 * **ChatGPT** if you want a versatile assistant with custom GPTs and team workspaces.
+* **Microsoft Copilot** only if you need Copilot inside Word, Outlook, Excel, PowerPoint, and Teams and can afford the nonprofit add-on.
+* **Google Gemini** if you specifically want Google’s in-workspace AI and have budget for a paid Gemini plan.
 * **Canva** or **Adobe Express** if you need AI help with graphics and marketing content.
 
 ### AI assistants for writing, planning, and research
-
-#### Microsoft Copilot
-
-<div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft Copilot" width="188"><figcaption></figcaption></figure></div>
-
-[Microsoft Copilot](https://copilot.microsoft.com/) is a practical starting point for drafting emails, rewriting text, summarizing content, and answering everyday questions. The free web version is useful for light work. The paid **Microsoft 365 Copilot** add-on is the work version: it brings Copilot into Word, Outlook, Excel, PowerPoint, Teams, and more, and grounds answers in your organization’s Microsoft Graph content (email, files, and meetings).
-
-* **Best for:** Microsoft 365 organizations
-* **Cost:** Free web version available. **Microsoft 365 Copilot (Nonprofit Staff Pricing)** is a paid add-on at **$306 per license per year** (annual commitment, billed yearly), which comes out to **$25.50 per user per month**. It is not included in the free nonprofit Microsoft 365 licenses.
-* **Start here:** [Open Copilot with your Microsoft 365 account](https://m365.cloud.microsoft/chat/?auth=2). Eligible nonprofits can buy the add-on from [Purchase services](https://admin.microsoft.com/#/catalog) in the Microsoft 365 admin center. See [Email & Productivity Apps for Nonprofits](email-and-productivity-apps-for-nonprofits.md) for licensing context.
-
-#### Google Gemini
-
-<div align="left"><figure><img src="../../.gitbook/assets/googlegemini.svg" alt="Google Gemini" width="75"><figcaption></figcaption></figure></div>
-
-[Google Gemini](https://gemini.google.com/app) works well for brainstorming, writing, research, and organizing information. It is a natural fit for teams already working in Google Workspace.
-
-* **Best for:** Google Workspace organizations
-* **Cost:** Varies by account and plan
-* **Start here:** [Open Gemini](https://gemini.google.com/app)
 
 #### Claude for Nonprofits
 
 <div align="left"><figure><img src="../../.gitbook/assets/anthropic.svg" alt="Anthropic Claude" width="75"><figcaption></figcaption></figure></div>
 
-[Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits) is especially strong for drafting, editing, summarizing long documents, and helping staff think through complex ideas in plain language.
+[Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits) is our default recommendation for nonprofit staff AI. It is strong for drafting, editing, summarizing long documents, and helping staff think through complex ideas in plain language. It also connects directly to the tools you already use:
 
-* **Best for:** Writing-heavy teams and long-form analysis
-* **Pricing:** Claude for organizations is paid. Eligible nonprofits can apply for discounted pricing.
-* **Free option:** There is no free nonprofit organization plan. Individuals can still use Claude’s personal version.
+* **Microsoft 365:** Outlook, OneDrive, SharePoint, and Teams ([Microsoft 365 connector](https://support.claude.com/en/articles/15183774-connect-to-microsoft-365))
+* **Google Workspace:** Gmail, Google Calendar, and Google Drive ([Google Workspace connectors](https://support.claude.com/en/articles/10166901-use-google-workspace-connectors))
+
+That is why we recommend Claude over Microsoft 365 Copilot or Google Gemini as a first purchase. You get a capable assistant that works with either suite, without paying Copilot’s **$25.50 per user per month** nonprofit add-on (or a similarly pricey Gemini workspace plan).
+
+* **Best for:** Most nonprofits on Microsoft 365 or Google Workspace; writing-heavy teams and long-form analysis
+* **Pricing:** Claude for organizations is paid. Eligible nonprofits can apply for discounted pricing, which is usually a better fit than per-user Copilot or Gemini add-ons.
+* **Free option:** There is no free nonprofit organization plan. Individuals can still use Claude’s personal version, including connectors on supported plans.
 * **Learn more:** [Get started with Claude for Nonprofits](https://support.claude.com/en/articles/12893767-getting-started-with-claude-for-nonprofits)
+
+#### Microsoft Copilot
+
+<div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft Copilot" width="188"><figcaption></figcaption></figure></div>
+
+[Microsoft Copilot](https://copilot.microsoft.com/) is useful for drafting emails, rewriting text, summarizing content, and answering everyday questions. The free web version is fine for light, non-sensitive work. The paid **Microsoft 365 Copilot** add-on is the in-app version: Copilot in Word, Outlook, Excel, PowerPoint, Teams, and more, grounded in Microsoft Graph (email, files, and meetings).
+
+We do **not** recommend it as a first AI purchase. At **$25.50 per user per month**, it is expensive compared with Claude, which can already reach Outlook, OneDrive, SharePoint, and Teams through its Microsoft 365 connector. Choose Copilot if you specifically need the buttons inside Microsoft apps and have budget for it.
+
+* **Best for:** Microsoft 365 organizations that want Copilot inside the Office apps and can afford the add-on
+* **Cost:** Free web version available. **Microsoft 365 Copilot (Nonprofit Staff Pricing)** is a paid add-on at **$306 per license per year** (annual commitment, billed yearly), which comes out to **$25.50 per user per month**. It is not included in the free nonprofit Microsoft 365 licenses.
+* **Start here:** [Open Copilot with your Microsoft 365 account](https://m365.cloud.microsoft/chat/?auth=2). Eligible nonprofits can buy the add-on from [Purchase services](https://admin.microsoft.com/#/catalog) in the Microsoft 365 admin center. See [Email & Productivity Apps for Nonprofits](email-and-productivity-apps-for-nonprofits.md) for licensing context. Prefer [Claude for Nonprofits](#claude-for-nonprofits) unless you need the in-app Copilot experience.
+
+#### Google Gemini
+
+<div align="left"><figure><img src="../../.gitbook/assets/googlegemini.svg" alt="Google Gemini" width="75"><figcaption></figcaption></figure></div>
+
+[Google Gemini](https://gemini.google.com/app) works well for brainstorming, writing, research, and organizing information. Consumer Gemini is easy to try. Paid Gemini for Google Workspace is the in-suite option, and that add-on pricing is high for most nonprofit budgets.
+
+We recommend [Claude](#claude-for-nonprofits) first for Google Workspace teams too. Claude’s Gmail, Calendar, and Drive connectors cover the same day-to-day work without locking you into Google’s more expensive workspace AI plan.
+
+* **Best for:** Google Workspace organizations that specifically want Gemini inside Google apps and have budget for it
+* **Cost:** Varies by account and plan. Workspace-grade Gemini is a paid add-on, not part of the free Google Workspace for Nonprofits core licenses.
+* **Start here:** [Open Gemini](https://gemini.google.com/app)
 
 #### ChatGPT for Nonprofits
 
