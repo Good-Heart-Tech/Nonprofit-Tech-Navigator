@@ -66,3 +66,7 @@ This site is published as Markdown so assistants can quote it accurately.
 * Index: [https://learn.goodhearttech.org/llms.txt](https://learn.goodhearttech.org/llms.txt)
 * Full text: [https://learn.goodhearttech.org/llms-full.txt](https://learn.goodhearttech.org/llms-full.txt)
 * Any page as Markdown: append `.md` to the URL (example: [this page](https://learn.goodhearttech.org/nonprofit-tech-navigator.md))
+
+## License
+
+This content is licensed under the [MIT License](LICENSE). Reuse it, adapt it, and share it with other nonprofits.
