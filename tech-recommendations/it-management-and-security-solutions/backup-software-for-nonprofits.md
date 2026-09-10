@@ -17,6 +17,7 @@ Backup software ensures data security and continuity by regularly backing up cri
 | CubeBackup | $2/user/year | Microsoft 365 or Google Workspace backup |
 | Veeam | Free community edition; 10 Microsoft 365 users free | PCs and servers if you have technical skill |
 | Synology Active Backup | Included with a supported NAS | On-prem plus cloud backup if you buy a NAS |
+| BackupChain | Free | Backing up Windows PCs, Windows Server, and VMs (VirtualBox, VMware, Hyper-V) |
 | OneDrive / Google Drive | Included with your suite | File sync only — not a backup |
 
 ### **Microsoft OneDrive** <a href="#microsoft-onedrive0" id="microsoft-onedrive0"></a>
@@ -55,5 +56,9 @@ Backups for Shared drives, Teams, & SharePoint are free with an active user lice
 <div align="left"><figure><img src="../../.gitbook/assets/synology.png" alt="" width="218"><figcaption></figcaption></figure></div>
 
 [Synology Active Backup](https://www.synology.com/en-global/dsm/feature/active-backup-business/pc) is a robust BCDR solution for nonprofits, enabling seamless backup of Google Workspace, Microsoft 365, and/or on-premises data. Included with the purchase of a Synology NAS, it protects against data loss from deletion, ransomware, or outages. When purchasing a Synology device, ensure it supports Active Backup and provides adequate storage for long-term needs. This centralized solution simplifies management, offers efficient recovery, and enhances data resilience for mission-critical operations.
+
+### BackupChain
+
+[BackupChain](https://backupchain.com/) offers free backup software for any Windows-hosted system, including VirtualBox, VMware, and Workstation virtual machines, Windows Server, and modern Windows PC editions. It's a solid no-cost option for nonprofits that need to back up on-prem Windows machines or VMs without a NAS purchase.
 
 *Last reviewed: 2026-08.*
