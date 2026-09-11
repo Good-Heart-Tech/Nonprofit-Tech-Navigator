@@ -9,7 +9,7 @@ description: >-
 Backup software ensures data security and continuity by regularly backing up critical information. This technology minimizes the risk of data loss, providing nonprofits with a reliable safeguard against potential disruptions and fostering operational resilience.
 
 {% hint style="success" %}
-**If you only pick one:** Do not treat OneDrive or Google Drive as your backup. For Microsoft 365 or Google Workspace, start with CubeBackup ($2/user/year for nonprofits). Use Veeam or Synology if you need a full backup of PCs or servers.
+**If you only pick one:** Do not treat OneDrive or Google Drive as your backup. For Microsoft 365 or Google Workspace, start with CubeBackup ($2/user/year for nonprofits). For Windows PCs, Windows Server, or Windows-hosted VMs, start with BackupChain (free for qualifying nonprofits). Use Veeam or Synology if you need a broader BCDR stack or a NAS.
 {% endhint %}
 
 | Tool | Nonprofit cost | Best for |
@@ -17,7 +17,7 @@ Backup software ensures data security and continuity by regularly backing up cri
 | CubeBackup | $2/user/year | Microsoft 365 or Google Workspace backup |
 | Veeam | Free community edition; 10 Microsoft 365 users free | PCs and servers if you have technical skill |
 | Synology Active Backup | Included with a supported NAS | On-prem plus cloud backup if you buy a NAS |
-| BackupChain | Free | Backing up Windows PCs, Windows Server, and VMs (VirtualBox, VMware, Hyper-V) |
+| BackupChain | Free for qualifying nonprofits; discounts otherwise | Windows PCs, Windows Server, and VMs on a Windows host (VirtualBox, VMware Workstation, Hyper-V) |
 | OneDrive / Google Drive | Included with your suite | File sync only — not a backup |
 
 ### **Microsoft OneDrive** <a href="#microsoft-onedrive0" id="microsoft-onedrive0"></a>
@@ -59,6 +59,19 @@ Backups for Shared drives, Teams, & SharePoint are free with an active user lice
 
 ### BackupChain
 
-[BackupChain](https://backupchain.com/) offers free backup software for any Windows-hosted system, including VirtualBox, VMware, and Workstation virtual machines, Windows Server, and modern Windows PC editions. It's a solid no-cost option for nonprofits that need to back up on-prem Windows machines or VMs without a NAS purchase.
+<div align="left"><figure><img src="../../.gitbook/assets/backupchain-logo.png" alt="BackupChain" width="220"><figcaption></figcaption></figure></div>
 
-*Last reviewed: 2026-08.*
+[BackupChain](https://backupchain.com/) is backup software for Windows hosts. It covers on-prem machines and virtual machines, with cloud backup as an option. The OS **inside** a VM does not matter, as long as the **host** is Windows. That makes it a practical no-cost option for nonprofits that need to back up Windows machines or VMs without buying a NAS.
+
+**Use cases**
+
+* Any Windows-based OS, including **Windows Server** and **Windows desktop** editions
+* **VirtualBox** running on Windows
+* **VMware Workstation** running on Windows
+* **Hyper-V** VMs on a Windows host
+
+It does **not** back up VMs on Proxmox. Proxmox is its own host OS, and BackupChain does not support that yet.
+
+BackupChain donates licenses to small nonprofits and offers substantial discounts to most others. To request a donation, email Melissa Weekley ([melissa@fastneuron.com](mailto:melissa@fastneuron.com)) or Savas Papadopoulos ([savas@fastneuron.com](mailto:savas@fastneuron.com)). Include your organization's basic financial information and how many licenses you need. See [BackupChain software donations to non-profit organizations](https://backupchain.net/backupchain-software-donations-to-non-profit-organizations/) for the request process.
+
+*Last reviewed: 2026-09.*
