@@ -10,7 +10,9 @@ icon: briefcase-blank
 **Tip:** MSP stands for **managed services provider**. An MSP is a company or organization that provides IT services to other organizations.
 {% endhint %}
 
-The organizations below are paid IT service providers, unless noted otherwise.
+Good Heart Tech is listed first. It is a **free** MSP for eligible nonprofits — all of its services are $0, not a paid commercial MSP.
+
+The paid IT service providers start after that section, unless a listing is marked otherwise.
 
 The price labels are relative, not exact quotes. Use them to compare typical cost levels between providers.
 
@@ -29,6 +31,14 @@ Good Heart Tech also publishes free resources: [Nonprofit Tech Navigator](https:
 See also: [Free IT Support from Good Heart Tech](free-it-support-from-good-heart-tech.md)
 
 ---
+
+## Paid IT service providers
+
+#### TheSystemAdmin `Lower cost` — recommended in Idaho
+
+**Website:** [https://thesystemadm.in/](https://thesystemadm.in/)\
+**Estimated employees:** 2\
+TheSystemAdmin is Good Heart Tech’s recommended paid MSP in Idaho. Based in Caldwell, they are a small, professional shop: lower-cost, responsive, and straightforward to work with. They handle workstation and server support, backups and disaster recovery, cybersecurity, and one-off projects such as Microsoft 365 or Google Workspace migrations. A strong fit for Idaho nonprofits that need a paid MSP.
 
 #### BEMA Information Technologies `Mid-range cost`
 
