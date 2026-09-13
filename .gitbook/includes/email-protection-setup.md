@@ -33,7 +33,7 @@ These settings can be found in the [**Google Admin portal**](https://admin.googl
 These settings can be found in the [**Google Admin portal**](https://admin.google.com) under [**Apps** > **Google Workspace** > **Gmail** > **End User Access**.](https://admin.google.com/ac/managedsettings/740348119625)
 
 * **Disable POP**: Under **POP and IMAP Access**, _uncheck_ **Enable POP access for all users** to disable it.
-* _**(Optional**_**) Disable IMAP**: If you want to increase security, you can force people to use the Gmail web app and prevent people from using apps like Microsoft Outlook to manage thier email. This greatly increases security. Under **POP and IMAP Access**, _uncheck_ **Enable IMAP access for all users** to disable it.
+* _**(Optional**_**) Disable IMAP**: If you want to increase security, you can force people to use the Gmail web app and prevent people from using apps like Microsoft Outlook to manage their email. This greatly increases security. Under **POP and IMAP Access**, _uncheck_ **Enable IMAP access for all users** to disable it.
 * **Google Workspace Sync**: On
 * (_**Optional**_**) Disable External Recipients Warning:** At the bottom of the page, uncheck **Warn for external recipients** to disable it.
 * **Emoji Reactions**: On

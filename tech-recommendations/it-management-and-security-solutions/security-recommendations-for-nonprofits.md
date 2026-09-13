@@ -6,7 +6,7 @@ description: >-
 
 # Security Recommendations for Nonprofits
 
-Strong security doesn’t have to be complicated or expensive. Nonprofits can make a significant impact by focusing on a few proven practices that block the majority of attacks. The recommendations below highlight practical tools and configurations—like multi-factor authentication, DNS protections, and free assessments—that any nonprofit team can implement to reduce risks and safeguard their mission.
+Strong security doesn’t have to be complicated or expensive. Nonprofits can make a significant impact by focusing on a few proven practices that block the majority of attacks. The recommendations below highlight practical tools and configurations, like multi-factor authentication, DNS protections, and free assessments, that any nonprofit team can implement to reduce risks and safeguard their mission.
 
 {% hint style="success" %}
 **If you only pick one:** Enforce MFA everywhere first. Then set SPF, DKIM, and DMARC on your email domain. Those two steps stop most account takeovers and email impersonation.
@@ -22,7 +22,7 @@ Multi-factor authentication (MFA/2FA) should be enforced in as many systems as p
 
 ## DNS Security <a href="#dns-security2" id="dns-security2"></a>
 
-[**DNS Email security**](https://support.google.com/a/topic/9061731?hl=en\&ref_topic=9202) is an essential part of email services that are often neglected by smaller nonprofits. [SPF](https://support.google.com/a/topic/10685331?hl=en\&ref_topic=9061731), [DMARC](https://support.google.com/a/topic/2759254?hl=en\&ref_topic=9061731), and [DKIM](https://support.google.com/a/topic/2752442?hl=en\&ref_topic=9061731) work together to provide secure and reputable email delivery for a domain. All three enable helps your brand reputation and ensure other people get your emails. Feel free to reach out to us to [get help setting these up](https://goodhearttech.org/contact). SPF and DKIM technologies can be easily configured for Google and Microsoft email services, and we recommend [Cloudflare](https://blog.cloudflare.com/dmarc-management/) for free DMARC services. &#x20;
+[**DNS Email security**](https://support.google.com/a/topic/9061731?hl=en\&ref_topic=9202) is an essential part of email services that are often neglected by smaller nonprofits. [SPF](https://support.google.com/a/topic/10685331?hl=en\&ref_topic=9061731), [DMARC](https://support.google.com/a/topic/2759254?hl=en\&ref_topic=9061731), and [DKIM](https://support.google.com/a/topic/2752442?hl=en\&ref_topic=9061731) work together to provide secure and reputable email delivery for a domain. Together, all three help your brand reputation and ensure other people get your emails. Feel free to reach out to us to [get help setting these up](https://goodhearttech.org/contact). SPF and DKIM technologies can be easily configured for Google and Microsoft email services, and we recommend [Cloudflare](https://blog.cloudflare.com/dmarc-management/) for free DMARC services. &#x20;
 
 {% content-ref url="../../tech-guides/domain-and-dns/email-sender-validation-using-dns-spf-dkim-and-dmarc.md" %}
 [email-sender-validation-using-dns-spf-dkim-and-dmarc.md](../../tech-guides/domain-and-dns/email-sender-validation-using-dns-spf-dkim-and-dmarc.md)

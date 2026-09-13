@@ -59,7 +59,7 @@ Your domain is now email-enabled! In the next sections, we'll make sure it's sec
 ### Enable SPF for email security
 
 * To enable SPF, all you need to do is add TXT record in you DNS host. [Craft the SPF record using this article.](https://apps.google.com/supportwidget/articlehome?hl=en\&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F10684623%3Fhl%3Den\&assistant_id=generic-unu\&product_context=10684623\&product_name=UnuFlow\&trigger_context=a)
-* If you don't have any other services that send email on your domain, you SPF record will look like this:
+* If you don't have any other services that send email on your domain, your SPF record will look like this:
 
 ```
 v=spf1 include:_spf.google.com ~all
@@ -77,11 +77,7 @@ v=spf1 include:_spf.google.com ~all
 
 1. Set up any shared mailboxes ([collaborative inbox from Google Groups](https://support.google.com/a/users/answer/10375787?hl=en)) that will be needed and delegate them to the appropriate users.
 2. Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://support.google.com/a/answer/6003169?hl=en\&ref_topic=6245191) from other platforms.
-3.  Enable **Mail Delegation** from Gmail's [User Settings section](https://admin.google.com/ac/apps/gmail/usersettings), which is very helpful for accessing shared mailboxes. \*
-
-    ```
-    <figure><img src="/files/EBNsaZwxfYZNt6t4PcKe" alt=""><figcaption></figcaption></figure>
-    ```
+3. Enable **Mail Delegation** from Gmail's [User Settings section](https://admin.google.com/ac/apps/gmail/usersettings), which is very helpful for accessing shared mailboxes.
 
 {% include "../../.gitbook/includes/email-protection-setup.md" %}
 
