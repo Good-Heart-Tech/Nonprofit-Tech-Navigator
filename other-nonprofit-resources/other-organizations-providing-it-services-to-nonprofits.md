@@ -28,7 +28,7 @@ A 501(c)(3) that provides free managed IT to eligible US nonprofits. Volunteer-r
 
 **Website:** [https://thesystemadm.in/](https://thesystemadm.in/)\
 **Estimated employees:** 2\
-TheSystemAdmin is Good Heart Tech’s recommended paid MSP in Idaho. Based in Caldwell, they are a small, professional shop: lower-cost, responsive, and straightforward to work with. They handle workstation and server support, backups and disaster recovery, cybersecurity, and one-off projects such as Microsoft 365 or Google Workspace migrations. A strong fit for Idaho nonprofits that need a paid MSP.
+TheSystemAdmin is Good Heart Tech’s recommended paid MSP in Idaho, and they also support clients across the United States. Based in Caldwell, they are a small, professional shop: lower-cost, responsive, and straightforward to work with. They handle workstation and server support, backups and disaster recovery, cybersecurity, and one-off projects such as Microsoft 365 or Google Workspace migrations. A strong fit for Idaho nonprofits and for organizations elsewhere that need a paid MSP.
 
 #### BEMA Information Technologies `Mid-range cost`
 
