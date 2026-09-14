@@ -9,7 +9,7 @@ description: >-
 For nonprofits, procuring computers and other tech equipment can be challenging on a budget. Below, we outline some great resources for finding low-cost or free computers.
 
 {% hint style="success" %}
-**If you only pick one:** Buy a Windows 11 Pro laptop with 16 GB RAM and a 512 GB SSD. TechSoup and Dell Refurbished are the usual starting points.
+**If you only pick one:** Buy a Windows 11 Pro laptop with 16 GB RAM and a 512 GB SSD. TechSoup, Dell Refurbished, and the [CTL Reuse Store](https://store.3rtechnology.com/) (3R Technology) are the usual starting points.
 {% endhint %}
 
 {% hint style="info" %}
@@ -38,6 +38,7 @@ Here are some of the places you may consider looking for PCs for your nonprofit:
 | [TechSoup](https://www.techsoup.org/search/products/dell/)                    | Refurbished Dell, HP, & Levono | Nonprofit [application process](https://www.techsoup.org/joining-techsoup/how-to-join-techsoup)                                                                                   | Low                 |
 | [Dell Refurbished](https://www.dellrefurbished.com/)                          | Refurbished Dell               | N/A                                                                                                                                                                               | Low                 |
 | [Deals.dell.com](https://www.dell.com/en-us/shop/deals)                       | New & Refurbished **De**ll     | N/A                                                                                                                                                                               | Low                 |
+| [CTL Reuse Store (3R Technology)](https://store.3rtechnology.com/)            | Certified refurbished laptops, desktops, Chromebooks, and Macs. Live stock on the site. Same org as [CTL shop](https://ctl.net/pages/shop). | Based in Oregon and Washington; ships nationwide. Nonprofits can [email an EIN for extra discounts](https://store.3rtechnology.com/collections/non-profits). | Low                 |
 | [Electronic Recycling Association](https://www.era.ca/apply-for-donations/)   | Refurbished                    | Only Nonprofits in Canada and US States: California, Illinois, Massachusetts, New York, Texas, Vermont                                                                            | Free                |
 | [Computers with Causes](https://www.computerswithcauses.org/application/)     | Refurbished                    | Nonprofits apply via snail [mail PDF here.](https://www.computerswithcauses.org/application/)                                                                                     | Free                |
 | **Human-I-T**                                                                 | Refurbished                    | Nonprofits [apply here](https://store.human-i-t.org/nonprofit-membership/).                                                                                                       | Low                 |
@@ -76,4 +77,4 @@ HP has great PCs available:
 
 We recommend avoiding physical servers wherever possible because of the affordability and stability of [nonprofit cloud hosting options](computers-and-servers.md#hosting-providers4). However, if on-premise infrastructure is required, we recommend [Dell PowerEdge](https://www.dell.com/en-us/dt/servers/index.htm) servers.
 
-*Last reviewed: 2026-08.*
+*Last reviewed: 2026-09.*

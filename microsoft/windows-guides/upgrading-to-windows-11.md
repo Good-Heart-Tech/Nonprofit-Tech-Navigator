@@ -26,4 +26,5 @@ Trusted purchase options include:
 
 * [Dell Deals](https://deals.dell.com)
 * [Dell Refurbished](https://www.dellrefurbished.com/)
+* [CTL Reuse Store (3R Technology)](https://store.3rtechnology.com/) – Pacific Northwest refurbisher; ships nationwide
 * [TechSoup – nonprofit discounts](https://www.techsoup.org/search/products/dell/)
