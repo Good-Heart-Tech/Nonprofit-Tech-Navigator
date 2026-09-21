@@ -73,6 +73,8 @@ To create a [Venmo charity profile](https://help.venmo.com/hc/en-us/articles/667
 
 ## Accounting
 
+QuickBooks and MoneyMinder help you track money day to day. For Form 990, tax-exempt filings, and nonprofit tax advice, see [Nonprofit Accounting & CPA Resources](../../other-nonprofit-resources/nonprofit-accounting.md).
+
 ### QuickBooks (Intuit)
 
 <div align="left"><figure><img src="../../.gitbook/assets/quickbooks.png" alt="" width="256"><figcaption></figcaption></figure></div>

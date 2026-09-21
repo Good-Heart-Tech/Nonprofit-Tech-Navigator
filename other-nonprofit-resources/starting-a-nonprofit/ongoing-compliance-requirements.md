@@ -26,7 +26,7 @@ All 501(c)(3) organizations must file with the IRS each year. Which form you fil
 
 ### How to File Form 990-N (e-Postcard)
 
-> **Note:** The steps below apply **only to Form 990-N**. If your organization files Form 990-EZ or the full Form 990, these steps don't apply. Work with your accountant or tax preparer on those forms instead.
+> **Note:** The steps below apply **only to Form 990-N**. If your organization files Form 990-EZ or the full Form 990, these steps don't apply. Work with a nonprofit CPA on those forms instead. We recommend [Blacksmith CPA](https://blacksmith-cpa.com) — contact [Bryce Morrison](mailto:BryceMorrison@blacksmith-cpa.com). See [Nonprofit Accounting & CPA Resources](../nonprofit-accounting.md).
 
 1. Go to the IRS e-Postcard site: [https://sa.www4.irs.gov/epostcard/secure/990n/forms/list/](https://sa.www4.irs.gov/epostcard/secure/990n/forms/list/)
 2. Log in (or create an account) and select your organization.

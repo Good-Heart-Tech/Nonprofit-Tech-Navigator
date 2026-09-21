@@ -8,7 +8,7 @@ icon: list-ol
 
 This guide walks you through the full process of forming a nonprofit, in the correct order. Once you're up and running, see [Ongoing Compliance Requirements](ongoing-compliance-requirements.md) for what you need to do every year to stay in good standing.
 
-> **Quick note:** This guide is meant to orient you, not replace legal advice. For anything complex, see [Nonprofit Legal Resources](../nonprofit-legal-resources.md) for guidance on finding affordable legal help.
+> **Quick note:** This guide is meant to orient you, not replace legal or tax advice. For legal help, see [Nonprofit Legal Resources](../nonprofit-legal-resources.md). For Form 990 and nonprofit tax work, see [Nonprofit Accounting & CPA Resources](../nonprofit-accounting.md).
 
 ---
 
