@@ -9,7 +9,7 @@ icon: file-doc
 
 ## :checkered\_flag: Prerequisites
 
-To download the Microsoft 365 Apps (Office suite), you must have a Microsoft 365 Business Standard or above license. Please see [this section](../microsoft-365-nonprofit-setup/README.md) for more info about licensing available to nonprofits.&#x20;
+To download the Microsoft 365 Apps (Office suite), you must have **Microsoft 365 Business Standard or Business Premium**. Business Basic includes web apps only. See [Business Basic vs Standard vs Premium](../../tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md#business-basic-vs-standard-vs-premium) and [Managing Nonprofit Licenses](../microsoft-365-nonprofit-setup/managing-nonprofit-licenses-in-the-microsoft-365-admin-center.md).
 
 ## :technologist: Logging in to Microsoft 365
 

@@ -28,6 +28,24 @@ Microsoft offers eligible 501(c)(3) nonprofits a donation of **Microsoft 365 Bus
 * Microsoft Teams for meetings and chat
 * Basic security and compliance features
 
+### Business Basic vs Standard vs Premium
+
+Most nonprofits start on **Business Basic** (free). Buy **Standard** or **Premium** in the [Microsoft 365 admin catalog](../../microsoft/microsoft-365-nonprofit-setup/managing-nonprofit-licenses-in-the-microsoft-365-admin-center.md) when staff need desktop Office apps or central device security.
+
+| | **Business Basic** | **Business Standard** | **Business Premium** |
+| --- | --- | --- | --- |
+| **Nonprofit price** | Free (up to 300 users) | About **$3/user/month** (annual) | About **$5.50/user/month** (annual) |
+| **Email & Teams** | Yes | Yes | Yes |
+| **OneDrive & SharePoint** | 1 TB/user | 1 TB/user | 1 TB/user |
+| **Office apps** | Web & mobile only | **Desktop** + web + mobile | **Desktop** + web + mobile |
+| **Device management (Intune)** | No | No | **Yes** |
+| **Defender for Endpoint** | No | No | **Yes** |
+| **Best for** | Email, files, Teams on a budget | Staff who need installed Word/Excel/PowerPoint | Managed PCs plus Microsoft’s advanced antivirus |
+
+{% hint style="warning" %}
+**Business Premium is no longer free** for nonprofits (as of May 2025). Confirm current prices in **Billing → Purchase services** after nonprofit verification. Do not buy through TechSoup — see the warning in the free licenses section below.
+{% endhint %}
+
 {% hint style="info" %}
 To provision the Microsoft licenses listed below, you must be a verified nonprofit with Microsoft and be signed in with an admin account. [Refer to this article to learn how to apply for free Microsoft licensing](../../microsoft/microsoft-365-nonprofit-setup/how-to-apply-for-free-nonprofit-microsoft-365-services.md)
 {% endhint %}
@@ -110,4 +128,4 @@ Stirling PDF offers self-hosting options for independent use. Find out more on t
 
 Download here: [GitHub Releases](https://github.com/Tichau/FileConverter/releases/) or [Official Site](https://file-converter.io/download.html).
 
-*Last reviewed: 2026-08.*
+*Last reviewed: 2026-09.*

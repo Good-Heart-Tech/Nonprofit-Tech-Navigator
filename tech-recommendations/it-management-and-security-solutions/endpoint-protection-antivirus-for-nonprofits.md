@@ -9,7 +9,7 @@ description: >-
 **Endpoint Protection (Antivirus)** is essential for nonprofits, safeguarding devices and networks from malware, phishing, and ransomware. It protects sensitive data, prevents costly disruptions, and strengthens digital infrastructure, allowing nonprofits to focus on their mission without compromising security.
 
 {% hint style="success" %}
-**If you only pick one:** Use Microsoft Defender for Endpoint if you already have Microsoft 365 nonprofit licensing. Otherwise, look at ThreatDown (Malwarebytes) through TechSoup.
+**If you only pick one:** Use **Microsoft Defender for Endpoint** if you have **Microsoft 365 Business Premium**. Free **Business Basic** does not include it — use **ThreatDown (Malwarebytes)** through TechSoup or another option on this page.
 {% endhint %}
 
 ## Malwarebytes ThreatDown
@@ -43,7 +43,7 @@ description: >-
 
 [Microsoft Defender](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint) is the endpoint protection that comes with all versions of Windows.&#x20;
 
-[Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint) is a premium version of Defender that is included with the 10 Microsoft Business Premium licenses that nonprofits get for FREE. Defender for Endpoint offers advanced protection and central management. This solution integrates well with the rest of the Microsoft 365 management capabilities.&#x20;
+[Microsoft Defender for Endpoint](https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint) is the centrally managed antivirus and EDR tier included with **Microsoft 365 Business Premium** (paid nonprofit pricing). It is **not** included with free **Business Basic**. See [Business Basic vs Standard vs Premium](../../tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md#business-basic-vs-standard-vs-premium).
 
 ## Bitdefender Antivirus <a href="#bitdefender-antivirus1" id="bitdefender-antivirus1"></a>
 
@@ -51,4 +51,4 @@ description: >-
 
 [Bitdefender](https://bitdefender.com/) can be purchased at a significant discount[ from TechSoup](https://www.techsoup.org/search/products/bitdefender/). It offers cloud management capabilities and a central console to view all threats across all your endpoints.  It does not provide critical services like EDR and MDR, and requires more administrative setup and management than some other solutions, such as Threatdown.&#x20;
 
-*Last reviewed: 2026-08.*
+*Last reviewed: 2026-09.*
