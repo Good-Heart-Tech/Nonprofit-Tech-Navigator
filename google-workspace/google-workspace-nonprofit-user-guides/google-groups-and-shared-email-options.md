@@ -7,163 +7,96 @@ description: >-
 
 # Google Groups & Shared Email Options
 
-Your nonprofit often needs addresses like **info@**, **support@**, or **board@** that more than one person can use. Google Workspace offers three main approaches. Pick the one that matches how your team actually works—not every option behaves like a normal inbox.
+Addresses like **info@**, **support@**, or **board@** often need more than one person. Google Workspace gives you **three** ways to set that up. They do not all work like a normal inbox—pick the one that fits how your team works.
 
 {% hint style="info" %}
-**Who this guide is for:** Office managers and staff who need to understand the choices. Creating groups and shared inboxes usually requires a **Google Workspace administrator**. Staff can use collaborative inboxes and delegated Gmail once an admin sets them up.
+Creating groups or shared mailboxes usually needs a **Google Workspace administrator**. This guide helps staff and office managers understand the choices; your admin (or IT partner) handles setup.
 {% endhint %}
 
-## Choose the right option
+## Three ways to share an address
 
-| What you need | Best option | What it feels like for staff |
+| What you need | Option | What staff see |
 | --- | --- | --- |
-| Everyone on the team should **get their own copy** of each message in their personal Gmail | **Email list group** | Mail to **group@yourorg.org** shows up in each member’s inbox |
-| A **shared queue**—assign messages, mark done, work as a team | **Collaborative inbox** (a type of Google Group) | Staff work from the group’s shared list in [Google Groups](https://groups.google.com) |
-| One **real Gmail mailbox** (info@) that several people open and send from | **Shared Gmail user** with **delegates** | Staff switch to **info@** inside Gmail and read/send as that address |
-| Only **people inside your org** should email the address | Any option, with **Who can post** set to your org (not “Anyone on the web”) | Outside senders get blocked or moderated |
-| **Anyone in the public** should email you (donors, clients, volunteers) | Group or shared user with **outside posting allowed** | See [Allow email from outside your organization](#allow-email-from-outside-your-organization) |
+| **Everyone gets their own copy** of each email in personal Gmail | **1. Email list group** | Mail to **group@yourorg.org** lands in each member’s inbox |
+| **One team shares a queue**—assign, reply, mark done | **2. Collaborative inbox** (Google Group) | Work in the group at [groups.google.com](https://groups.google.com) |
+| **One real Gmail mailbox** several people open and send from | **3. Shared Gmail user** with **delegates** | Switch to **info@** in Gmail; shared inbox and Sent folder |
 
 {% hint style="success" %}
-**Simple rule:** Use an **email list** when everyone needs their own copy. Use a **collaborative inbox** when one team shares responsibility for answering. Use a **delegated Gmail account** when you want a single mailbox in Gmail with a shared Sent folder and contacts.
+**Quick pick:** **Email list** = everyone gets a copy. **Collaborative inbox** = team queue. **Shared Gmail + delegates** = one mailbox in Gmail.
 {% endhint %}
 
----
+### 1. Email list group
 
-## Option 1: Email list group (distribution list)
+Email the group address → **each member gets a copy** in their own Gmail. Best for **board@**, **all-staff@**, or committees where everyone must see every message.
 
-An **email list** is the classic “mailing list.” When someone emails **newsletter@yourorg.org**, **each member receives the message in their own Gmail inbox**.
+Not for a support desk where you assign tickets or share one Sent folder.
 
-**Good for:**
+[Group membership settings](https://support.google.com/groups/answer/9666590) · [What you get with Groups for Business](https://support.google.com/a/answer/10308022)
 
-* **board@** — every board member gets board mail in their personal inbox
-* **staff@** or **all-staff@** — announcements to the whole team
-* **committee@** — a small team that all needs to see every message
+### 2. Collaborative inbox
 
-**Not ideal for:**
+Still a Google Group, but built for **team workflow**: assign conversations, mark complete, use labels. Best for **support@**, **intake@**, **volunteers@**.
 
-* A front desk or support queue where only one person should reply and others should see what’s already handled
-* A single shared **Sent** folder everyone sends from
+Staff work in Google Groups—not in personal inboxes. An owner must turn on **collaborative inbox** and **conversation history**.
 
-**How members experience it:** Messages appear like normal email in Gmail. Members can change how often they get mail (every message vs. a daily summary) in their [group membership settings](https://support.google.com/groups/answer/9666590).
+[Make a group a Collaborative Inbox](https://support.google.com/a/users/answer/10375787) · [Use a Collaborative Inbox](https://support.google.com/a/users/answer/167430)
 
-Google’s overview: [What you get with Groups for Business](https://support.google.com/a/answer/10308022).
+### 3. Shared Gmail user with delegates
 
----
+A **real account** (e.g. **info@yourorg.org**). **Delegates** open it inside Gmail, read mail, and send as that address.
 
-## Option 2: Collaborative inbox (Google Group)
+Best when you want normal Gmail—contacts, Sent folder, everyone sending from the same address. Admins: [Create a shared inbox](https://support.google.com/a/answer/16343077). Staff: [Delegate & collaborate on email](https://support.google.com/mail/answer/138350).
 
-A **collaborative inbox** is still a Google Group, but it is set up for **team workflow**, not for blasting copies to everyone’s personal inbox.
+**Licenses:** This option uses **one Google Workspace user license** per shared account. For-profits often skip it to save seats. **Nonprofits** can get **Google Workspace for Nonprofits free for up to 300 users**, so an extra account for **info@** is usually affordable. **Google Groups do not use a user license.**
 
-**Good for:**
-
-* **support@**, **help@**, **intake@**, **volunteers@** — one team answers incoming mail
-* Any address where you want to **assign** a message to someone and **mark it complete**
-
-**How staff work:** Open the group in [Google Groups](https://groups.google.com). From the conversation list, team members can assign topics, mark conversations complete, and use labels. Google’s walkthrough: [Use a group as a Collaborative Inbox](https://support.google.com/a/users/answer/167430) and [Make a group a Collaborative Inbox](https://support.google.com/a/users/answer/10375787).
-
-**Important:** Collaborative inbox features must be turned on for that group, and **conversation history** must be on. An owner or manager sets this in the group’s settings.
-
-**Compared to an email list:** Members are **not** meant to get every message duplicated into personal inboxes. The “inbox” is the group.
+You cannot delegate an **alias** on someone’s mailbox—it must be its own user (or use a group instead).
 
 ---
 
-## Option 3: Shared Gmail user with delegates
+## Who can email the address? (separate from the three options)
 
-Here you create (or reuse) a **real Google account**, such as **info@yourorg.org**. You then add **delegates**—people allowed to open that mailbox inside Gmail, read mail, and send as **info@**.
+These settings apply **after** you pick email list, collaborative inbox, or shared Gmail. They control **outside vs inside** senders—not which of the three options you use.
 
-**Good for:**
+| Goal | What to set (groups) | What staff notice |
+| --- | --- | --- |
+| **Only people in your org** can email the address | **Who can post:** your organization or members only—not **Anyone on the web** | Outside mail is blocked or held for review |
+| **Anyone** can email you (donors, clients, public) | Allow outside mail at the **org** level, then **Who can post: Anyone on the web** on that group | Public can reach **support@**-style addresses |
 
-* A main **info@** or **contact@** address with a familiar Gmail experience
-* When several people need to send from the **same address** and see the same inbox and contacts
-* Larger teams (Google supports many delegates on one account; see limits in Google’s docs)
+**Shared Gmail users** (option 3): anyone can email the address like a normal mailbox. Use your org’s [email protection settings](../google-workspace-nonprofit-setup/configure-email-protection-settings-in-google-workspace.md).
 
-**How staff work:** In Gmail, click your profile picture and choose the **delegated** account (for example, **info@yourorg.org**). Google’s steps: [Delegate & collaborate on email](https://support.google.com/mail/answer/138350).
+### Allow public email to a Google Group (admin + group owner)
 
-**Admin setup:** Turn on mail delegation in the Admin console, then create a [shared inbox](https://support.google.com/a/answer/16343077) or add delegates to an existing user. Admin guide: [Delegate a user’s email address](https://support.google.com/a/answer/11946994) and [Let users delegate access to a Gmail account](https://support.google.com/a/answer/7223765).
-
-**License note:** A separate user account like **info@** uses a **Google Workspace user license**. A Google Group does **not** use an extra user license.
-
-**Not the same as an alias:** You cannot add delegates to a simple **email alias** on someone’s account. The address needs to be its own user (or a group).
-
----
-
-## Allow email from outside your organization
-
-Many nonprofits need **donors, clients, or the public** to email **info@** or **support@**. That requires two layers of settings—**organization** and **group**.
-
-### 1. Organization setting (admin)
-
-An administrator must allow groups to accept mail from outside:
-
-1. Sign in to [admin.google.com](https://admin.google.com).
-2. Go to **Apps** → **Google Workspace** → **Groups for Business**.
-3. Open **Sharing settings**.
-4. Turn on **Group owners can allow incoming email from outside the organization**.
-5. Save.
-
-Google’s reference: [Set organization-wide policies for using groups](https://support.google.com/a/answer/167097).
-
-### 2. Group setting (owner, manager, or admin)
-
-For the specific group:
-
-1. Open the group at [groups.google.com](https://groups.google.com).
-2. **Group settings** → **Posting policies** (or **General**, depending on the UI).
-3. Under **Who can post**, choose **Anyone on the web** if anyone should be able to email the group address.
-
-If outside senders still cannot reach the group, see Google’s troubleshooting: [People outside my organization can’t email my group](https://support.google.com/a/answer/167085) (also covered in [Fix common issues with group settings](https://knowledge.workspace.google.com/admin/support/troubleshooting/fix-common-issues-with-group-settings)).
+1. **Admin:** [admin.google.com](https://admin.google.com) → **Apps** → **Google Workspace** → **Groups for Business** → **Sharing settings** → turn on **Group owners can allow incoming email from outside the organization**. [Org policies](https://support.google.com/a/answer/167097)
+2. **Group owner/manager:** [groups.google.com](https://groups.google.com) → group → **Group settings** → **Who can post** → **Anyone on the web**. [Troubleshooting outside senders](https://knowledge.workspace.google.com/admin/support/troubleshooting/fix-common-issues-with-group-settings)
 
 {% hint style="warning" %}
-**Spam risk:** When **Anyone on the web** can post, turn on **moderation** for messages from non-members so junk mail does not flood the group. Google recommends moderating non-member posts when allowing public posting. Details: [Set who can view, post & moderate](https://support.google.com/groups/answer/2464975).
+If **Anyone on the web** can post, turn on **moderation for non-members** so spam does not flood the group. [Set who can view, post & moderate](https://support.google.com/groups/answer/2464975)
 {% endhint %}
 
-For a **shared Gmail user** (delegated account), outside senders simply email that address like any normal mailbox—no “who can post” group setting. You still protect it with your org’s [email protection settings](../google-workspace-nonprofit-setup/configure-email-protection-settings-in-google-workspace.md).
+---
+
+## Other group settings (short list)
+
+| Setting | In plain English |
+| --- | --- |
+| **Who can post** | Who may **send email to** the group (see table above) |
+| **Message moderation** | Approve some messages before delivery—useful for public addresses |
+| **Who can join** | Often **invite only** for board@ or staff lists |
+| **Conversation history** | Must be **on** for collaborative inbox |
+| **Global address list** | Lets staff find the address when composing mail |
+
+Full list: [Set who can view, post & moderate](https://support.google.com/groups/answer/2464975)
+
+Admins create groups in the [Admin console](https://admin.google.com/ac/groups) or at [groups.google.com](https://groups.google.com). [Groups administrator FAQ](https://support.google.com/a/answer/167085)
 
 ---
 
-## Other settings worth knowing
+## Google’s guides
 
-These appear when creating or editing a group. Names in Google’s UI may vary slightly.
+* [Collaborate with colleagues](https://support.google.com/mail/answer/9259857) — delegation vs collaborative inbox
+* [Delegate a user’s email (admin)](https://support.google.com/a/answer/11946994)
+* [Let users delegate Gmail (admin)](https://support.google.com/a/answer/7223765)
 
-| Setting | Plain English | Typical nonprofit use |
-| --- | --- | --- |
-| **Who can post** | Who is allowed to send email **to** the group | **Anyone on the web** for public **info@**-style groups; **All organization users** or **Only members** for internal lists |
-| **Who can view conversations** | Who can read messages in Google Groups | Often **All group members**; stricter for sensitive groups |
-| **Who can join** | Open, invite-only, or request to join | **Invite only** for board@ and staff lists |
-| **Allow external members** | Whether people **outside your org** can be added as members | Usually **off** unless you need a partner on a list |
-| **Message moderation** | Hold messages for approval before delivery | Use when the address is public on your website |
-| **Include in global address list** | Show the group in your org’s email directory | **On** for addresses staff should find when composing mail |
-| **Conversation history** | Keep a searchable archive in the group | **On** (required for collaborative inbox) |
-
-Permission reference: [Set who can view, post & moderate](https://support.google.com/groups/answer/2464975).
-
----
-
-## Create a group (admin or allowed users)
-
-Admins can create groups in the [Admin console](https://admin.google.com/ac/groups) under **Directory** → **Groups**, or users may create them at [groups.google.com](https://groups.google.com) if your org allows it.
-
-When you create the group:
-
-1. Pick the **group email address** (for example, **support@yourorg.org**).
-2. Add **owners** (usually at least one admin) and **members** or **managers**.
-3. Choose **email list** vs **collaborative inbox** (enable collaborative inbox in group settings if needed).
-4. Set **Who can post** and moderation to match public vs internal use.
-
-Admin FAQ: [Groups administrator FAQ](https://support.google.com/a/answer/167085).
-
----
-
-## Google’s official guides (bookmark these)
-
-* [Collaborate with colleagues (Gmail)](https://support.google.com/mail/answer/9259857) — compares delegation vs collaborative inbox
-* [Make a group a Collaborative Inbox](https://support.google.com/a/users/answer/10375787)
-* [Use a group as a Collaborative Inbox](https://support.google.com/a/users/answer/167430)
-* [Delegate & collaborate on email](https://support.google.com/mail/answer/138350)
-* [Create a shared inbox (admin)](https://support.google.com/a/answer/16343077)
-* [Set organization-wide policies for groups (admin)](https://support.google.com/a/answer/167097)
-* [What you get with Groups for Business](https://support.google.com/a/answer/10308022)
-
-After groups are planned, continue nonprofit email setup in [Configure Google Workspace for Nonprofit](../google-workspace-nonprofit-setup/configure-google-workspace-for-nonprofit.md).
+Next step for admins: [Configure Google Workspace for Nonprofit](../google-workspace-nonprofit-setup/configure-google-workspace-for-nonprofit.md)
 
 *Last reviewed: 2026-09.*
