@@ -75,9 +75,10 @@ v=spf1 include:_spf.google.com ~all
 
 ## :e-mail: Email Setup
 
-1. Set up any shared mailboxes ([collaborative inbox from Google Groups](https://support.google.com/a/users/answer/10375787?hl=en)) that will be needed and delegate them to the appropriate users.
-2. Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://support.google.com/a/answer/6003169?hl=en\&ref_topic=6245191) from other platforms.
-3.  Enable **Mail Delegation** from Gmail's [User Settings section](https://admin.google.com/ac/apps/gmail/usersettings), which is very helpful for accessing shared mailboxes. \*
+1. Plan shared addresses (info@, support@, board@) using [Google Groups & Shared Email Options](../google-workspace-nonprofit-user-guides/google-groups-and-shared-email-options.md)—email lists, collaborative inboxes, or delegated Gmail accounts.
+2. Create those groups or shared inboxes in the Admin console or Google Groups. For collaborative inboxes, see Google’s [Make a group a Collaborative Inbox](https://support.google.com/a/users/answer/10375787).
+3. Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://support.google.com/a/answer/6003169?hl=en\&ref_topic=6245191) from other platforms.
+4. Enable **Mail Delegation** in Gmail’s [User settings](https://admin.google.com/ac/apps/gmail/usersettings) if staff will use delegated or shared Gmail accounts. See [Let users delegate access to a Gmail account](https://support.google.com/a/answer/7223765).
 
     ```
     <figure><img src="/files/EBNsaZwxfYZNt6t4PcKe" alt=""><figcaption></figcaption></figure>

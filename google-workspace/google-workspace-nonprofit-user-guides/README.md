@@ -7,3 +7,6 @@ icon: google
 
 # Google Workspace Nonprofit User Guides
 
+{% content-ref url="google-groups-and-shared-email-options.md" %}
+[google-groups-and-shared-email-options.md](google-groups-and-shared-email-options.md)
+{% endcontent-ref %}
