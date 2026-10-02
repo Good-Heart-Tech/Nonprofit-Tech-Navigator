@@ -69,4 +69,4 @@ This site is published as Markdown so assistants can quote it accurately.
 
 ## License
 
-This content is licensed under the [MIT License](LICENSE). Reuse it, adapt it, and share it with other nonprofits.
+This content is licensed under the [MIT License](https://github.com/Good-Heart-Tech/Nonprofit-Tech-Navigator/blob/main/LICENSE). Reuse it, adapt it, and share it with other nonprofits.

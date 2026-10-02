@@ -58,5 +58,5 @@ Syncing is not a backup. Accidental deletes still sync to everyone. See [Backup 
 ## Microsoft’s guides
 
 * [Download OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/download)
-* [Add shortcuts to shared folders in OneDrive](https://support.microsoft.com/en-us/office/add-shortcuts-to-shared-folders-in-onedrive-for-work-or-school-d995c321-38e6-4350-b54c-7ca4934648d4)
+* [Add shortcuts to shared folders in OneDrive](https://learn.microsoft.com/en-us/sharepoint/add-shortcuts-to-shared-folders)
 * [View SharePoint files in File Explorer](https://support.microsoft.com/en-us/office/view-sharepoint-files-in-file-explorer-66b574bb-08b4-46b6-a6a0-435fd98194cc)

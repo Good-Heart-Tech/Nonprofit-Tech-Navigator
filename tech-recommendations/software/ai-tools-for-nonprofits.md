@@ -168,7 +168,7 @@ Free AI tools are easy to test. Review privacy settings and output quality befor
 
 <div align="left"><figure><img src="../../.gitbook/assets/notebooklm.svg" alt="Google NotebookLM" width="75"><figcaption></figcaption></figure></div>
 
-[Google NotebookLM](https://notebooklm.google/) helps you work with your own source materials. It can summarize documents, organize notes, and generate audio-style overviews.
+[Google NotebookLM](https://notebook.google/) helps you work with your own source materials. It can summarize documents, organize notes, and generate audio-style overviews.
 
 #### Suno
 

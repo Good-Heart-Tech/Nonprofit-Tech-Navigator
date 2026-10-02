@@ -24,10 +24,10 @@ The [Mobile Beacon hotspots available on TechSoup](https://www.techsoup.org/mobi
 
 <div align="left"><figure><img src="../../.gitbook/assets/Aruba IO.svg" alt="Aruba Instant On Network Devices for nonprofits" width="225"><figcaption></figcaption></figure></div>
 
-The[ Aruba Instant On](https://www.arubainstanton.com/) products provide free cloud management with the device's purchase. These devices are straightforward to set up and manage.&#x20;
+The[ Aruba Instant On](https://www.hpe.com/us/en/instant-on.html) products provide free cloud management with the device's purchase. These devices are straightforward to set up and manage.&#x20;
 
-* Wireless access points provide incredible wireless network security, visibility, and range. We recommend the [AP22](https://www.arubainstanton.com/products/access-points/access-point-22/) or [AP25](https://www.arubainstanton.com/products/access-points/access-point-25/) for all indoor uses.&#x20;
-* All network switches in the Aruba Instant On [1930](https://www.arubainstanton.com/products/switches/1930-series/) or [1960 lines](https://www.arubainstanton.com/products/switches/1960-series/) are great, modern ways to power the backbone of your network.&#x20;
+* Wireless access points provide incredible wireless network security, visibility, and range. We recommend the [AP22](https://www.hpe.com/us/en/instant-on/access-points/access-point-22.html) or [AP25](https://www.hpe.com/us/en/instant-on/access-points/access-point-25.html) for all indoor uses.&#x20;
+* All network switches in the HPE Instant On [1930 and 1960 lines](https://www.hpe.com/us/en/instant-on/switches.html) are great, modern ways to power the backbone of your network.&#x20;
 
 ### Cabling <a href="#cabling1" id="cabling1"></a>
 

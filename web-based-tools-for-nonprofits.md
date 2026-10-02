@@ -8,7 +8,7 @@ icon: globe
 
 [Good Heart Tech](https://goodhearttech.org/) offers free web-based tools for nonprofits. These tools help with passwords, files, websites, and public record lookups.
 
-Good Heart Tech also provides [free managed IT (MSP) services](https://goodhearttech.org/for-nonprofits.html) to qualifying 501(c)(3) nonprofit partners.
+Good Heart Tech also provides [free managed IT (MSP) services](https://goodhearttech.org/for-nonprofits) to qualifying 501(c)(3) nonprofit partners.
 
 ### Start here
 
@@ -19,7 +19,7 @@ Good Heart Tech also provides [free managed IT (MSP) services](https://goodheart
 ### 🔐 Security tools
 
 * [**Password Pusher**](https://push.goodheart.tech/): Share passwords with encrypted links that expire automatically.
-* [**Password Generator**](http://password.nonprofittools.org/): Create strong, easy-to-type passphrases.
+* [**Password Generator**](https://password.nonprofittools.org/): Create strong, easy-to-type passphrases.
 
 ### 📄 File and media tools
 
@@ -30,6 +30,6 @@ Good Heart Tech also provides [free managed IT (MSP) services](https://goodheart
 
 ### 📊 Performance and analysis
 
-* [**Domain Analyzer**](https://dns.nonprofittools.org/): Review public DNS and email-related records for security and deliverability checks.
+* [**Domain Analyzer**](https://dnschecking.org/): Review public DNS and email-related records for security and deliverability checks.
 * [**Speed Test**](https://speed.goodheart.tech/): Measure your internet connection speed.
 * [**Web Check**](https://webcheck.goodheart.tech/): Inspect website security, performance, and technical details.

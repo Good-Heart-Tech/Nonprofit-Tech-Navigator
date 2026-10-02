@@ -27,8 +27,8 @@ icon: wordpress-simple
 * [The SEO Framework plugin](https://theseoframework.com/) provides an easy way to enhance and manage SEO for your WordPress site.
 * [Cloudflare](https://wordpress.org/plugins/cloudflare/) has a WordPress plugin that makes its integration seamless and fast. [See this page to learn how Cloudflare can greatly increase the security and speed of your website](website-and-dns-services-for-nonprofits.md).
 * [Equal Web](https://www.equalweb.com/html5/ProLookup.taf?_ID=34601\&did=1116\&G=\&SM=) provides enhanced accessibility options on WordPress sites like a screen reader, magnification, and more.
-* [GiveWP](https://givewp.com/) allows website visitors to make donations through payment gateways like Stripe and PayPal.
-* [Updraft Plus](https://updraftplus.com/) is used to back up your website. It can be set on a schedule, so you don't have to worry about losing data.&#x20;
+* [GiveWP](https://www.liquidweb.com/software/give/) allows website visitors to make donations through payment gateways like Stripe and PayPal.
+* [Updraft Plus](https://teamupdraft.com/updraftplus/) is used to back up your website. It can be set on a schedule, so you don't have to worry about losing data.&#x20;
 * [Fluent SMTP](https://fluentsmtp.com/) allows for sending emails using many external services, like Microsoft, Google, Brevo, and many more.&#x20;
 
 ### **Avada (WordPress Theme)** <a href="#avada3" id="avada3"></a>

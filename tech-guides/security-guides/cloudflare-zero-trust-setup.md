@@ -8,7 +8,7 @@ icon: cloudflare
 
 ## :closed\_lock\_with\_key: What is  Zero Trust?
 
-[Cloudflare Zero Trust](https://www.cloudflare.com/zero-trust/) is a security approach that ensures trust verification for every user and device, wherever they are. It boosts security by confirming identities and **reducing risks in remote work**. It's also cost-effective, offering free access for up to 50 users and easy integration with identity providers like Microsoft or Google.
+[Cloudflare Zero Trust](https://www.cloudflare.com/sase/) is a security approach that ensures trust verification for every user and device, wherever they are. It boosts security by confirming identities and **reducing risks in remote work**. It's also cost-effective, offering free access for up to 50 users and easy integration with identity providers like Microsoft or Google.
 
 ## :pen\_ballpoint: Sign Up For Cloudflare Zero Trust
 
@@ -28,8 +28,8 @@ Once in the Zero trust portal, setup the rest of the Team and portal and configu
 * Settings < Custom Pages < Login Page < Customize.    &#x20;
   * Set the message to:  _If you are not authorized, close this page immediately._&#x20;
   * (Optional branding) Update the background color and logo URL.
-* Settings < Authentication < **Configure Azure AD SSO** according to the Cloudflare Documentation  [https://developers.cloudflare.com/cloudflare-one/identity/idp-integration/azuread/](https://developers.cloudflare.com/cloudflare-one/identity/idp-integration/azuread/)
-* If you'd like to integrate Azure AD or another identity provider for signing into Cloudflare Zero Trust, you can use these docs: [Azure AD](https://developers.cloudflare.com/cloudflare-one/identity/idp-integration/azuread/) / [Others](https://developers.cloudflare.com/cloudflare-one/identity/idp-integration/)
+* Settings < Authentication < **Configure Azure AD SSO** according to the Cloudflare Documentation  [https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/azuread/](https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/azuread/)
+* If you'd like to integrate Azure AD or another identity provider for signing into Cloudflare Zero Trust, you can use these docs: [Azure AD](https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/azuread/) / [Others](https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/)
 
 ## :construction\_site: Setup Access Group, Tunnels, & Applications
 
@@ -68,9 +68,9 @@ We'll create an application for all applications that are required on the portal
 
 ## :computer: WARP Client Deployment & Setup
 
-The [Cloudflare WARP client ](https://1.1.1.1/)should be deployed to all PCs that need to connect to the Cloudflare Network and access the internet securely. &#x20;
+The [Cloudflare WARP client ](https://one.one.one.one/)should be deployed to all PCs that need to connect to the Cloudflare Network and access the internet securely. &#x20;
 
-* Deploy [Cloudflare WARP](https://1.1.1.1/) using your preferred method for software deployment (we like [Chocolatey](https://community.chocolatey.org/packages/warp))
+* Deploy [Cloudflare WARP](https://one.one.one.one/) using your preferred method for software deployment (we like [Chocolatey](https://community.chocolatey.org/packages/warp))
 * Have users follow the following steps to configure Zero Trust on endpoints:
   * In the WARP Client, right-click the tray icon and go to **Preferences**.  Then go to **Account** < Login with Cloudflare Zero Trust.
   * Instruct users to log in with their Cloudflare team name, which should be similar to their company name.

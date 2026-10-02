@@ -16,13 +16,13 @@ Canva
 
 <div align="left"><figure><img src="../../.gitbook/assets/Canva.jpg" alt="Canva" width="188"><figcaption></figcaption></figure></div>
 
-[Canva](https://canva.com/) offers nonprofits [10 free users premium design tools](https://www.canva.com/canva-for-nonprofits/). You can design your logo and other branding materials on the platform and collaborate with your team on designs. They even have [a great QR code generator](https://www.canva.com/apps/qr-code), which is excellent for printing out for events & fundraisers. You can design logos, business cards, flyers, and more.&#x20;
+[Canva](https://canva.com/) offers nonprofits [10 free users premium design tools](https://www.canva.com/nonprofits/). You can design your logo and other branding materials on the platform and collaborate with your team on designs. They even have [a great QR code generator](https://www.canva.com/apps/qr-code), which is excellent for printing out for events & fundraisers. You can design logos, business cards, flyers, and more.&#x20;
 
 ### Affinity <a href="#canva0" id="canva0"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/affinity.svg" alt="" width="150"><figcaption></figcaption></figure></div>
 
-[Affinity ](https://affinity.serif.com/en-us/affinity-canva-free-not-for-profit/)is a robust alternative to Adobe products, offering [professional-grade design tools that are completely free for nonprofit organizations](https://affinity.serif.com/en-us/business/nonprofit/). To access the free version, simply obtain a verified nonprofit Canva account. Once verified, you can download the Affinity software, sign in with your Canva account, and unlock a full suite of creative tools.  Key features of Affinity software:
+[Affinity ](https://www.affinity.studio/get-affinity)is a robust alternative to Adobe products, offering [professional-grade design tools that are completely free for nonprofit organizations](https://www.affinity.studio/get-affinity). To access the free version, simply obtain a verified nonprofit Canva account. Once verified, you can download the Affinity software, sign in with your Canva account, and unlock a full suite of creative tools.  Key features of Affinity software:
 
 1. **Affinity Designer** – A powerful vector graphic design tool ideal for creating logos, illustrations, and web design elements. It’s perfect for precise, scalable artwork.
 2. **Affinity Photo** – A comprehensive photo editing tool that rivals Adobe Photoshop. It offers advanced features for retouching, compositing, and digital painting, giving nonprofits the ability to produce high-quality visuals.

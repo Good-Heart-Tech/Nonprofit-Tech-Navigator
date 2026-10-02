@@ -58,7 +58,7 @@ Your domain is now email-enabled! In the next sections, we'll make sure it's sec
 
 ### Enable SPF for email security
 
-* To enable SPF, all you need to do is add TXT record in you DNS host. [Craft the SPF record using this article.](https://apps.google.com/supportwidget/articlehome?hl=en\&article_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F10684623%3Fhl%3Den\&assistant_id=generic-unu\&product_context=10684623\&product_name=UnuFlow\&trigger_context=a)
+* To enable SPF, all you need to do is add TXT record in you DNS host. [Craft the SPF record using this article.](https://knowledge.workspace.google.com/admin/security/set-up-spf?hl=en)
 * If you don't have any other services that send email on your domain, you SPF record will look like this:
 
 ```
@@ -69,7 +69,7 @@ v=spf1 include:_spf.google.com ~all
 
 ### Enable DKIM for email security
 
-* Enable DKIM on all email domains using this linked process. Make sure to add the correct DKIM record to the public DNS: [https://support.google.com/a/answer/180504?hl=en](https://support.google.com/a/answer/180504?hl=en)
+* Enable DKIM on all email domains using this linked process. Make sure to add the correct DKIM record to the public DNS: [https://knowledge.workspace.google.com/admin/security/set-up-dkim?hl=en](https://knowledge.workspace.google.com/admin/security/set-up-dkim?hl=en)
   * **You must wait 24 to 72 hours after enabling Gmail with a registered domain before you can create a DKIM record. Google does this to prevent its platform from being used for spam.**
   * **Changes to DNS take time, be sure to enable DKIM at the end of business hours to avoid disruption of email flow.**
 
@@ -77,8 +77,8 @@ v=spf1 include:_spf.google.com ~all
 
 1. Plan shared addresses (info@, support@, board@) using [Google Groups & Shared Email Options](../google-workspace-nonprofit-user-guides/google-groups-and-shared-email-options.md)—email lists, collaborative inboxes, or delegated Gmail accounts.
 2. Create those groups or shared inboxes in the Admin console or Google Groups. For collaborative inboxes, see Google’s [Make a group a Collaborative Inbox](https://support.google.com/a/users/answer/10375787).
-3. Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://support.google.com/a/answer/6003169?hl=en\&ref_topic=6245191) from other platforms.
-4. Enable **Mail Delegation** in Gmail’s [User settings](https://admin.google.com/ac/apps/gmail/usersettings) if staff will use delegated or shared Gmail accounts. See [Let users delegate access to a Gmail account](https://support.google.com/a/answer/7223765).
+3. Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://knowledge.workspace.google.com/admin/migrate/about-the-data-import-tool?hl=en&ref_topic=6245191) from other platforms.
+4. Enable **Mail Delegation** in Gmail’s [User settings](https://admin.google.com/ac/apps/gmail/usersettings) if staff will use delegated or shared Gmail accounts. See [Let users delegate access to a Gmail account](https://knowledge.workspace.google.com/admin/gmail/let-users-delegate-access-to-a-gmail-account).
 
     ```
     <figure><img src="/files/EBNsaZwxfYZNt6t4PcKe" alt=""><figcaption></figcaption></figure>
@@ -91,16 +91,16 @@ v=spf1 include:_spf.google.com ~all
 #### Setup Shared Drives and Access
 
 * **Enable Shared Drives**_**:**_ Go to _Apps_ < _Google Workspace < Drive and Docs < Manage Shared Drives > Enable shared drives for all users_
-* [_**Setup any Shared drives**_ ](https://support.google.com/a/answer/7662202?hl=en)that will be needed within your organization and delegate them to users.
+* [_**Setup any Shared drives**_ ](https://knowledge.workspace.google.com/admin/drive/manage-shared-drives-as-an-admin?hl=en)that will be needed within your organization and delegate them to users.
 * **Remove storage limits for users**: Go to _Storage_ < _Manage_ < _User Storage Limit_ < Turn _OFF_. This allows user drives and email mailboxes to expand as needed.
 
 #### Migrate Data to Google Drive
 
-Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://support.google.com/a/answer/6003169?hl=en\&ref_topic=6245191) from other platforms.
+Migrate any email from other platforms or personal accounts into Google Workspace. If needed, use [Google's guide to assist with moving data](https://knowledge.workspace.google.com/admin/migrate/about-the-data-import-tool?hl=en&ref_topic=6245191) from other platforms.
 
 ## :key: Security Settings
 
-* Ensure that [**multifactor authentication is enforced** ](https://support.google.com/a/answer/9176657?hl=en)across the entire org using this guide:
+* Ensure that [**multifactor authentication is enforced** ](https://knowledge.workspace.google.com/admin/security/deploy-2-step-verification?hl=en)across the entire org using this guide:
 
 {% content-ref url="enabling-multi-factor-authentication-mfa-enforcement-in-google-workspace.md" %}
 [enabling-multi-factor-authentication-mfa-enforcement-in-google-workspace.md](enabling-multi-factor-authentication-mfa-enforcement-in-google-workspace.md)

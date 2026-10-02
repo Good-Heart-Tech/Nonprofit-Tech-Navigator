@@ -48,7 +48,7 @@ These applications empower organizations to manage donor relationships, track in
 
 <div align="left"><figure><img src="../../.gitbook/assets/salesforce.png" alt="" width="150"><figcaption></figcaption></figure></div>
 
-[Salesforce ](https://www.salesforce.org/products/nonprofit-pricing/#power-of-us)offers a [free plan for nonprofits accommodating up to 10 users](https://www.salesforce.org/products/nonprofit-pricing/#power-of-us). It can empower nonprofits with robust customer relationship management (CRM) capabilities, enabling efficient donor and volunteer management, fundraising, and program tracking. This solution can be difficult to configure if you don't have a lot of experience with the platform.&#x20;
+[Salesforce ](https://www.salesforce.com/nonprofit/#power-of-us)offers a [free plan for nonprofits accommodating up to 10 users](https://www.salesforce.com/nonprofit/#power-of-us). It can empower nonprofits with robust customer relationship management (CRM) capabilities, enabling efficient donor and volunteer management, fundraising, and program tracking. This solution can be difficult to configure if you don't have a lot of experience with the platform.&#x20;
 
 ### Microsoft Cloud for Nonprofit (Microsoft 365 Dynamics)
 

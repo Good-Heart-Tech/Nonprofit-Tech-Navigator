@@ -63,7 +63,7 @@ Best for lightweight agreements, intake forms, and general data collection.
 
 <div align="left"><figure><img src="../../.gitbook/assets/google.svg" alt="Google" width="75"><figcaption></figcaption></figure></div>
 
-[Google Forms ](https://forms.google.com)is included with Google Workspace for Nonprofits. It’s a simple, effective tool for surveys, registrations, and consent collection (non-legal).
+[Google Forms](https://docs.google.com/forms/) is included with Google Workspace for Nonprofits. It’s a simple, effective tool for surveys, registrations, and consent collection (non-legal).
 
 **Features:**
 
@@ -95,7 +95,7 @@ Ideal for basic workflows and internal data gathering.
 
 <div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft 365" width="188"><figcaption></figcaption></figure></div>
 
-[Microsoft Forms](https://forms.office.com) is bundled with Microsoft 365 for Nonprofits. It supports surveys, polls, and simple approvals, but lacks legal eSignature support.
+[Microsoft Forms](https://forms.cloud.microsoft/) is bundled with Microsoft 365 for Nonprofits. It supports surveys, polls, and simple approvals, but lacks legal eSignature support.
 
 **Features:**
 

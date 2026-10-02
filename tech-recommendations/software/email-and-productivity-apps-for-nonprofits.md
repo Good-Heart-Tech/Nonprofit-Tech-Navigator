@@ -93,7 +93,7 @@ Nonprofits can optimize appointment and scheduling tasks using the free tools be
 
 | Service                                                                                 | Price                             | Sync with your Calendar | Public Booking Page  |
 | --------------------------------------------------------------------------------------- | --------------------------------- | ----------------------- | -------------------- |
-| [Microsoft Bookings](https://outlook.office.com/bookings/)                              | Included with Nonprofit Licensing | :white\_check\_mark:    | :white\_check\_mark: |
+| [Microsoft Bookings](https://outlook.office.com/mail/bookings/)                              | Included with Nonprofit Licensing | :white\_check\_mark:    | :white\_check\_mark: |
 | [Google Calendar Appointments](https://calendar.google.com/calendar/u/0/r/appointment?) | Included with Nonprofit Licensing | :white\_check\_mark:    | :white\_check\_mark: |
 | [Calendly](https://calendly.com/signup)                                                 | 1 Free User                       | :white\_check\_mark:    | :white\_check\_mark: |
 | [YouCanBookMe](https://youcanbook.me/)                                                  | 1 Free User                       | :white\_check\_mark:    | :white\_check\_mark: |

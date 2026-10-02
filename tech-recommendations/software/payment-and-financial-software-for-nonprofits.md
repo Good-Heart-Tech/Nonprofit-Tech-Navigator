@@ -57,19 +57,19 @@ Give Lively is a free fundraising platform that relies on payment gateways like 
 
 <div align="left"><figure><img src="../../.gitbook/assets/stripe.png" alt="Stripe" width="188"><figcaption></figcaption></figure></div>
 
-[Stripe](https://stripe.com/) is an industry-standard payment processor used all over the world.  [Stripe offers a discount](https://support.stripe.com/questions/fee-discount-for-nonprofit-organizations) on transaction fees when you go through the nonprofit application process. They provide a user-friendly interface for donation forms that can be easily embedded on your website with a WordPress plugin called [GiveWP](https://givewp.com/).
+[Stripe](https://stripe.com/) is an industry-standard payment processor used all over the world.  [Stripe offers a discount](https://support.stripe.com/questions/fee-discount-for-nonprofit-organizations) on transaction fees when you go through the nonprofit application process. They provide a user-friendly interface for donation forms that can be easily embedded on your website with a WordPress plugin called [GiveWP](https://www.liquidweb.com/software/give/).
 
 ### Square&#x20;
 
 <div align="left"><figure><img src="../../.gitbook/assets/Sqaure.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-[Square offers nonprofits](https://squareup.com/help/us/en/article/6397-use-square-as-a-nonprofit) an efficient way to manage donations and payments through their platform, simplifying financial transactions. With user-friendly tools and transparent pricing, Square provides nonprofits with a streamlined solution for securely handling transactions, especially for organizations who need to take credit cards in person (check out [Square Terminal](https://squareup.com/shop/hardware/us/en/products/terminal-credit-card-machine)).&#x20;
+[Square offers nonprofits](https://squareup.com/help/us/en/article/5123-square-get-started-guide) an efficient way to manage donations and payments through their platform, simplifying financial transactions. With user-friendly tools and transparent pricing, Square provides nonprofits with a streamlined solution for securely handling transactions, especially for organizations who need to take credit cards in person (check out [Square Terminal](https://squareup.com/shop/hardware/us/en/products/terminal-credit-card-machine)).&#x20;
 
 ### Paypal & Venmo
 
 <div align="left"><figure><img src="../../.gitbook/assets/paypal-venmo.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-To create a [Venmo charity profile](https://help.venmo.com/hc/en-us/articles/6678084998291-Charity-Profile-FAQ), nonprofits must first [get approved through PayPal](https://www.paypal.com/us/webapps/mpp/donations/paypal-giving-fund-updates), because PayPal owns Venmo. This process allows access to discounted transaction rates and enhances donor accessibility, providing a seamless and cost-effective way for nonprofits to receive contributions through both platforms.
+To create a [Venmo charity profile](https://help.venmo.com/cs/articles/charity-profile-faq-vhel124), nonprofits must first [get approved through PayPal](https://www.paypal.com/us/business/charity-nonprofit-solutions), because PayPal owns Venmo. This process allows access to discounted transaction rates and enhances donor accessibility, providing a seamless and cost-effective way for nonprofits to receive contributions through both platforms.
 
 ## Accounting
 

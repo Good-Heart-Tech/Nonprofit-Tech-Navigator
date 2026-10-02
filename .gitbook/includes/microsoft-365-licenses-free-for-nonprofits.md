@@ -14,4 +14,4 @@ Click on the _Setup Now_ link on each licenses you want to add to your nonprofit
 
 * Additional, discounted services can be purchased to supplement what's free. To get started with your free Microsoft services, [apply directly to Microsoft here](https://nonprofit.microsoft.com/).
 * For more information on Microsoft Teams and [telephony services, see this link](../../tech-recommendations/phone-systems-for-nonprofits.md).
-* **TECHSOUP WARNING**: We do **NOT** recommend buying the licenses through TechSoup because, as of December 2022, they [add additional charges to all licenses.](https://blog.techsoup.org/posts/techsoup-admin-fees-are-increasing-on-selected-discount-and-donation-programs-march-2024)
+* **TECHSOUP WARNING**: We do **NOT** recommend buying the licenses through TechSoup because, as of December 2022, they [add additional charges to all licenses.](https://blog.techsoup.org/en-us/posts/techsoup-admin-fees-are-increasing-on-selected-discount-and-donation-programs-march-2024)

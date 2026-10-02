@@ -9,7 +9,7 @@ description: >-
 For nonprofits, procuring computers and other tech equipment can be challenging on a budget. Below, we outline some great resources for finding low-cost or free computers.
 
 {% hint style="success" %}
-**If you only pick one:** Buy a Windows 11 Pro laptop with 16 GB RAM and a 512 GB SSD. TechSoup, Dell Refurbished, and the [CTL Reuse Store](https://store.3rtechnology.com/) (3R Technology) are the usual starting points.
+**If you only pick one:** Buy a Windows 11 Pro laptop with 16 GB RAM and a 512 GB SSD. TechSoup, Dell Refurbished, and the [CTL Reuse Store](https://reuse.ctl.net/) (3R Technology) are the usual starting points.
 {% endhint %}
 
 {% hint style="info" %}
@@ -37,11 +37,11 @@ Here are some of the places you may consider looking for PCs for your nonprofit:
 | ----------------------------------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | [TechSoup](https://www.techsoup.org/search/products/dell/)                    | Refurbished Dell, HP, & Levono | Nonprofit [application process](https://www.techsoup.org/joining-techsoup/how-to-join-techsoup)                                                                                   | Low                 |
 | [Dell Refurbished](https://www.dellrefurbished.com/)                          | Refurbished Dell               | N/A                                                                                                                                                                               | Low                 |
-| [Deals.dell.com](https://www.dell.com/en-us/shop/deals)                       | New & Refurbished **De**ll     | N/A                                                                                                                                                                               | Low                 |
-| [CTL Reuse Store (3R Technology)](https://store.3rtechnology.com/)            | Certified refurbished laptops, desktops, Chromebooks, and Macs. Live stock on the site. Same org as [CTL shop](https://ctl.net/pages/shop). | Based in Oregon and Washington; ships nationwide. Nonprofits can [email an EIN for extra discounts](https://store.3rtechnology.com/collections/non-profits). | Low                 |
+| [Deals.dell.com](https://www.dell.com/en-us/shop/deals/dc)                       | New & Refurbished **De**ll     | N/A                                                                                                                                                                               | Low                 |
+| [CTL Reuse Store (3R Technology)](https://reuse.ctl.net/)            | Certified refurbished laptops, desktops, Chromebooks, and Macs. Live stock on the site. Same org as [CTL shop](https://ctl.net/pages/shop). | Based in Oregon and Washington; ships nationwide. Nonprofits can [email an EIN for extra discounts](https://reuse.ctl.net/collections/non-profits). | Low                 |
 | [Electronic Recycling Association](https://www.era.ca/apply-for-donations/)   | Refurbished                    | Only Nonprofits in Canada and US States: California, Illinois, Massachusetts, New York, Texas, Vermont                                                                            | Free                |
 | [Computers with Causes](https://www.computerswithcauses.org/application/)     | Refurbished                    | Nonprofits apply via snail [mail PDF here.](https://www.computerswithcauses.org/application/)                                                                                     | Free                |
-| **Human-I-T**                                                                 | Refurbished                    | Nonprofits [apply here](https://store.human-i-t.org/nonprofit-membership/).                                                                                                       | Low                 |
+| **Human-I-T**                                                                 | Refurbished                    | Nonprofits [apply here](https://store.human-i-t.org/non-profit-membership/).                                                                                                       | Low                 |
 | [Connect All](https://connectall.org/collections/laptop)                      | Refurbished                    | <ul><li>Order on website for less than 5 devices.</li><li>Email <a href="mailto:programs@interconnection.org">programs@interconnection.org</a> for more than 5 devices.</li></ul> | Very Low ($50-$150) |
 | [Your Local PC Recycler](https://www.google.com/search?q=pc+recycler+near+me) | Refurbished                    | Variable                                                                                                                                                                          | Very Low / Free     |
 
@@ -51,9 +51,9 @@ Here are some of the places you may consider looking for PCs for your nonprofit:
 
 <div align="left"><figure><img src="../../.gitbook/assets/Dell.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
-[Deals.dell.com](https://www.dell.com/en-us/shop/deals) or the [Dell Catalog on TechSoup ](https://www.techsoup.org/search/products/dell/)provides reliable hardware, fast performance, and a great price point. Most times, we recommend:
+[Deals.dell.com](https://www.dell.com/en-us/shop/deals/dc) or the [Dell Catalog on TechSoup ](https://www.techsoup.org/search/products/dell/)provides reliable hardware, fast performance, and a great price point. Most times, we recommend:
 
-* **Desktops**: [OptiPlex](https://www.dell.com/en-us/shop/scc/sr/desktops/optiplex-desktops) or [XPS](https://www.dell.com/en-us/shop/desktop-computers/sr/desktops/xps-desktops) models.
+* **Desktops**: [OptiPlex](https://www.dell.com/en-us/shop/scc/sr/desktops/optiplex-desktops) or [XPS](https://www.dell.com/en-us/shop/cty/spd/delltowerplusebt2250) models.
 * **Laptops**: [Latitude](https://www.dell.com/en-us/shop/dell-laptops/sr/laptops/latitude-laptops) or [XPS](https://www.dell.com/en-us/shop/dell-laptops/sr/laptops/xps-laptops) models
 
 #### HP
@@ -75,6 +75,6 @@ HP has great PCs available:
 
 ## Servers <a href="#servers2" id="servers2"></a>
 
-We recommend avoiding physical servers wherever possible because of the affordability and stability of [nonprofit cloud hosting options](computers-and-servers.md#hosting-providers4). However, if on-premise infrastructure is required, we recommend [Dell PowerEdge](https://www.dell.com/en-us/dt/servers/index.htm) servers.
+We recommend avoiding physical servers wherever possible because of the affordability and stability of [nonprofit cloud hosting options](computers-and-servers.md#hosting-providers4). However, if on-premise infrastructure is required, we recommend [Dell PowerEdge](https://www.dell.com/en-us/shop/dell-poweredge-servers/sc/servers?source=HostingJournalist.com) servers.
 
 *Last reviewed: 2026-09.*

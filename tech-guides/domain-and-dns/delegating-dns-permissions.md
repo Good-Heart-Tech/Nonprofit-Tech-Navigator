@@ -22,7 +22,7 @@ icon: road-lock
 
 Each domain in Google Domains has to be delegated separately, so if you have multiple domains, this process must be completed for each.
 
-* [ ] Sign in to [Google Domains](https://domains.google.com/registrar).
+* [ ] Sign in to [Google Domains](https://domains.google/).
 * [ ] Select the name of your domain.
 * [ ] Open Menu ![Menu](https://lh3.googleusercontent.com/dxul49KVL0piV9Sl0Loj_caOrrNG0xRPW0hr4nLcZwmjZ_ZuXz2oJbGu7X4klMCdmY4=w36-h36), and click **Registration settings**.
 * [ ] Under "_Domain permissions_," click **Add user**.
@@ -63,4 +63,4 @@ Delegate access so Good Heart Tech can manage your Wix site when needed.
 
 Good Heart Tech must accept the invitation before access is active.
 
-For Wix's current instructions and role details, see [Invite people to join your site](https://support.wix.com/en/article/inviting-people-to-join-your-site).
+For Wix's current instructions and role details, see [Invite people to join your site](https://support.wix.com/en/article/inviting-contributors-to-your-site).

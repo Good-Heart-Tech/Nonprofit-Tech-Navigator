@@ -20,7 +20,7 @@ Coding and software development can be invaluable for nonprofits seeking custom 
 
 1. Create a free personal account and verify it using your nonprofit email address.
 2. In Settings, create a new organization.&#x20;
-3. Go to [the nonprofit application page](https://support.github.com/contact/nonprofit) and upload your nonprofit information to complete the application. Wait a few days to get approved.&#x20;
+3. Go to [the nonprofit application page](https://nonprofits.github.com/users/sign_in) and upload your nonprofit information to complete the application. Wait a few days to get approved.&#x20;
 
 ### New Relic
 

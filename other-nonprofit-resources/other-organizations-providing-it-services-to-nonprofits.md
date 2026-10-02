@@ -16,9 +16,9 @@ The price labels are relative, not exact quotes. Use them to compare typical cos
 
 ## Good Heart Tech — Free ($0)
 
-**Website:** [goodhearttech.org/for-nonprofits.html](https://goodhearttech.org/for-nonprofits.html)
+**Website:** [goodhearttech.org/for-nonprofits](https://goodhearttech.org/for-nonprofits)
 
-A 501(c)(3) that provides free managed IT to eligible US nonprofits. Volunteer-run; no SLAs. [Eligibility requirements](https://goodhearttech.org/for-nonprofits.html).
+A 501(c)(3) that provides free managed IT to eligible US nonprofits. Volunteer-run; no SLAs. [Eligibility requirements](https://goodhearttech.org/for-nonprofits).
 
 ---
 

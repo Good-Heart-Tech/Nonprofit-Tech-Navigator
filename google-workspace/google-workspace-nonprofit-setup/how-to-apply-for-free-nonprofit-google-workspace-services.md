@@ -50,7 +50,7 @@ You can always check the status of your nonprofit application in [the Google Non
 
 ## :dollar: Converting From Paid Google Workspace to Free Google Workspace for Nonprofits
 
-If you've already been paying for Google Workspace and want to move to free nonprofit licensing, you can’t convert directly from Business Standard, Business Plus, or Enterprise plans. [You must first be on **Business Starter** (or trial) to qualify.](https://support.google.com/a/answer/10069853)
+If you've already been paying for Google Workspace and want to move to free nonprofit licensing, you can’t convert directly from Business Standard, Business Plus, or Enterprise plans. [You must first be on **Business Starter** (or trial) to qualify.](https://knowledge.workspace.google.com/admin/billing/switch-to-business-starter-edition)
 
 First, confirm your org is verified at [google.com/nonprofits](https://www.google.com/nonprofits/account/u/0/orgs).
 

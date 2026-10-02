@@ -38,13 +38,13 @@ Volunteer and event management tools are essential for nonprofits, streamlining 
 
 <div align="left"><figure><img src="../../.gitbook/assets/zeffy.png" alt="Zeffy" width="188"><figcaption></figcaption></figure></div>
 
-Although [Zeffy ](https://www.zeffy.com/)is primarily [a fundraising platform](payment-and-financial-software-for-nonprofits.md), it also has volunteer registration and sign up features.  Learn how to setup up an event and create a volunteer sign up page, here: [Create a volunteering opportunity and receive volunteer registrations](https://support.zeffy.com/how-can-i-create-a-volunteering-opportunity-and-receive-volunteer-registrations)
+Although [Zeffy ](https://www.zeffy.com/)is primarily [a fundraising platform](payment-and-financial-software-for-nonprofits.md), it also has volunteer registration and sign up features.  Learn how to setup up an event and create a volunteer sign up page, here: [Create a volunteering opportunity and receive volunteer registrations](https://support.zeffy.com/create-a-volunteering-opportunity-and-receive-volunteer-registrations-3ykgh)
 
 ### VolunteerMatch <a href="#volunteermatch4" id="volunteermatch4"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/VolunteerMatch.jpg" alt="VolunteerMatch" width="188"><figcaption></figcaption></figure></div>
 
-[VolunteerMatch ](https://www.volunteermatch.org/)provides a national digital infrastructure connecting volunteers and nonprofit organizations. It offers free basic accounts for nonprofits and recruiting tools for VolunteerMatch Members. By facilitating connections between passionate volunteers and nonprofits, VolunteerMatch helps organizations find highly qualified individuals who can contribute their time, money, and support.&#x20;
+[VolunteerMatch ](https://www.idealist.org/volunteermatch)provides a national digital infrastructure connecting volunteers and nonprofit organizations. It offers free basic accounts for nonprofits and recruiting tools for VolunteerMatch Members. By facilitating connections between passionate volunteers and nonprofits, VolunteerMatch helps organizations find highly qualified individuals who can contribute their time, money, and support.&#x20;
 
 ### Goots Conference
 

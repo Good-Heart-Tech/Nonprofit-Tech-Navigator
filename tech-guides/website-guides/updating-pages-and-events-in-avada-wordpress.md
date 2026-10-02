@@ -34,7 +34,7 @@ Not all websites have blogs, but for those that do, the content update process i
 
 ## Updating Events
 
-In Avada, the plugin called [The Events Calendar](https://theeventscalendar.com/) controls the events and displays them to the user.  This plugin is developed by the same organization that make the Avada theme, so it integrates seamlessly.&#x20;
+In Avada, the plugin called [The Events Calendar](https://www.liquidweb.com/software/the-events-calendar/) controls the events and displays them to the user.  This plugin is developed by the same organization that make the Avada theme, so it integrates seamlessly.&#x20;
 
 To update events and event components, Click on the Events sidebar menu to see all the sidebar options:&#x20;
 

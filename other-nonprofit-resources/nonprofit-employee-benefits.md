@@ -28,6 +28,6 @@ Remember, the specific benefits offered can vary greatly between different nonpr
 * [**Health and Medical Benefits**: Federal or state laws require most employers to offer health insurance and medical leave](https://www.irs.gov/pub/irs-pdf/p5137.pdf).
 * [**Unemployment Insurance**: This is a mandatory benefit required by federal or state laws](https://www.irs.gov/pub/irs-pdf/p5137.pdf).
 * [**Workers’ Compensation**: This is another mandatory benefit that provides wage replacement and medical benefits to employees injured in the course of employment](https://www.bbgbroker.com/employee-benefits-requirements-for-nonprofit-organizations/).
-* [**Family or Medical Leave**: The new tax law created a general business credit equal to 12.5% of wages paid to qualifying employees who are on family or medical leave](https://windes.com/fringe-benefits-and-ubti-what-nonprofits-need-to-know/).
+* [**Family or Medical Leave**: The new tax law created a general business credit equal to 12.5% of wages paid to qualifying employees who are on family or medical leave](https://www.irs.gov/pub/irs-pdf/p5137.pdf).
 
 Please note that the specifics of these benefits can vary based on the individual’s circumstances and the regulations of the state they reside in. It’s always a good idea to consult with a tax professional or benefits counselor to understand the full range of benefits available.

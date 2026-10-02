@@ -6,7 +6,7 @@ description: >-
 
 # Upgrading to Windows 11
 
-Microsoft is [ending support for Windows 10 in October 2025](https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281). After that date, Windows 10 computers will no longer receive essential security updates, which makes them less safe to use. To keep your organization secure, it’s critical to move to Windows 11.
+Microsoft is [ending support for Windows 10 in October 2025](https://support.microsoft.com/en-us/windows/deployment/updates-lifecycle/windows-10-support-has-ended-on-october-14-2025). After that date, Windows 10 computers will no longer receive essential security updates, which makes them less safe to use. To keep your organization secure, it’s critical to move to Windows 11.
 
 ### Upgrading Your Current Computer
 
@@ -24,7 +24,7 @@ If your device cannot run Windows 11, purchasing a replacement is highly recomme
 
 Trusted purchase options include:
 
-* [Dell Deals](https://deals.dell.com)
+* [Dell Deals](https://www.dell.com/en-us/shop/deals/dc)
 * [Dell Refurbished](https://www.dellrefurbished.com/)
-* [CTL Reuse Store (3R Technology)](https://store.3rtechnology.com/) – Pacific Northwest refurbisher; ships nationwide
+* [CTL Reuse Store (3R Technology)](https://reuse.ctl.net/) – Pacific Northwest refurbisher; ships nationwide
 * [TechSoup – nonprofit discounts](https://www.techsoup.org/search/products/dell/)

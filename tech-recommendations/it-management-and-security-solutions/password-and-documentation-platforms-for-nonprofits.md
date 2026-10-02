@@ -37,7 +37,7 @@ Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-secu
 
 <div align="left"><figure><img src="../../.gitbook/assets/1password.svg" alt="1Password" width="150"><figcaption></figcaption></figure></div>
 
-[1Password Teams](https://1password.com/teams) is a robust business-grade password management system with an unadvertised nonprofit rate (50% off the normal [teams rate](https://1password.com/business-pricing)).  Email [business@1password.com](mailto:business@1password.com) to learn more and receive the discount.
+[1Password Teams](https://1password.com/product/teams-small-business-password-manager) is a robust business-grade password management system with an unadvertised nonprofit rate (50% off the normal [teams rate](https://1password.com/pricing/business)).  Email [business@1password.com](mailto:business@1password.com) to learn more and receive the discount.
 
 ### DashLane <a href="#vpn-and-zero-trust-software3" id="vpn-and-zero-trust-software3"></a>
 
@@ -47,7 +47,7 @@ Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-secu
 
 ### Psono
 
-[Psono](https://psono.com/pricing) offers a secure and flexible password management solution ideal for nonprofits. Organizations can benefit from a 50% discount on standard pricing. Psono's free offerings are particularly generous, providing robust features without the need for an immediate upgrade. For detailed information on what the free plan includes, visit their [pricing page](https://psono.com/pricing). To get started with nonprofit discounts, email Psono support at [support@psono.com](mailto:support@psono.com).&#x20;
+[Psono](https://psono.com/) offers a secure and flexible password management solution ideal for nonprofits. Organizations can benefit from a 50% discount on standard pricing. Psono's free offerings are particularly generous, providing robust features without the need for an immediate upgrade. For detailed information on what the free plan includes, visit their [pricing page](https://psono.com/). To get started with nonprofit discounts, email Psono support at [support@psono.com](mailto:support@psono.com).&#x20;
 
 ## Password & IT Documentation Tools
 

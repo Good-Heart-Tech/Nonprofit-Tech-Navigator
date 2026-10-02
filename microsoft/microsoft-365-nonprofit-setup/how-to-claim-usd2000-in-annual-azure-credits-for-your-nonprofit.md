@@ -16,7 +16,7 @@ Nonprofits that are verified with Microsoft are entitled to a free [$2000 annual
 
 ### **Azure vs. Microsoft 365**
 
-[Azure](https://azure.microsoft.com/en-us), Microsoft's cloud platform, differs from [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365), which offers productivity tools. The Azure grant can help nonprofits with many cloud needs, including hosting websites, applications, and virtual machines (VMs) in a scalable and cost-effective cloud environment.&#x20;
+[Azure](https://azure.microsoft.com/en-usen-us), Microsoft's cloud platform, differs from [Microsoft 365](https://www.microsoft.com/en-us/microsoft-365), which offers productivity tools. The Azure grant can help nonprofits with many cloud needs, including hosting websites, applications, and virtual machines (VMs) in a scalable and cost-effective cloud environment.&#x20;
 
 ## :checkered\_flag: Prerequisites
 

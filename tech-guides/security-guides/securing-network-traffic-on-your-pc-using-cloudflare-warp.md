@@ -10,7 +10,7 @@ Securing network traffic is crucial for nonprofits dealing with sensitive inform
 
 ### **Step 1: Download and Install WARP**
 
-Visit [https://1.1.1.1](https://1.1.1.1/), and choose your platform. Download and run the installer, following on-screen instructions to complete the installation.
+Visit [https://1.1.1.1](https://one.one.one.one/), and choose your platform. Download and run the installer, following on-screen instructions to complete the installation.
 
 ### **Step 2: Connect to WARP**
 

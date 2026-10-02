@@ -52,7 +52,7 @@ Install the connector where your internal resources live. Then install the clien
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare logo" width="188"><figcaption></figcaption></figure></div>
 
-[Cloudflare Zero Trust](https://www.cloudflare.com/products/zero-trust/) is a strong fit when you want remote access plus broader security controls.
+[Cloudflare Zero Trust](https://www.cloudflare.com/sase/) is a strong fit when you want remote access plus broader security controls.
 
 * Free for up to **50 users**.
 * Supports private network access and published internal web apps.

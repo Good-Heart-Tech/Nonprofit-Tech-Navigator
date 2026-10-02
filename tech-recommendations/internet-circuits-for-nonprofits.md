@@ -9,11 +9,11 @@ icon: ethernet
 Reliable internet keeps your nonprofit running smoothly—whether you’re using VoIP phones, cloud services, or shared files.
 
 {% hint style="success" %}
-**If you only pick one:** Choose fiber or cable broadband if it is available at your address. Fill out [this form](https://forms.office.com/r/4qwPdGRpx0) and Good Heart Tech can compare options and pricing for you.
+**If you only pick one:** Choose fiber or cable broadband if it is available at your address. Fill out [this form](https://forms.cloud.microsoft/r/4qwPdGRpx0) and Good Heart Tech can compare options and pricing for you.
 {% endhint %}
 
 {% hint style="success" %}
-Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.office.com/r/4qwPdGRpx0).
+Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.cloud.microsoft/r/4qwPdGRpx0).
 {% endhint %}
 
 #### Choosing the Right Internet Circuit
@@ -29,14 +29,14 @@ Your ideal connection depends on your location and how critical uptime is to you
 
 #### Comparison of Common Internet Circuit Types
 
-Not sure where to start?  [Fill out this quick form](https://forms.office.com/r/4qwPdGRpx0) and let us help you find the best internet for your nonprofit.&#x20;
+Not sure where to start?  [Fill out this quick form](https://forms.cloud.microsoft/r/4qwPdGRpx0) and let us help you find the best internet for your nonprofit.&#x20;
 
 <table data-full-width="true"><thead><tr><th>Connection Type</th><th>Availability</th><th>Typical Speeds</th><th>Limitations</th><th>Best For</th><th>Other Considerations</th></tr></thead><tbody><tr><td> <strong>Broadband (Cable)</strong></td><td>🏙️ Widely available in most cities</td><td>⚡ 100 Mbps – 1 Gbps</td><td>⚠️ Shared bandwidth may slow at peak times</td><td>💼 Most small to mid-size nonprofits</td><td>👍 Great balance of price, speed, and reliability</td></tr><tr><td> <strong>Fiber</strong></td><td> Expanding in urban areas</td><td>🚀 100 Mbps – 10+ Gbps</td><td>💲 Higher cost; limited reach</td><td>☁️ Cloud-heavy or high-data nonprofits</td><td>🥇 Fast, reliable, and symmetrical speeds</td></tr><tr><td><strong>DSL</strong></td><td>🌄 Common in rural/suburban areas</td><td> Up to 100 Mbps</td><td>🐢 Slower uploads; aging tech</td><td>🧑‍💻 Small offices with light use</td><td>🕓 Inexpensive but declining availability</td></tr><tr><td><strong>📶 5G / Fixed Wireless</strong></td><td>Rapidly expanding</td><td>50 Mbps – 500 Mbps</td><td>🌦️ Affected by signal and weather</td><td>🏢 Backup or temporary sites</td><td>🔌 Easy setup, great mobility option</td></tr><tr><td>📡 <strong>Satellite</strong></td><td>🌍 Available almost anywhere</td><td>25 Mbps – 250 Mbps</td><td>⏱️ High latency; weather impact</td><td>🏔️ Remote locations with no wired access</td><td>🚫 Not ideal for real-time apps or VoIP</td></tr></tbody></table>
 
 
 
 {% hint style="success" %}
-Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.office.com/r/4qwPdGRpx0).
+Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.cloud.microsoft/r/4qwPdGRpx0).
 {% endhint %}
 
 *Last reviewed: 2026-08.*

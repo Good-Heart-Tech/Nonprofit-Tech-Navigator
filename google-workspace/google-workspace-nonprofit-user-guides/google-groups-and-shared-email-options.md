@@ -31,7 +31,7 @@ Email the group address → **each member gets a copy** in their own Gmail. Best
 
 Not for a support desk where you assign tickets or share one Sent folder.
 
-[Group membership settings](https://support.google.com/groups/answer/9666590) · [What you get with Groups for Business](https://support.google.com/a/answer/10308022)
+[Group membership settings](https://support.google.com/groups/answer/9792489?hl=en) · [What you get with Groups for Business](https://knowledge.workspace.google.com/admin/groups/what-you-get-with-groups-for-business)
 
 ### 2. Collaborative inbox
 
@@ -45,7 +45,7 @@ Staff work in Google Groups—not in personal inboxes. An owner must turn on **c
 
 A **real account** (e.g. **info@yourorg.org**). **Delegates** open it inside Gmail, read mail, and send as that address.
 
-Best when you want normal Gmail—contacts, Sent folder, everyone sending from the same address. Admins: [Create a shared inbox](https://support.google.com/a/answer/16343077). Staff: [Delegate & collaborate on email](https://support.google.com/mail/answer/138350).
+Best when you want normal Gmail—contacts, Sent folder, everyone sending from the same address. Admins: [Create a shared inbox](https://knowledge.workspace.google.com/admin/users/create-a-shared-inbox). Staff: [Delegate & collaborate on email](https://support.google.com/mail/answer/138350).
 
 **Licenses:** This option uses **one Google Workspace user license** per shared account. For-profits often skip it to save seats. **Nonprofits** can get **Google Workspace for Nonprofits free for up to 300 users**, so an extra account for **info@** is usually affordable. **Google Groups do not use a user license.**
 
@@ -66,7 +66,7 @@ These settings apply **after** you pick email list, collaborative inbox, or shar
 
 ### Allow public email to a Google Group (admin + group owner)
 
-1. **Admin:** [admin.google.com](https://admin.google.com) → **Apps** → **Google Workspace** → **Groups for Business** → **Sharing settings** → turn on **Group owners can allow incoming email from outside the organization**. [Org policies](https://support.google.com/a/answer/167097)
+1. **Admin:** [admin.google.com](https://admin.google.com) → **Apps** → **Google Workspace** → **Groups for Business** → **Sharing settings** → turn on **Group owners can allow incoming email from outside the organization**. [Org policies](https://knowledge.workspace.google.com/admin/groups/set-organization-wide-policies-for-using-groups)
 2. **Group owner/manager:** [groups.google.com](https://groups.google.com) → group → **Group settings** → **Who can post** → **Anyone on the web**. [Troubleshooting outside senders](https://knowledge.workspace.google.com/admin/support/troubleshooting/fix-common-issues-with-group-settings)
 
 {% hint style="warning" %}
@@ -87,15 +87,15 @@ If **Anyone on the web** can post, turn on **moderation for non-members** so spa
 
 Full list: [Set who can view, post & moderate](https://support.google.com/groups/answer/2464975)
 
-Admins create groups in the [Admin console](https://admin.google.com/ac/groups) or at [groups.google.com](https://groups.google.com). [Groups administrator FAQ](https://support.google.com/a/answer/167085)
+Admins create groups in the [Admin console](https://admin.google.com/ac/groups) or at [groups.google.com](https://groups.google.com). [Groups administrator FAQ](https://knowledge.workspace.google.com/admin/groups/groups-administrator-faq)
 
 ---
 
 ## Google’s guides
 
 * [Collaborate with colleagues](https://support.google.com/mail/answer/9259857) — delegation vs collaborative inbox
-* [Delegate a user’s email (admin)](https://support.google.com/a/answer/11946994)
-* [Let users delegate Gmail (admin)](https://support.google.com/a/answer/7223765)
+* [Delegate a user’s email (admin)](https://knowledge.workspace.google.com/admin/users/delegate-a-users-email-address)
+* [Let users delegate Gmail (admin)](https://knowledge.workspace.google.com/admin/gmail/let-users-delegate-access-to-a-gmail-account)
 
 Next step for admins: [Configure Google Workspace for Nonprofit](../google-workspace-nonprofit-setup/configure-google-workspace-for-nonprofit.md)
 

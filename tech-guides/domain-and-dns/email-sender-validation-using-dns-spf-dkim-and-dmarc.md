@@ -14,7 +14,7 @@ DNS changes can take time to take effect. To avoid disruption, we recommend maki
 
 ## Testing Your Current Configuration
 
-To test which of these technologies is currently in place for your organization, type in your domain using [our Domain & DNS Health Check tool](https://dns.nonprofittools.org/).  Then, come back here to the sections that need attention.&#x20;
+To test which of these technologies is currently in place for your organization, type in your domain using [our Domain & DNS Health Check tool](https://dnschecking.org/).  Then, come back here to the sections that need attention.&#x20;
 
 ## **SPF (Sender Policy Framework)**
 
@@ -22,7 +22,7 @@ SPF records tell spam filters what mail services a particular domain name typica
 
 ### Google Workspace SPF Setup
 
-*   When using **Google Workspace,** [always use the '_soft fail_'](https://support.google.com/a/answer/10684623?hl=en) parameter (the "\~" character) near the end of the SPF record.   For example, your SPF record for Google Workspace should look like this:
+*   When using **Google Workspace,** [always use the '_soft fail_'](https://knowledge.workspace.google.com/admin/security/set-up-spf?hl=en) parameter (the "\~" character) near the end of the SPF record.   For example, your SPF record for Google Workspace should look like this:
 
     ```
     v=spf1 include:_spf.google.com ~all
@@ -64,7 +64,7 @@ Microsoft's default domains (_onmicrosoft.com_ domains) have DKIM set up by defa
 
 ### Google Workspace DKIM Setup
 
-Enable DKIM on all email domains by following this[ article from Google Support.](https://support.google.com/a/answer/180504?hl=en) &#x20;
+Enable DKIM on all email domains by following this[ article from Google Support.](https://knowledge.workspace.google.com/admin/security/set-up-dkim?hl=en) &#x20;
 
 {% hint style="info" %}
 After enabling Gmail with a registered domain, you must wait 24 to 72 hours before you can create a DKIM record.  Google does this to prevent its platform from being used for spam. &#x20;
@@ -92,7 +92,7 @@ DMARC is the technology that allows for message traversal reporting and builds u
     * _v=DMARC1; p=_**quarantine**_; rua=mailto:your\_reporting\_email\_address@here.com_
   * The policy can optionally be increased to '**reject**' if higher security is needed.&#x20;
 
-{% embed url="https://support.valimail.com/support/solutions/articles/48001147676-dmarc-strict-vs-relaxed-alignment" %}
+{% embed url="https://support.valimail.com/en/articles/8466455-dmarc-strict-vs-relaxed-alignment" %}
 
 ## DNSSEC (Domain Name System Security Extensions)
 

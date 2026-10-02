@@ -18,7 +18,7 @@ Website and DNS services, including hosting and components, are vital for nonpro
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare" width="188"><figcaption></figcaption></figure></div>
 
-[Cloudflare](https://cloudflare.com/) is a free **DNS host** and offers the lowest prices on the internet for [**domain registration services**](https://www.cloudflare.com/products/registrar/). It's one of the best fits for most nonprofits because it keeps costs low, speeds up websites, and adds strong security without much ongoing work. You can use it as your free **DNS host**, buy domains at near-wholesale pricing through [this page](https://www.cloudflare.com/products/registrar/), and manage everything in one place.
+[Cloudflare](https://cloudflare.com/) is a free **DNS host** and offers the lowest prices on the internet for [**domain registration services**](https://www.cloudflare.com/domains/). It's one of the best fits for most nonprofits because it keeps costs low, speeds up websites, and adds strong security without much ongoing work. You can use it as your free **DNS host**, buy domains at near-wholesale pricing through [this page](https://www.cloudflare.com/domains/), and manage everything in one place.
 
 **Why nonprofits like it**
 
@@ -78,11 +78,11 @@ These services allow you to host static content or server-based applications and
 All of the services below must be manually renewed yearly or when the granted credits run ou&#x74;_._
 {% endhint %}
 
-* [Amazon Web Services (AWS) LightSail](https://aws.amazon.com/lightsail/) – For just $95, purchase a $1000 annual [AWS grant from TechSoup.](https://www.techsoup.org/products/amazon-web-services-credits-for-nonprofits-g-50197-) We only recommend this option for technical folks, as[ it gets pretty involved](https://aws.amazon.com/getting-started/hands-on/launch-a-wordpress-website/). The AWS annual renewable grant can be used for almost any AWS service.
-* [Microsoft Azure](https://azure.microsoft.com/) – Review [the instructions](../../microsoft/microsoft-365-nonprofit-setup/how-to-claim-usd2000-in-annual-azure-credits-for-your-nonprofit.md) to apply for a[ $2000 annual Azure grant.](https://docs.microsoft.com/en-us/azure/industry/training-services/microsoft-community-training/infrastructure-management/install-your-platform-instance/setup-platform-instance-on-azure-subscription-for-nonprofits)
+* [Amazon Web Services (AWS) LightSail](https://aws.amazon.com/lightsail/) – For just $95, purchase a $1000 annual [AWS grant from TechSoup.](https://www.techsoup.org/products/amazon-web-services-credits-for-nonprofits-g-50197-) We only recommend this option for technical folks, as[ it gets pretty involved](https://docs.aws.amazon.com/lightsail/latest/userguide/amazon-lightsail-launch-and-configure-wordpress.html). The AWS annual renewable grant can be used for almost any AWS service.
+* [Microsoft Azure](https://azure.microsoft.com/en-us) – Review [the instructions](../../microsoft/microsoft-365-nonprofit-setup/how-to-claim-usd2000-in-annual-azure-credits-for-your-nonprofit.md) to apply for a[ $2000 annual Azure grant.](https://learn.goodhearttech.org/microsoft/microsoft-365-nonprofit-setup/how-to-claim-usd2000-in-annual-azure-credits-for-your-nonprofit)
 * [Oracle Cloud Free Tier](https://www.oracle.com/cloud/free/) – Oracle offers "Always Free" cloud resources, including server options that may be enough to run a small application or website, depending on your needs. This is not a nonprofit-specific offer, but it can still be a useful no-cost option for technical teams that can manage their own server.
-* [Digital Ocean](https://www.digitalocean.com/community/pages/hollies-hub-for-good) – Offers free cloud services through [Holly's Hub for good program.](https://www.digitalocean.com/community/pages/hollies-hub-for-good)
-* [DreamHost ](https://help.dreamhost.com/hc/en-us/articles/215769478-Non-profit-discount)- Offers free shared hosting to 501(c)(3)s and 501(c)(19)s. However, **we don't recommend this provider** because of historical nonprofit validation, support, and billing issues.
+* [Digital Ocean](https://www.digitalocean.com/impact) – Offers free cloud services through [Holly's Hub for good program.](https://www.digitalocean.com/impact)
+* [DreamHost](https://help.dreamhost.com/hc/en-us/articles/215769478) – Offers free shared hosting to 501(c)(3)s and 501(c)(19)s. However, **we don't recommend this provider** because of historical nonprofit validation, support, and billing issues.
 
 ## **Tracking & Ad Services** <a href="#wix0" id="wix0"></a>
 
@@ -90,7 +90,7 @@ All of the services below must be manually renewed yearly or when the granted cr
 
 <div align="left"><figure><img src="../../.gitbook/assets/hotjar.png" alt="" width="75"><figcaption></figcaption></figure></div>
 
-[Hotjar ](https://www.hotjar.com/)offers a [free premium account to nonprofits](https://www.hotjar.com/nonprofit/), providing website insights with heatmaps, session recordings, and surveys. It tracks user interactions, visualizes clicks, taps, and scrolling behavior, helping you understand how visitors engage with your site. This data-driven tool empowers informed UX and conversion rate optimization decisions.
+[Hotjar](https://www.hotjar.com/) offers a free premium account to nonprofits (apply through Hotjar), providing website insights with heatmaps, session recordings, and surveys. It tracks user interactions, visualizes clicks, taps, and scrolling behavior, helping you understand how visitors engage with your site. This data-driven tool empowers informed UX and conversion rate optimization decisions.
 
 #### Google Ads
 

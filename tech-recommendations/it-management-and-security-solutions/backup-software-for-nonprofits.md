@@ -49,7 +49,7 @@ Backups for Shared drives, Teams, & SharePoint are free with an active user lice
 
 <div align="left"><figure><img src="../../.gitbook/assets/veeam-logo.webp" alt="Veeam" width="188"><figcaption></figcaption></figure></div>
 
-[Veeam](https://www.veeam.com/) is a full-featured suite of backup solutions. With Veeam Backup & Replication, you can do simple things like schedule backups for your PC and even back up virtual machines. The [free community edition of Veeam Backup & Replication](https://www.veeam.com/virtual-machine-backup-solution-free-download.html) is incredibly feature-packed but requires significant technical experience to configure, which is not advised for light computer users. With other components of the Veeam Suite, you can do more complex things like a backup of [Microsoft 365 (free for 10 users)](https://www.veeam.com/backup-microsoft-office-365.html).
+[Veeam](https://www.veeam.com/) is a full-featured suite of backup solutions. With Veeam Backup & Replication, you can do simple things like schedule backups for your PC and even back up virtual machines. The [free community edition of Veeam Backup & Replication](https://www.veeam.com/virtual-machine-backup-solution-free-download.html) is incredibly feature-packed but requires significant technical experience to configure, which is not advised for light computer users. With other components of the Veeam Suite, you can do more complex things like a backup of [Microsoft 365 (free for 10 users)](https://www.veeam.com/products/saas/backup-microsoft-office-365.html).
 
 ### Synology
 

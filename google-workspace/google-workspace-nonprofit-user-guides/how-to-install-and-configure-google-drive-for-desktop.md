@@ -35,7 +35,7 @@ In the Drive icon menu, open **Settings** (gear) → **Preferences**.
 * **Stream files** (recommended for most people) — files stay in the cloud and download when you open them. Uses little disk space.
 * **Mirror files** — a full copy is stored on this computer. Use this only if you need everything offline and have enough disk space.
 
-Google’s explanation: [Stream files or mirror files](https://support.google.com/drive/answer/7636029).
+Google’s explanation: [Stream files or mirror files](https://support.google.com/drive/answer/10838124).
 
 Then open **Google Drive** in File Explorer or Finder. You should see **My Drive** and, if your org uses them, **Shared drives**.
 

@@ -28,10 +28,10 @@ Good Heart Tech is a volunteer-run **501(c)(3) nonprofit** (EIN **84-3156575**, 
 
 ## Authoritative links
 
-- [Free IT for nonprofits](https://goodhearttech.org/for-nonprofits.html)
-- [FAQ](https://goodhearttech.org/faq.html)
-- [Services listing](https://goodhearttech.org/services.html)
-- [Contact](https://goodhearttech.org/contact.html)
+- [Free IT for nonprofits](https://goodhearttech.org/for-nonprofits)
+- [FAQ](https://goodhearttech.org/faq)
+- [Services listing](https://goodhearttech.org/services)
+- [Contact](https://goodhearttech.org/contact/)
 
 ## Free tools and guides by Good Heart Tech
 

@@ -15,7 +15,7 @@ icon: cloudflare
 {% tab title="Computer" %}
 #### Step 1: Download & Install the App
 
-* **Download** the [Cloudflare WARP (1.1.1.1) app](https://1.1.1.1/) on your device. &#x20;
+* **Download** the [Cloudflare WARP (1.1.1.1) app](https://one.one.one.one/) on your device. &#x20;
 *   Launch the executable file and click through the screens to complete the installation.&#x20;
 
     <figure><img src="../../.gitbook/assets/image (16).png" alt="" width="375"><figcaption></figcaption></figure>

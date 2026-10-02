@@ -16,7 +16,7 @@ Managing a nonprofit’s network infrastructure effectively is crucial for ensur
 
 <div align="left"><figure><img src="../../.gitbook/assets/ntop.png" alt="" width="171"><figcaption></figcaption></figure></div>
 
-[ntop](https://www.ntop.org/) offers [ntopng](https://www.ntop.org/products/traffic-analysis/ntop/), which is an advanced network traffic monitoring tool that provides real-time visibility into network usage and security threats. It offers a web-based interface for tracking bandwidth consumption, detecting anomalies, and analyzing network protocols. ntopng [helps nonprofits](https://www.ntop.org/faq/do-you-charge-universities-no-profit-and-research-organisations/) identify potential security risks and optimize network performance. We only recommend ntop for advanced users and complex network needs. Nonprofits can access premium ntopng features for free by reaching out to [education@ntop.org](mailto:education@ntop.org) to request free licenses.&#x20;
+[ntop](https://www.ntop.org/) offers [ntopng](https://www.ntop.org/products/traffic-analysis/ntopng/), which is an advanced network traffic monitoring tool that provides real-time visibility into network usage and security threats. It offers a web-based interface for tracking bandwidth consumption, detecting anomalies, and analyzing network protocols. ntopng [helps nonprofits](https://www.ntop.org/faq/do-you-charge-universities-no-profit-and-research-organisations/) identify potential security risks and optimize network performance. We only recommend ntop for advanced users and complex network needs. Nonprofits can access premium ntopng features for free by reaching out to [education@ntop.org](mailto:education@ntop.org) to request free licenses.&#x20;
 
 ### New Relic
 

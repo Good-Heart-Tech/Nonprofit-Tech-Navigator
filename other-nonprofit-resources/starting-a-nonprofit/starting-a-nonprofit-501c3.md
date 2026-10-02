@@ -57,7 +57,7 @@ Your board provides governance and legal oversight. The IRS and most states have
 
 An EIN (also called a Federal Tax ID) is required before you apply to the IRS for tax-exempt status. You need it to open a bank account and hire staff, too.
 
-**Apply free at:** [irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
+**Apply free at:** [irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)
 
 The process takes about 15 minutes online and your EIN is issued immediately.
 
@@ -76,7 +76,7 @@ With your EIN, articles of incorporation, and bylaws in hand, you can apply to t
 
 **File online at:** [pay.gov](https://www.pay.gov) (search "Form 1023")
 
-**Filing fees:** $275 for Form 1023-EZ; $600 for Form 1023 (as of 2024; verify current fees at [irs.gov](https://www.irs.gov/charities-non-profits/application-for-recognition-of-exemption)).
+**Filing fees:** $275 for Form 1023-EZ; $600 for Form 1023 (as of 2024; verify current fees at [irs.gov](https://www.irs.gov/charities-and-nonprofits/application-for-recognition-of-exemption)).
 
 ### What to Expect
 
@@ -103,7 +103,7 @@ Search "[your state] nonprofit tax exemption" or "[your state] 501(c)(3) state e
 
 ## Helpful Resources
 
-* [IRS Charities and Nonprofits](https://www.irs.gov/charities-non-profits): Central hub for all IRS guidance on forming and maintaining a nonprofit.
+* [IRS Charities and Nonprofits](https://www.irs.gov/charities-and-nonprofits): Central hub for all IRS guidance on forming and maintaining a nonprofit.
 * [IRS Publication 557](https://www.irs.gov/publications/p557): "Tax-Exempt Status for Your Organization." The official IRS guide to the 501(c)(3) process.
 * [IRS Form 1023 Instructions](https://www.irs.gov/instructions/i1023): Detailed instructions for the full application.
 * [National Council of Nonprofits](https://www.councilofnonprofits.org/): State-by-state resources and guidance for nonprofits across the country.

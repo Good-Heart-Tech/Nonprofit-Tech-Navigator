@@ -18,7 +18,7 @@ icon: lock-keyhole
 ## :closed\_lock\_with\_key: **Activate MFA**
 
 1. Open this document on your primary work computer.
-2. Follow this link and sign in using your new email account credentials: [http://aka.ms/mfasetup](https://aka.ms/mfasetup)
+2. Follow this link and sign in using your new email account credentials: [http://aka.ms/mfasetup](https://mysignins.microsoft.com/security-info)
 3. Follow the instructions on the screen to confirm your email account and password (see screenshots below for examples).
 4. When prompted, **open the Microsoft Authenticator app on your mobile device**, and click the + icon to add a new account.
 5. Choose “**Work or School**”

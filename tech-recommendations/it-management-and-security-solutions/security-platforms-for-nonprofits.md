@@ -24,7 +24,7 @@ If you're looking for password managers, those are listed [in this article](pass
 
 Quick to deploy via user onboarding or MDM, Control D provides robust security with transparent, nonprofit-friendly pricing—helping you secure your network and focus on your mission.
 
-Learn more about [the nonprofit offering here.](https://docs.controld.com/docs/industry-non-profits)
+Learn more about [the nonprofit offering here.](https://controld.com/industries/non-profits)
 
 ## VPN & Zero-Trust Software <a href="#vpn-and-zero-trust-software3" id="vpn-and-zero-trust-software3"></a>
 
@@ -36,7 +36,7 @@ Need help choosing the right fit? See [Remote Access & Zero Trust for Nonprofits
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare WARP" width="188"><figcaption></figcaption></figure></div>
 
-[Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) is free, and the app is straightforward to use. You can download the software for free and enable the VPN without creating an account. You know your internet is secure when the Cloudflare cloud is enabled (orange). Cloudflare runs one of the most reliable networks on the planet.
+[Cloudflare WARP](https://developers.cloudflare.com/cloudflare-one/team-and-resources/devices/cloudflare-one-client/download/) is free, and the app is straightforward to use. You can download the software for free and enable the VPN without creating an account. You know your internet is secure when the Cloudflare cloud is enabled (orange). Cloudflare runs one of the most reliable networks on the planet.
 
 {% content-ref url="../../tech-guides/security-guides/securing-network-traffic-on-your-pc-using-cloudflare-warp.md" %}
 [securing-network-traffic-on-your-pc-using-cloudflare-warp.md](../../tech-guides/security-guides/securing-network-traffic-on-your-pc-using-cloudflare-warp.md)
@@ -46,7 +46,7 @@ Need help choosing the right fit? See [Remote Access & Zero Trust for Nonprofits
 
 <div align="left"><figure><img src="../../.gitbook/assets/Cloudflare.png" alt="Cloudflare Zero Trust" width="188"><figcaption></figcaption></figure></div>
 
-[Cloudflare Zero Trust](https://www.cloudflare.com/products/zero-trust/) has a free tier for up to 50 users that allows you to securely connect all your organization's endpoints to the same secure network, even if they are all over the world. It can ensure your computers' network traffic is secure and allows users to access your network and applications quickly. You can even build application tunnels (reverse proxy), eliminating the need for open ports on your network firewall. If you've got a website or other app you host, it can become much more secure, even on the free tier of Cloudflare Zero Trust.
+[Cloudflare Zero Trust](https://www.cloudflare.com/sase/) has a free tier for up to 50 users that allows you to securely connect all your organization's endpoints to the same secure network, even if they are all over the world. It can ensure your computers' network traffic is secure and allows users to access your network and applications quickly. You can even build application tunnels (reverse proxy), eliminating the need for open ports on your network firewall. If you've got a website or other app you host, it can become much more secure, even on the free tier of Cloudflare Zero Trust.
 
 {% content-ref url="../../tech-guides/security-guides/cloudflare-zero-trust-setup.md" %}
 [cloudflare-zero-trust-setup.md](../../tech-guides/security-guides/cloudflare-zero-trust-setup.md)
