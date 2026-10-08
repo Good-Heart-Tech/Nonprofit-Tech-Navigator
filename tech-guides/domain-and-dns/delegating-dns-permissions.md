@@ -1,7 +1,7 @@
 ---
 description: >-
-  This guide will help you delegate access to DNS and related services for your
-  domain to another person.
+  Delegate DNS access to Good Heart Tech (tools@goodhearttech.org) on Cloudflare,
+  Network Solutions, Google Domains, GoDaddy, Wix, and Squarespace.
 icon: road-lock
 ---
 
@@ -33,6 +33,24 @@ Each domain in Google Domains has to be delegated separately, so if you have mul
 Use [this documentation from GoDaddy](https://www.godaddy.com/help/invite-a-delegate-to-access-my-godaddy-account-12376) to delegate the entire account to **tools@goodhearttech.org.**
 
 Be sure to choose the permissio&#x6E;**: Products, Domains, & Purchase**
+
+## Network Solutions account delegation
+
+Give Good Heart Tech access to manage DNS without sharing your password. Network Solutions calls this an **account contact** (not the same as public WHOIS contacts on the domain).
+
+**Invite email:** `tools@goodhearttech.org`
+
+**Role we need for DNS work:** **Technical Contact** (can manage domains and DNS; no billing or payment info). Choose **Administrative Contact** only if you also want us to purchase or renew services on the account.
+
+Official walkthrough: [How do I add and edit account contacts?](https://www.networksolutions.com/help/article/add-and-edit-contacts)
+
+1. Sign in at [Network Solutions Account Manager](https://www.networksolutions.com/my-account/login).
+2. Click the arrow next to your name (top right) → **Users & Roles** (one account) or **Accounts & Users** (multiple accounts).
+3. Click **+ ADD USER** (if you have multiple accounts, click **Manage** on the right account first).
+4. Enter **tools@goodhearttech.org**, pick **Technical Contact**, then click **Invite**.
+5. Good Heart Tech accepts the email invitation (check spam if it does not arrive within a day).
+
+You can change or remove our access anytime from the same **Users & Roles** page.
 
 ## **Squarespace Account Delegation**
 
