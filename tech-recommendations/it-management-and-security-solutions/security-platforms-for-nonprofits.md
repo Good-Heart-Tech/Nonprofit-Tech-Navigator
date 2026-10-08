@@ -112,13 +112,13 @@ Setup is usually straightforward. Install the connector where the internal resou
 **Plan for technical setup.** TridentStack is powerful, but initial deployment (agents, policies, patch rings, and integrations) takes real IT skill. Make sure you have an IT person, volunteer MSP, or consultant handy before you roll it out org-wide.
 {% endhint %}
 
-**Why nonprofits and MSP volunteers care**
+**What you get in plain terms**
 
-* **Patch management** for Windows, Linux, and macOS, including a broad application catalog and phased deployment rings.
-* **Vulnerability detection** with real-time CVE scanning, patch-to-vulnerability mapping, and CISA Known Exploited Vulnerabilities (KEV) tracking.
-* **Policy deployment** with thousands of settings, collision checks before rollout, and enforcement without relying solely on traditional AD Group Policy.
-* **Compliance visibility** using DISA STIG and Microsoft baselines, with automated scoring and trend history for audit conversations.
+* **Keep computers updated** on Windows, Mac, and Linux, including common apps, with a sensible rollout plan instead of updating everything at once.
+* **See security gaps early**, including widely exploited flaws, and know which updates actually fix them.
+* **Apply security settings consistently** across your fleet so laptops and servers follow the same rules.
+* **Track how you are doing** over time with scores and reports you can share with leadership or auditors.
 
-Good Heart Tech uses modern security platforms like this to stay proactive: fewer surprise patch gaps, clearer priorities for volunteer time, and reporting that boards and executive directors can understand. For fleets above 200 devices or paid tiers, contact [TridentStack](https://tridentstack.com/) for current nonprofit and MSP pricing.
+Good Heart Tech uses tools like this to catch problems before they become emergencies and to spend volunteer time on the fixes that matter most. Need more than 200 devices or a paid plan? Contact [TridentStack](https://tridentstack.com/) for current pricing.
 
 *Last reviewed: 2026-10.*
