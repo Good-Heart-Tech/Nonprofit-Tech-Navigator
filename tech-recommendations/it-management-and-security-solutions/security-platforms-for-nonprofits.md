@@ -98,4 +98,19 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 [Senteon](https://senteon.co/) provides automated endpoint hardening that aligns systems with CIS benchmarks and security best practices. It automatically sets hundreds of Windows security settings on both servers and PCs to reduce the attack surface, enforce consistent configurations, and help maintain compliance. For nonprofits with IT staff, Senteon is a powerful solution because it adds enterprise-grade endpoint security while staying cost-effective. Deployment and tuning require some technical knowledge, but once configured, it significantly strengthens defenses and lowers security risks.
 
-*Last reviewed: 2026-08.*
+## TridentStack Control - Patch, Vulnerability & Compliance
+
+<div align="left"><figure><img src="../../.gitbook/assets/tridentstack-logo.png" alt="TridentStack" width="220"><figcaption></figcaption></figure></div>
+
+[TridentStack](https://tridentstack.com/) **Control** connects patching, vulnerability management, policy enforcement, and compliance scoring in one remediation workflow. Instead of juggling separate tools for Windows updates, third-party apps, CVE tracking, and STIG-style baselines, teams can see what is exposed, what policy requires, and what to fix next from a single console.
+
+**Why nonprofits and MSP volunteers care**
+
+* **Patch management** for Windows, Linux, and macOS, including a broad application catalog and phased deployment rings.
+* **Vulnerability detection** with real-time CVE scanning, patch-to-vulnerability mapping, and CISA Known Exploited Vulnerabilities (KEV) tracking.
+* **Policy deployment** with thousands of settings, collision checks before rollout, and enforcement without relying solely on traditional AD Group Policy.
+* **Compliance visibility** using DISA STIG and Microsoft baselines, with automated scoring and trend history for audit conversations.
+
+Good Heart Tech uses modern security platforms like this to stay proactive: fewer surprise patch gaps, clearer priorities for volunteer time, and reporting that boards and executive directors can understand. Contact [TridentStack](https://tridentstack.com/) for pricing and nonprofit or MSP programs that fit your fleet size.
+
+*Last reviewed: 2026-10.*
