@@ -104,6 +104,14 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 [TridentStack](https://tridentstack.com/) **Control** connects patching, vulnerability management, policy enforcement, and compliance scoring in one remediation workflow. Instead of juggling separate tools for Windows updates, third-party apps, CVE tracking, and STIG-style baselines, teams can see what is exposed, what policy requires, and what to fix next from a single console.
 
+{% hint style="success" %}
+**Free for up to 200 devices.** That tier is a strong fit for smaller nonprofits that want enterprise-style patch and vulnerability visibility without paying for a full security stack on day one.
+{% endhint %}
+
+{% hint style="warning" %}
+**Plan for technical setup.** TridentStack is powerful, but initial deployment (agents, policies, patch rings, and integrations) takes real IT skill. Make sure you have an IT person, volunteer MSP, or consultant handy before you roll it out org-wide.
+{% endhint %}
+
 **Why nonprofits and MSP volunteers care**
 
 * **Patch management** for Windows, Linux, and macOS, including a broad application catalog and phased deployment rings.
@@ -111,6 +119,6 @@ Setup is usually straightforward. Install the connector where the internal resou
 * **Policy deployment** with thousands of settings, collision checks before rollout, and enforcement without relying solely on traditional AD Group Policy.
 * **Compliance visibility** using DISA STIG and Microsoft baselines, with automated scoring and trend history for audit conversations.
 
-Good Heart Tech uses modern security platforms like this to stay proactive: fewer surprise patch gaps, clearer priorities for volunteer time, and reporting that boards and executive directors can understand. Contact [TridentStack](https://tridentstack.com/) for pricing and nonprofit or MSP programs that fit your fleet size.
+Good Heart Tech uses modern security platforms like this to stay proactive: fewer surprise patch gaps, clearer priorities for volunteer time, and reporting that boards and executive directors can understand. For fleets above 200 devices or paid tiers, contact [TridentStack](https://tridentstack.com/) for current nonprofit and MSP pricing.
 
 *Last reviewed: 2026-10.*
