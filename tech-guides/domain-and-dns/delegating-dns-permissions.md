@@ -36,31 +36,14 @@ Be sure to choose the permissio&#x6E;**: Products, Domains, & Purchase**
 
 ## Network Solutions account delegation
 
-Give Good Heart Tech access without sharing your password. Network Solutions calls this an **account contact** (not the same as public WHOIS contacts on the domain).
+Invite **tools@goodhearttech.org** as an **account contact** (not the same as public WHOIS on the domain). Select **Administrative Contact**—the highest role Network Solutions lets you delegate (Primary stays with your account owner).
 
-**Invite email:** `tools@goodhearttech.org`
+Steps: [How do I add and edit account contacts?](https://www.networksolutions.com/help/article/add-and-edit-contacts)
 
-### Which role to pick
-
-Network Solutions has three account roles. You **cannot** invite someone as **Primary Contact**—that stays with your organization’s account owner.
-
-| Role | What it can do |
-| --- | --- |
-| **Primary Contact** | Full account control (billing, legal registrant info, everything). **Not assignable** to an outside partner via invite. |
-| **Administrative Contact** | **Highest role you can delegate.** Manage domains, DNS, websites, renewals, purchases, and other users (Admin or Tech). Cannot change legal account holder / registrant details. |
-| **Technical Contact** | Domains, DNS, and technical settings only. No billing or payment methods. |
-
-**For Good Heart Tech partners, choose Administrative Contact.** That is the highest access Network Solutions allows through an invitation. Technical Contact is too limited for full DNS and domain work.
-
-Official walkthrough: [How do I add and edit account contacts?](https://www.networksolutions.com/help/article/add-and-edit-contacts)
-
-1. Sign in at [Network Solutions Account Manager](https://www.networksolutions.com/my-account/login).
-2. Click the arrow next to your name (top right) → **Users & Roles** (one account) or **Accounts & Users** (multiple accounts).
-3. Click **+ ADD USER** (if you have multiple accounts, click **Manage** on the right account first).
-4. Enter **tools@goodhearttech.org**, select **Administrative Contact**, then click **Invite**.
-5. Good Heart Tech accepts the email invitation (check spam if it does not arrive within a day).
-
-You can change or remove our access anytime from the same **Users & Roles** page.
+1. Sign in at [Account Manager](https://www.networksolutions.com/my-account/login).
+2. Your name (top right) → **Users & Roles** or **Accounts & Users** → **+ ADD USER** (use **Manage** first if you have multiple accounts).
+3. Email **tools@goodhearttech.org**, role **Administrative Contact** → **Invite**.
+4. We accept the invitation (check spam if needed). You can remove access anytime on the same page.
 
 ## **Squarespace Account Delegation**
 
