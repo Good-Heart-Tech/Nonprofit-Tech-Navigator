@@ -104,6 +104,7 @@
   * [How to Check for Windows Updates](microsoft/windows-guides/how-to-check-for-windows-updates.md)
   * [How to Find Your Computer's Name (Hostname)](microsoft/windows-guides/how-to-find-your-computers-name-hostname.md)
   * [How to Use Clipboard History in Windows](microsoft/windows-guides/how-to-use-clipboard-history-in-windows.md)
+  * [Display Dimmer for Nonprofits](microsoft/windows-guides/display-dimmer-for-nonprofits.md)
   * [Signing In to Windows Using Web Sign-In](microsoft/windows-guides/signing-in-to-windows-using-web-sign-in.md)
   * [Bypassing Microsoft Account Requirement in Windows 11](microsoft/windows-guides/bypassing-microsoft-account-requirement-in-windows-11.md)
 
