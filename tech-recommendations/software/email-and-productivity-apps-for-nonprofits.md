@@ -127,5 +127,3 @@ Stirling PDF offers self-hosting options for independent use. Find out more on t
 **File Converter** is a simple Windows tool that lets you quickly convert media files (documents, images, audio, video) into different formats. Once installed, you can just right-click any file in Windows Explorer and choose **Convert** to get the format you need.
 
 Download here: [GitHub Releases](https://github.com/Tichau/FileConverter/releases/) or [Official Site](https://file-converter.io/download.html).
-
-*Last reviewed: 2026-09.*

@@ -33,5 +33,3 @@ When configuring scanning to email, it's important to consider security.  Always
 We highly recommend that [SMTP2Go](https://www.smtp2go.com/) be set up as an email relay and verified with DNS/DKIM for security and ease of use.&#x20;
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Microsoft 365 Scan to Email Setup</td><td></td><td><a href="https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365">https://learn.microsoft.com/en-us/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365</a></td></tr><tr><td></td><td>Google Workspace Scan to Email Setup</td><td></td><td><a href="https://knowledge.workspace.google.com/admin/gmail/send-email-from-a-printer-scanner-or-app?hl=en">https://knowledge.workspace.google.com/admin/gmail/send-email-from-a-printer-scanner-or-app?hl=en</a></td></tr></tbody></table>
-
-*Last reviewed: 2026-08.*

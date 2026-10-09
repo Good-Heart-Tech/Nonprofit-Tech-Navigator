@@ -35,5 +35,3 @@ Look for Phone Systems? [Click Here.](../phone-systems-for-nonprofits.md)
 <div align="left"><figure><img src="../../.gitbook/assets/slack.png" alt="Slack" width="188"><figcaption></figcaption></figure></div>
 
 Slack is an app that allows you to chat quickly with volunteers and your team. You can easily add anyone, and it is easily accessible from any computer or mobile device. Slack offers [a free workspace to everyone](https://slack.com/help/articles/206845317-Create-a-Slack-workspace) but [offers important security and management capabilities to nonprofits for free](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount). Slack offers the Pro Plan for free for 250 members and lower, so [select that plan on the nonprofit application](https://my.slack.com/nonprofit).&#x20;
-
-*Last reviewed: 2026-08.*

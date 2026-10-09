@@ -40,5 +40,3 @@ Sentry offers **free accounts for qualifying nonprofit organizations**, allowing
 
 1. **Create a Sentry account** here: [https://sentry.io/signup/](https://sentry.io/signup/)
 2. **Submit a sponsorship application** here: [https://sentry.io/sponsorship](https://sentry.io/sponsorship)
-
-*Last reviewed: 2026-08.*

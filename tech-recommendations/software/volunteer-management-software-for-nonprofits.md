@@ -51,5 +51,3 @@ Although [Zeffy ](https://www.zeffy.com/)is primarily [a fundraising platform](p
 <div align="left"><figure><img src="../../.gitbook/assets/goots-conference.png" alt="Goots Conference logo" width="118"><figcaption></figcaption></figure></div>
 
 [Goots Conference](https://conference.goots.app/) is a full conference management app built by the MSP community for community events that cannot afford enterprise event platforms. It covers registration and ticketing, call for speakers, agenda, sponsor pipeline, branded event sites (or a WordPress plugin), and live budget tracking in one place. The **free** plan includes one conference with financial dashboards, revenue and cost tracking, sponsor pipeline management, and CSV import/export. Standard is **$30/month per hosted conference** and adds unlimited conferences, hosting and storage, and REST API access. Paid tickets include a 1.5% platform fee plus Stripe processing; free tickets and free events stay free. [Get started free](https://conference.goots.app/).
-
-*Last reviewed: 2026-08.*

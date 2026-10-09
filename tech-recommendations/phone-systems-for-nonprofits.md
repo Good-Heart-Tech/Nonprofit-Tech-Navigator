@@ -59,5 +59,3 @@ For Microsoft-focused organizations with IT support in place, Teams Voice offers
 Nonprofits benefit from OnPage’s advanced reliability and flexibility, including persistent alerts that override silent mode, automated escalations, and detailed delivery confirmation.
 
 **OnPage offers a 15% discount to nonprofit organizations**, making it an affordable option for mission-critical communication needs. [Contact them here](https://www.onpage.com/contact-us/) and be sure to let them know you're with a nonprofit.
-
-*Last reviewed: 2026-08.*

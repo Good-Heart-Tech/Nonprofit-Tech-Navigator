@@ -31,4 +31,3 @@ To enable MFA, admins have two choices: [**Security Defaults**](https://learn.mi
 * **How to enable:**
   * Review the requirements you want to put in place.&#x20;
   * [Use this guide to deploy your own ](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/overview)custom conditional access policies.&#x20;
-

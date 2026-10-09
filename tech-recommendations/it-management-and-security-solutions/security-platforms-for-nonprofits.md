@@ -120,5 +120,3 @@ Setup is usually straightforward. Install the connector where the internal resou
 * **Track how you are doing** over time with scores and reports you can share with leadership or auditors.
 
 Good Heart Tech uses tools like this to catch problems before they become emergencies and to spend volunteer time on the fixes that matter most. Need more than 200 devices or a paid plan? Contact [TridentStack](https://tridentstack.com/) for current pricing.
-
-*Last reviewed: 2026-10.*

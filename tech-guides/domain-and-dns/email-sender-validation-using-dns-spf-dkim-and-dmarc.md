@@ -148,4 +148,3 @@ Vanity or parked domains are extra domains acquired to safeguard an organization
 {% hint style="info" %}
 _Not all DNS hosts support wildcards in public DNS records, so the DKIM restriction may not always be possible._
 {% endhint %}
-

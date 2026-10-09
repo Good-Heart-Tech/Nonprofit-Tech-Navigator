@@ -5,4 +5,3 @@ icon: display
 ---
 
 # Windows Guides
-

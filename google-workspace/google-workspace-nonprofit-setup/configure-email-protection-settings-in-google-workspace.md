@@ -15,4 +15,3 @@ We recommend you complete our two setup guides for Google before configuring the
 {% endcontent-ref %}
 
 {% include "../../.gitbook/includes/email-protection-setup.md" %}
-

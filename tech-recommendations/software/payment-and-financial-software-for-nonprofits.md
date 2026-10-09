@@ -86,5 +86,3 @@ QuickBooks and MoneyMinder help you track money day to day. For Form 990, tax-ex
 <div align="left"><figure><img src="../../.gitbook/assets/moneyminder.png" alt="" width="126"><figcaption></figcaption></figure></div>
 
 [MoneyMinder ](https://moneyminder.com/)is a good option for nonprofits due to its user-friendly interface and extensive reporting capabilities. It boasts excellent customer support, catering even to non-technical users. The free plan includes basic features such as budgeting, member tracking, and an online store, making it valuable for budget management and member organization.
-
-*Last reviewed: 2026-08.*

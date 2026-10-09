@@ -47,5 +47,3 @@ Key features include:
 6. **SEO-Ready:** With built-in SEO features, nonprofits can improve their visibility in search engine results, helping them reach a broader audience and attract more supporters.
 7. **Integrations:** Avada seamlessly integrates with popular plugins such as WooCommerce, Contact Form 7, and The Events Calendar, making it easier to manage donations, events, and communications.
 8. **Comprehensive Support:** The theme comes with extensive documentation, video tutorials, and access to a dedicated support team, ensuring nonprofits can quickly resolve any issues.
-
-*Last reviewed: 2026-08.*

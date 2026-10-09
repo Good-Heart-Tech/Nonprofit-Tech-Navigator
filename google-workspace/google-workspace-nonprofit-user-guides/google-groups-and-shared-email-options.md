@@ -98,5 +98,3 @@ Admins create groups in the [Admin console](https://admin.google.com/ac/groups) 
 * [Let users delegate Gmail (admin)](https://knowledge.workspace.google.com/admin/gmail/let-users-delegate-access-to-a-gmail-account)
 
 Next step for admins: [Configure Google Workspace for Nonprofit](../google-workspace-nonprofit-setup/configure-google-workspace-for-nonprofit.md)
-
-*Last reviewed: 2026-09.*

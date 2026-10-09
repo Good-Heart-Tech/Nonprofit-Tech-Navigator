@@ -26,5 +26,3 @@ description: >-
 {% content-ref url="../../google-workspace/google-workspace-nonprofit-user-guides/setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md" %}
 [setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md](../../google-workspace/google-workspace-nonprofit-user-guides/setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md)
 {% endcontent-ref %}
-
-*Last reviewed: 2026-08.*

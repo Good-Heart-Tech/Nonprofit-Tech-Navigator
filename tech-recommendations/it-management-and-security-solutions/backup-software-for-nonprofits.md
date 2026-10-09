@@ -73,5 +73,3 @@ Backups for Shared drives, Teams, & SharePoint are free with an active user lice
 It does **not** back up VMs on Proxmox. Proxmox is its own host OS, and BackupChain does not support that yet.
 
 BackupChain donates licenses to small nonprofits and offers substantial discounts to most others. To request a donation, email Melissa Weekley ([melissa@fastneuron.com](mailto:melissa@fastneuron.com)) or Savas Papadopoulos ([savas@fastneuron.com](mailto:savas@fastneuron.com)). Include your organization's basic financial information and how many licenses you need. See [BackupChain software donations to non-profit organizations](https://backupchain.net/backupchain-software-donations-to-non-profit-organizations/) for the request process.
-
-*Last reviewed: 2026-09.*

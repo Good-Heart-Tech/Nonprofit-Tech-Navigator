@@ -23,5 +23,3 @@ Fax solutions were once challenging but can now be manageable with cloud technol
 <div align="left"><figure><img src="../../.gitbook/assets/ifax logo.png" alt="" width="180"><figcaption></figcaption></figure></div>
 
 iFax is a robust e-fax solution that offers advanced features and enhanced security. iFax boasts advanced security features, easy integration with cloud services, and high customization. However, it might be potentially overwhelming for more straightforward needs. [Through TechSoup, nonprofits can get a 50% discount ](https://www.techsoup.org/ifax)on iFax services, resulting $5/mo for the basic plan, and $10/mo for the Plus plan (includes HIPAA), and $15/mo for the Pro plan.&#x20;
-
-*Last reviewed: 2026-08.*

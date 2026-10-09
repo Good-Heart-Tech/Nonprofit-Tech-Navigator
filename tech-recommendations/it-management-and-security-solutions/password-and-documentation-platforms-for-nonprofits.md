@@ -64,5 +64,3 @@ Interested in FREE hardware MFA tokens for your nonprofit?  Check out: [mfa-secu
 <div align="left"><figure><img src="../../.gitbook/assets/gitbook.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 [GitBook ](https://gitbook.com)is a versatile knowledge-sharing platform. It streamlines information management, aiding collaboration.  In fact, this website is built on Gitbook! To access [the **free** nonprofit offering](https://docs.gitbook.com/account-management/plans/apply-for-the-non-profit-open-source-plan), visit GitBook's site, provide details, and verify your nonprofit status. [Full instructions here](https://docs.gitbook.com/account-management/plans/apply-for-the-non-profit-open-source-plan#how-to-apply).
-
-*Last reviewed: 2026-08.*

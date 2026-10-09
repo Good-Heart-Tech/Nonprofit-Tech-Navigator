@@ -17,5 +17,3 @@ Remote monitoring and management tools allow an organization to remote into, man
 <div align="left"><figure><img src="../../.gitbook/assets/Level-clearbg.png" alt="" width="257"><figcaption></figcaption></figure></div>
 
 [Level RMM](https://level.io/) is a full-featured RMM nonprofit-discounted solution that provides everything from scheduled patching and management to custom scripting, background management, and more.  Contact sales for nonprofit pricing.&#x20;
-
-*Last reviewed: 2026-08.*

@@ -12,4 +12,3 @@ Forming a nonprofit is one of the most meaningful steps you can take to protect 
 * **[Ongoing Compliance Requirements](ongoing-compliance-requirements.md)** — What to do every year to stay in good standing: annual IRS filings (including the 990-N e-Postcard), state annual reports, board meeting minutes, records retention, and charitable solicitation registration.
 
 > **Quick note:** These guides are meant to orient you, not replace legal or tax advice. For legal help, see [Nonprofit Legal Resources](../nonprofit-legal-resources.md). For Form 990 and nonprofit tax work, see [Nonprofit Accounting & CPA Resources](../nonprofit-accounting.md).
-

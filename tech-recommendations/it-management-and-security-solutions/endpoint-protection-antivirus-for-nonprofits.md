@@ -50,5 +50,3 @@ description: >-
 <div align="left"><figure><img src="../../.gitbook/assets/bitdefender.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 [Bitdefender](https://www.bitdefender.com/en-us/) can be purchased at a significant discount[ from TechSoup](https://www.techsoup.org/search/products/bitdefender/). It offers cloud management capabilities and a central console to view all threats across all your endpoints.  It does not provide critical services like EDR and MDR, and requires more administrative setup and management than some other solutions, such as Threatdown.&#x20;
-
-*Last reviewed: 2026-09.*

@@ -22,4 +22,3 @@ description: Sign into Windows 11 using your browser instead of typing a passwor
 ## Not Showing?
 
 Contact your IT department; they may need to enable it for your account.
-

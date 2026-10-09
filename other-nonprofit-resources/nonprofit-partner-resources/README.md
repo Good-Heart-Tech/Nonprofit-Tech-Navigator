@@ -12,4 +12,3 @@ icon: heart-circle-check
 
 Everyone else: start with [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md) or the [Getting Started roadmap](../../getting-started-a-tech-setup-roadmap-for-new-nonprofits.md).
 {% endhint %}
-

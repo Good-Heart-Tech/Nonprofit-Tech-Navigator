@@ -25,4 +25,3 @@ Check the WARP client interface for a "**Connected**" status. Congratulations! Y
 <figure><img src="../../.gitbook/assets/image (44).png" alt="" width="218"><figcaption></figcaption></figure>
 
 🎉 Enjoy the secure online experience with Cloudflare WARP! 🚀
-

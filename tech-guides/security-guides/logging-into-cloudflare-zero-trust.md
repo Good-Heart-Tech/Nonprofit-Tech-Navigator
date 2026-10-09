@@ -61,12 +61,3 @@ icon: cloudflare
 * Make sure you’re connected by checking the app's status. You should see an indication that you are protected.
 {% endtab %}
 {% endtabs %}
-
-
-
-
-
-
-
-
-

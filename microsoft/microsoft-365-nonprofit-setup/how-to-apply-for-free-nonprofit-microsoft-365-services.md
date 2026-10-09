@@ -53,6 +53,3 @@ Often, nonprofits purchase Microsoft 365 before they realize they can receive fr
 {% content-ref url="configure-microsoft-365-for-nonprofit.md" %}
 [configure-microsoft-365-for-nonprofit.md](configure-microsoft-365-for-nonprofit.md)
 {% endcontent-ref %}
-
-
-

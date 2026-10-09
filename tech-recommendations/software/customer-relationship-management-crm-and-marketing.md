@@ -55,5 +55,3 @@ These applications empower organizations to manage donor relationships, track in
 <div align="left"><figure><img src="../../.gitbook/assets/Microsoft_365_logo.png" alt="Microsoft 365" width="188"><figcaption></figcaption></figure></div>
 
 [Microsoft Cloud for Nonprofit](https://learn.microsoft.com/en-us/industry/nonprofit/overview) is a powerful suite of tools designed to help nonprofits manage their operations, engage with donors and volunteers, and deliver programs effectively. All these tools are free for nonprofits, but unlocking their full potential requires careful configuration. While nonprofits can benefit significantly from this platform, setting it up without dedicated IT support can be challenging due to its complexity and the need for technical expertise.
-
-*Last reviewed: 2026-08.*

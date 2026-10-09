@@ -15,6 +15,3 @@ icon: lock-keyhole
 
        <figure><img src="../../.gitbook/assets/image (58).png" alt="" width="364"><figcaption></figcaption></figure>
 3. After enabling, all users will be prompted to configure MFA, and will not be able to access Google Workspace services unless they are enrolled. &#x20;
-
-
-

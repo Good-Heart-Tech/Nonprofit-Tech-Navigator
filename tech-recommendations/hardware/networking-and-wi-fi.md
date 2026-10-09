@@ -34,5 +34,3 @@ The[ Aruba Instant On](https://www.hpe.com/us/en/instant-on.html) products provi
 Cat6 and Cat5e Ethernet standards are best for almost all cases, including connecting computers and network devices to the network. Cat7 and Cat8 will work but are typically more expensive for the same speed.&#x20;
 
 * [Amazon.com: 20-Pack Cat6 Patch Cable](https://www.amazon.com/dp/B07MVRL1FH/?th=1)
-
-*Last reviewed: 2026-08.*

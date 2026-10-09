@@ -38,5 +38,3 @@ Not sure where to start?  [Fill out this quick form](https://forms.cloud.microso
 {% hint style="success" %}
 Good Heart Tech can help you compare every available option at your address and get the best pricing. [Fill out this form to get started](https://forms.cloud.microsoft/r/4qwPdGRpx0).
 {% endhint %}
-
-*Last reviewed: 2026-08.*

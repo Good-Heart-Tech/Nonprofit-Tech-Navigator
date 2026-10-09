@@ -36,5 +36,3 @@ This can foster a friendly tone and may work well internally. However, be aware 
 * **Improves readability** in directories and shared documents
 * **Standardizes onboarding/offboarding** processes
 * **Supports long-term scalability**
-
-*Last reviewed: 2026-08.*

@@ -76,5 +76,3 @@ HP has great PCs available:
 ## Servers <a href="#servers2" id="servers2"></a>
 
 We recommend avoiding physical servers wherever possible because of the affordability and stability of [nonprofit cloud hosting options](computers-and-servers.md#hosting-providers4). However, if on-premise infrastructure is required, we recommend [Dell PowerEdge](https://www.dell.com/en-us/shop/dell-poweredge-servers/sc/servers?source=HostingJournalist.com) servers.
-
-*Last reviewed: 2026-09.*

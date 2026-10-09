@@ -29,5 +29,3 @@ These tools enhance collaboration, boost efficiency, and ensure that nonprofit t
 <div align="left"><figure><img src="../../.gitbook/assets/trello.svg" alt="Trello" width="75"><figcaption></figcaption></figure></div>
 
 [Trello offers a free tier](https://trello.com/pricing) accessible to all users, providing a versatile platform for project management. Nonprofits can create a Trello Workspace at no cost, enabling efficient collaboration and organization for their initiatives.
-
-*Last reviewed: 2026-08.*

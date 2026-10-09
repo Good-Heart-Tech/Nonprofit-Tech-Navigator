@@ -49,5 +49,3 @@ Browser extensions can greatly enhance productivity, security, and privacy for n
 
 1. [**Microsoft Single Sign-On**](https://chromewebstore.google.com/detail/microsoft-single-sign-on/ppnbnpeolgkicgegkbkbjmhlideopiji?hl=en) helps simplify authentication by streamlining the login process across Microsoft services. With this extension, users can seamlessly access their Microsoft apps, reducing the need for multiple logins and increasing efficiency while maintaining robust security.
 2. [**My Apps Secure Sign-in Extension**](https://chromewebstore.google.com/detail/my-apps-secure-sign-in-ex/ggjhpefgjjfobnfoldnjipclpcfbgbhl?hl=en-US) offers additional security layers for Microsoft 365 users. It facilitates easier, secure access to the My Apps portal, ensuring that users are signed in correctly and safely across various Microsoft applications. This extension enhances both the ease of use and security of Microsoft 365 services, making it an essential tool for nonprofits using Microsoft’s suite of tools.
-
-*Last reviewed: 2026-08.*

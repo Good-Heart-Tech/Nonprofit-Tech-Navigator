@@ -42,4 +42,3 @@ Good Heart Tech provides the services below to our nonprofit partners at **no co
 {% hint style="info" %}
 Not sure where to start? [Submit a ticket to us](how-to-submit-a-support-ticket-to-good-heart-tech.md) and we’ll help you decide what to prioritize.
 {% endhint %}
-

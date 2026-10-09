@@ -20,8 +20,3 @@ This is how to check voicemail on your own account and number.&#x20;
 ## Accessing Shared Voicemail (Microsoft 365 Team)
 
 This is required if you use a shared voicemail account or a Microsoft 365 group. &#x20;
-
-
-
-
-

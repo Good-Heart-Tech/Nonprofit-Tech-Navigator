@@ -25,4 +25,3 @@ If you want to add another layer of security and use a YubiKey, follow this guid
 {% content-ref url="setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md" %}
 [setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md](setting-up-a-yubikey-hardware-mfa-token-with-google-workspace.md)
 {% endcontent-ref %}
-

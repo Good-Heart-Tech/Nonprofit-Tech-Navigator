@@ -40,5 +40,3 @@ Adobe offers numerous free and discounted offerings, and [the best way to get th
 * Adobe Creative Cloud - Access to a collection of creative design applications and services with license management, security, and support
 * Photoshop & Premiere Elements - $30/year - Consumer-level tools for editing digital images and videos
 * Adobe Acrobat Pro - Application for creating, controlling, and exchanging secure, high-quality PDF documents
-
-*Last reviewed: 2026-08.*

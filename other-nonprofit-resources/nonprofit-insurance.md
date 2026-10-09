@@ -18,4 +18,3 @@ Insurance is crucial for nonprofits to protect their assets, staff, and voluntee
 * **Professional Services**: Costing $1000/year, it varies drastically based on services offered by the nonprofit.
 
 Engaging a knowledgeable broker like [Paul Waters at NFP (paul.waters@nfp.com)](mailto:paul.waters@nfp.com) ensures nonprofits find suitable coverage.  If you want more information or just want to chat about options, [contact Paul](mailto:paul.waters@nfp.com).&#x20;
-

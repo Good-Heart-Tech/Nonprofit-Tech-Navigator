@@ -64,4 +64,3 @@ On December 21st 2024, Microsoft transitioned away from its [dedicated Azure Spo
 Prior to December 21st 2024, Microsoft used a special portal where you can view the balance. To check your balance on Azure sponsorships that we activated prior to December 21st  2024, sign in with your Microsoft 365 account that is assigned a "_Nonprofit Portal_" license the _Billing Admin_ role.  The user must be the same user that activated the Azure grant.&#x20;
 
 Old Microsoft sponsorship portal: [https://www.microsoftazuresponsorships.com/Balance](https://www.microsoftazuresponsorships.com/Balance)
-

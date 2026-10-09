@@ -18,4 +18,3 @@ icon: person-carry-box
   * Scroll down to the **Authorized Agents** section.
   * Click **INVITE A NEW AGENT,** then type in the email address of the person you'd like to invite.
   * Click SEND INVITATION.  The new user will get an email containing the organization's EIN and Association codes, which will be needed for adding the organization to their account.&#x20;
-

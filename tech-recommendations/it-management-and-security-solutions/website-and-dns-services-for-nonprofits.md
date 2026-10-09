@@ -101,5 +101,3 @@ All of the services below must be manually renewed yearly or when the granted cr
 ## Email-Sending Services
 
 {% include "../../.gitbook/includes/smtp2go-is-a-reliable-email....md" %}
-
-*Last reviewed: 2026-08.*
