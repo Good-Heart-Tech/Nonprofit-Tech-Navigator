@@ -16,6 +16,7 @@
   * [Form Builders & e-Signature Solutions for Nonprofits](tech-recommendations/software/form-builders-and-e-signature-solutions-for-nonprofits.md)
   * [Email & Productivity Apps for Nonprofits](tech-recommendations/software/email-and-productivity-apps-for-nonprofits.md)
   * [Payment & Financial Software for Nonprofits](tech-recommendations/software/payment-and-financial-software-for-nonprofits.md)
+  * [PC Accessibility & Optimization Software for Nonprofits](tech-recommendations/software/pc-accessibility-and-optimization-software-for-nonprofits.md)
   * [Task, Time, & Project Management for Nonprofits](tech-recommendations/software/task-time-and-project-management-for-nonprofits.md)
   * [Event & Volunteer Management Software for Nonprofits](tech-recommendations/software/volunteer-management-software-for-nonprofits.md)
   * [Web Browsers & Browser Extensions for Nonprofits](tech-recommendations/software/web-browsers-and-browser-extensions-for-nonprofits.md)
