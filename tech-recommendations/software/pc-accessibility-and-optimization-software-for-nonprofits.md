@@ -10,7 +10,7 @@ Small utilities that can help staff who spend long hours at a Windows PC. These 
 
 ## Wheelhouse
 
-<div align="left"><figure><img src="../../.gitbook/assets/wheelhouse-logo.png" alt="Wheelhouse" width="120"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/wheelhouse-logo.png" alt="Wheelhouse" width="88"><figcaption></figcaption></figure></div>
 
 [Wheelhouse](https://wheelhouse-project.org/) is free, open-source voice control for Windows 10 and 11. It helps when using a keyboard or mouse is painful or difficult, or when someone prefers to work by voice. Local speech recognition is free; optional cloud services may have their own costs.
 
