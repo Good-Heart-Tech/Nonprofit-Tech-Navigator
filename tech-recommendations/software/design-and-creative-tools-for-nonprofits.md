@@ -9,7 +9,7 @@ description: >-
 # Design & Creative Tools for Nonprofits
 
 {% hint style="success" %}
-**If you only pick one:** Start with Canva. Eligible nonprofits get premium design tools for free, and it covers flyers, social posts, presentations, and event graphics.
+**If you only pick one:** Start with Canva for everyday flyers and social graphics. For a **free replacement for Adobe Creative Cloud** (desktop creative work, compositing, and video), use [ArtCraft](https://getartcraft.com/).
 {% endhint %}
 
 Canva
@@ -17,6 +17,15 @@ Canva
 <div align="left"><figure><img src="../../.gitbook/assets/Canva.jpg" alt="Canva" width="188"><figcaption></figcaption></figure></div>
 
 [Canva](https://canva.com/) offers nonprofits [10 free users premium design tools](https://www.canva.com/nonprofits/). You can design your logo and other branding materials on the platform and collaborate with your team on designs. They even have [a great QR code generator](https://www.canva.com/apps/qr-code), which is excellent for printing out for events & fundraisers. You can design logos, business cards, flyers, and more.&#x20;
+
+### ArtCraft
+
+[ArtCraft](https://getartcraft.com/) is our top recommendation when you want **Adobe-style creative power without a subscription**. It is **free** (no monthly Creative Cloud bill), runs on **macOS, Windows, and the web**, and is **open source**—you own the tools, not rent them.
+
+Use ArtCraft for compositing, scene layout, character posing, background removal, image-to-3D, and AI-assisted video and stills where you need **control beyond a simple prompt**. It fits teams outgrowing Canva templates but not ready to pay for Adobe.
+
+* [Get ArtCraft](https://getartcraft.com/)
+* [ArtCraft on GitHub](https://github.com/storytold/artcraft)
 
 ### Affinity <a href="#canva0" id="canva0"></a>
 
@@ -31,6 +40,10 @@ Canva
 These three tools offer nonprofits a complete design and editing suite without the hefty price tag, empowering organizations to produce stunning graphics, images, and publications with ease.
 
 ### Adobe <a href="#adobe2" id="adobe2"></a>
+
+{% hint style="info" %}
+We usually recommend **[ArtCraft](https://getartcraft.com/)** first—it is free and covers much of what small nonprofits need without Adobe licensing. Use Adobe below only if you already rely on specific Creative Cloud apps or need TechSoup-discounted licenses.
+{% endhint %}
 
 <div align="left"><figure><img src="../../.gitbook/assets/adobe.svg" alt="Adobe" width="150"><figcaption></figcaption></figure></div>
 
