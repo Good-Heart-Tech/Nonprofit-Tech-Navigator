@@ -70,7 +70,7 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 ## Phishing Simulation & Security Awareness Training <a href="#security-information-and-event-management-siem-1" id="security-information-and-event-management-siem-1"></a>
 
-<div align="left"><figure><img src="../../.gitbook/assets/phishr.png" alt="" width="125"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/phishr-dark.png" alt="Phishr" width="163"><figcaption></figcaption></figure></div>
 
 [Phishr](https://www.everholdhq.com/products/phishr) is an excellent phishing simulation and security awareness training (SAT) platform. It offers its core phishing simulation services free of charge to all organizations, making it an accessible tool for enhancing cybersecurity awareness. While the platform's _**support**_ is available for a fee, the free tier provides substantial functionality to educate and prepare organizations against phishing threats.
 
