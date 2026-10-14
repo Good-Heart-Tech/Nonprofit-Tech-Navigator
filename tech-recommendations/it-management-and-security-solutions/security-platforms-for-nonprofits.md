@@ -68,13 +68,15 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 [Nord VPN](https://nordvpn.com/) is a VPN software that provides advanced options and is known for privacy. They offer a [free tier of services to nonprofits](https://nordvpn.org/nonprofit/).
 
-## Phishing Simulation & Security Awareness Training <a href="#security-information-and-event-management-siem-1" id="security-information-and-event-management-siem-1"></a>
+## Phishing Simulation & Security Awareness Training (Phishr) <a id="phishr-phishing-simulation"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/phishr-dark.png" alt="Phishr" width="163"><figcaption></figcaption></figure></div>
 
-[Phishr](https://www.everholdhq.com/products/phishr) is an excellent phishing simulation and security awareness training (SAT) platform. It offers its core phishing simulation services free of charge to all organizations, making it an accessible tool for enhancing cybersecurity awareness. While the platform's _**support**_ is available for a fee, the free tier provides substantial functionality to educate and prepare organizations against phishing threats.
+[Phishr](https://www.phishr.com/) simulates realistic phishing emails so you can find weak spots, train staff, and build security habits. Core phishing simulation is **free** for all organizations; paid options add support and extras.
 
-## Security Information and Event Management (SIEM) <a href="#security-information-and-event-management-siem-1" id="security-information-and-event-management-siem-1"></a>
+Getting started: create a free account, pick templates, run a campaign, review results, and assign training. Nonprofits can [contact Phishr](https://www.phishr.com/contact) to ask about free or discounted services for your size.
+
+## Security Information and Event Management (SIEM) <a id="security-information-and-event-management-siem"></a>
 
 <div align="left"><figure><img src="../../.gitbook/assets/Blumira.png" alt="Blumira" width="188"><figcaption></figcaption></figure></div>
 
@@ -85,12 +87,6 @@ Setup is usually straightforward. Install the connector where the internal resou
 <div align="left"><figure><img src="../../.gitbook/assets/overe.jpg" alt="" width="202"><figcaption></figcaption></figure></div>
 
 [Overe](https://overe.io/) provides automated security monitoring and policy enforcement tailored for Microsoft 365 environments, helping nonprofits maintain a strong security posture with minimal manual effort. The platform continuously monitors user activity and application configurations, detecting **and acting on** anomalies and threats in real time. It automates policy enforcement, such as multifactor authentication (MFA) and data loss prevention (DLP), ensuring compliance with security best practices. Overe’s centralized dashboard offers clear visibility into security metrics and automatically generates alerts for critical events, streamlining security management and reducing the risk of human error. By leveraging Overe.io, nonprofits can safeguard sensitive data and ensure robust security controls without the need for extensive resources.
-
-## **Phishing Simulation & Security Awareness Training (Phishr)**
-
-<div align="left"><figure><img src="../../.gitbook/assets/phishr-dark.png" alt="" width="163"><figcaption></figcaption></figure></div>
-
-[Phishr](https://www.phishr.com/) is a user-friendly tool designed to protect organizations from phishing attacks. By simulating realistic phishing emails, Phishr helps identify vulnerable employees, deliver targeted security awareness training, and foster a culture of security consciousness. Setting up Phishr is simple: create a free account, customize phishing templates, launch simulated attacks, analyze results, and provide targeted training. By incorporating Phishr into your security strategy, you can significantly enhance your nonprofit's resilience against cyber threats. Nonprofits can [use the Contact page](https://www.phishr.com/contact) to request free or discounted services (depending on the size of your organization).
 
 ## Senteon Endpoint Hardening <a href="#multi-factor-authentication0" id="multi-factor-authentication0"></a>
 
