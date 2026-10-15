@@ -34,7 +34,7 @@ Google uses a third-party platform called [Goodstack ](https://goodstack.org/)fo
 
 1. Sign in with your Google account at: [https://www.google.com/nonprofits/](https://www.google.com/nonprofits/)
 2. Click **Get started**.
-3. Have a Gmail account and a phone number handy for the application. If you don't have one, create a create one using your cell number for verification. The number is only used for verification and is not retained long-term. Once the account is created:
+3. Have a Gmail account and a phone number handy for the application. If you don't have one, create one using your cell number for verification. The number is only used for verification and is not retained long-term. Once the account is created:
    * Enable MFA using an authenticator app.&#x20;
    * Configure email forwarding to your primary email so you receive verification and status updates.
 4. Complete each page of the application carefully.&#x20;

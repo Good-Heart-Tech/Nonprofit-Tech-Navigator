@@ -7,7 +7,7 @@ icon: id-badge
 # Managing Nonprofit Licenses in the Microsoft 365 Admin Center
 
 {% hint style="info" %}
-This guide walks you through **purchasing paid** nonprofit licenses in the Microsoft 365 Admin Center for your organization. If you are looking for the **FREE** licenses, [please go here](../../google-workspace/google-workspace-nonprofit-setup/configure-google-workspace-for-nonprofit.md).
+This guide walks you through **purchasing paid** nonprofit licenses in the Microsoft 365 Admin Center for your organization. If you are looking for the **FREE** licenses, [please go here](how-to-apply-for-free-nonprofit-microsoft-365-services.md).
 {% endhint %}
 
 ## :checkered\_flag: Prerequisites
@@ -48,14 +48,14 @@ Unassigning a license can remove access to email and apps. Plan this before offb
 
 ## Purchasing Licenses in the Microsoft 365 Admin Center
 
-### Step 2: Navigate to Billing
+### Step 1: Navigate to Billing
 
 1. Sign in to [https://admin.microsoft.com](https://admin.microsoft.com/) with your Global Admin or Billing Admin account.
 2. In the left-hand navigation menu, select **Billing**, then click **Purchase services**
 
 This section displays all available subscriptions your nonprofit is eligible to purchase.
 
-### Step 3: Filter for Nonprofit Offers
+### Step 2: Filter for Nonprofit Offers
 
 1. Use the search bar or available filters within **Purchase services**.
 2. Look for a tab on the screen labeled "**Nonprofit"**
@@ -76,7 +76,7 @@ You must select the billing account with:
 
 If multiple billing accounts exist, choose the one labeled **Microsoft Online Subscription Agreement (MOSA)** to access nonprofit subscription pricing.
 
-### Step 4: Select the License
+### Step 3: Select the License
 
 1. Click on the subscription you want to purchase
 2. Review pricing (donated plans may show $0.00)
@@ -92,7 +92,7 @@ If multiple billing accounts exist, choose the one labeled **Microsoft Online Su
 
 > **Note:** Available plans depend on your nonprofit eligibility status and tenant configuration.
 
-### Step 5: Choose License Quantity
+### Step 4: Choose License Quantity
 
 1. Enter the number of licenses needed
 2. Select billing frequency (monthly or annual commitment, if applicable)
@@ -100,7 +100,7 @@ If multiple billing accounts exist, choose the one labeled **Microsoft Online Su
 
 > Tip: Start with the number of active users and adjust later if needed.
 
-### Step 6: Complete Purchase
+### Step 5: Complete Purchase
 
 1. Confirm billing information
 2. Review order details
@@ -108,7 +108,7 @@ If multiple billing accounts exist, choose the one labeled **Microsoft Online Su
 
 Once completed, the licenses will be available in your tenant.
 
-### Step 7: Assign Licenses to Users
+### Step 6: Assign Licenses to Users
 
 After purchase:
 

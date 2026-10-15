@@ -16,7 +16,5 @@ Grant full (Admin) access to manage your GiveButter account by following these q
 
 1. Go to [https://givebutter.com/login](https://givebutter.com/login) and **sign in.**
 2. Click your profile picture (top-right), then select **Account Settings** > **Users**.
-3. Click **Add User** and enter the email (e.g.,[ _**tools@goodhearttech.org**_](#user-content-fn-1)[^1]_**)**_.  Set the role to **Admin** for full access.
+3. Click **Add User** and enter the email (e.g., **tools@goodhearttech.org**). Set the role to **Admin** for full access.
 4. Click **Invite User**. The recipient will get an email to accept access.
-
-[^1]: 

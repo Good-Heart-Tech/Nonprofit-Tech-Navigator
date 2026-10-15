@@ -42,7 +42,7 @@ Before proceeding, ensure you no longer require access to any services associate
 7. Choose a reason for closing the account from the dropdown menu.
 8. Click **Mark account for closure.**
 
-**Step 5: Wait for Final Closure**
+**Step 4: Wait for Final Closure**
 
 * Microsoft imposes a **30-day waiting period** before permanently deleting the account. During this time, you can reactivate the account by signing back in if needed.
 

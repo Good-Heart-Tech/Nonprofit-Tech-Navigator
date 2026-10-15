@@ -11,7 +11,7 @@ This page is meant as a resource for nonprofits and individuals alike, helping e
 
 ### Student Debt Forgiveness
 
-The United States Federal government offers complete student load forgiveness to folks who are employed by a nonprofit and meet other specific criteria. Learn more below:&#x20;
+The United States Federal government offers complete student loan forgiveness to folks who are employed by a nonprofit and meet other specific criteria. Learn more below:&#x20;
 
 [Public Service Loan Forgiveness | Federal Student Aid](https://studentaid.gov/manage-loans/forgiveness-cancellation/public-service#qualifying-employment) :link:
 

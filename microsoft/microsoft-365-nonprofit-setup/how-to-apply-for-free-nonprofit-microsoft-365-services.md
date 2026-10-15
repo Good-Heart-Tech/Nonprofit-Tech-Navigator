@@ -39,7 +39,6 @@ Often, nonprofits purchase Microsoft 365 before they realize they can receive fr
 * Navigate to https://nonprofit.microsoft.com/signin
 * Click **Sign in** and enter your Microsoft 365 account username and password.
 * Upon login, you'll see a message to complete your nonprofit profile, including your 501(c)(3) verification letter from the IRS or other supporting documents. Click **Complete my nonprofit profile**.
-  * ![](https://endsight.itglue.com/3702742/docs/11386493/images/15875489)
 * Enter the requested information and click Continue. _Note: The following fields will be pre-populated for you based on information in your Microsoft 365 tenant:_
   * Legal Name
   * Address (if available)

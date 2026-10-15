@@ -34,7 +34,7 @@ Not all websites have blogs, but for those that do, the content update process i
 
 ## Updating Events
 
-In Avada, the plugin called [The Events Calendar](https://www.liquidweb.com/software/the-events-calendar/) controls the events and displays them to the user.  This plugin is developed by the same organization that make the Avada theme, so it integrates seamlessly.&#x20;
+In Avada, the plugin called [The Events Calendar](https://www.liquidweb.com/software/the-events-calendar/) controls the events and displays them to the user.  This plugin is developed by the same organization that makes the Avada theme, so it integrates seamlessly.&#x20;
 
 To update events and event components, Click on the Events sidebar menu to see all the sidebar options:&#x20;
 
@@ -44,7 +44,7 @@ To update events and event components, Click on the Events sidebar menu to see a
 
 In the Events sidebar, you'll have a bunch of options.  The main ones that you need to focus on are these:
 
-* **Events** - These are the actual events.  To make it easy on yourself, you can duplicate existing Events using the _Duplicate This_ button.  On the events edit screen, be sure to fill in as much information as possible.  Within each event, you can optionally select _Event Catagories_, _Venues_, and _Organizers_ to easily include helpful information directly in your event.&#x20;
+* **Events** - These are the actual events.  To make it easy on yourself, you can duplicate existing Events using the _Duplicate This_ button.  On the events edit screen, be sure to fill in as much information as possible.  Within each event, you can optionally select _Event Categories_, _Venues_, and _Organizers_ to easily include helpful information directly in your event.&#x20;
 * **Event Categories** - These are how your events will be categorized.  This can help if you have many events and need to display different types on different pages.  Some folks have categories for each year, event type (social, fundraising, etc), or other criteria.&#x20;
-* **Venues** - These are the physical locations (or remote/online locations) wher your events will be hosted.  Be sure to add all the venues that you typically use for your events to save time later.  Fill in as much information as possible, including the address, so Google Maps shows up properly and users can find your events.&#x20;
+* **Venues** - These are the physical locations (or remote/online locations) where your events will be hosted.  Be sure to add all the venues that you typically use for your events to save time later.  Fill in as much information as possible, including the address, so Google Maps shows up properly and users can find your events.&#x20;
 * **Organizers** - These tell the user who is organizing the event, and provide contact information, like website and email address to the user.&#x20;

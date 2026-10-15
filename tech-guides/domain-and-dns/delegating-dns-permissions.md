@@ -10,7 +10,7 @@ icon: road-lock
 ## Cloudflare Account Permissions Delegation
 
 * Log in to the [Cloudflare Dashboard.](https://dash.cloudflare.com/)
-*   On the sidebar, go to **Manage Account** < **Members**
+*   On the sidebar, go to **Manage Account** > **Members**
 
     <div align="left"><figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure></div>
 * Click **Invite**, and type in **tools@goodhearttech.org,** and click **Add.**
@@ -50,7 +50,7 @@ Steps: [How do I add and edit account contacts?](https://www.networksolutions.co
 * Open Squarespace and navigate to dashboard: [https://account.squarespace.com/](https://account.squarespace.com/)
 * Click on Permissions from the submenu on the site:
   * ![](<../../.gitbook/assets/image (14).png>)
-* Click on the "_**Invite Contributor**_" buttton
+* Click on the "_**Invite Contributor**_" button
 * Enter the contributor's name and email address.
 * Enable the toggle for **Administrator**.
 * Click "**Invite**" to send the invitation.
@@ -63,7 +63,7 @@ Delegate access so Good Heart Tech can manage your Wix site when needed.
 * Go to Domains.
 * Under the **collaborators** setting, find the button for **Manage Roles & Permissions**
   * &#x20;![](<../../.gitbook/assets/image (8).png>)
-* Click **Invite Collaborators buttons**.
+* Click the **Invite Collaborators** button.
 *   Enter&#x20;
 
     ```

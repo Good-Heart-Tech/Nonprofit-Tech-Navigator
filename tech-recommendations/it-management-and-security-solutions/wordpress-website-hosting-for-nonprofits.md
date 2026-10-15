@@ -19,7 +19,7 @@ icon: wordpress-simple
 
 ### Must-Have Premium WordPress Plugins Available Free for Nonprofits
 
-* [Aksimet Antispam offers free licenses to nonprofit organizations](https://akismet.com/support/getting-started/guide-for-nonprofit-organizations/), providing effective spam protection for WordPress sites. To get a free license, email Akismet Support at [support@akismet.com](mailto:support@akismet.com) with your WordPress.com username and proof of nonprofit status.
+* [Akismet Antispam offers free licenses to nonprofit organizations](https://akismet.com/support/getting-started/guide-for-nonprofit-organizations/), providing effective spam protection for WordPress sites. To get a free license, email Akismet Support at [support@akismet.com](mailto:support@akismet.com) with your WordPress.com username and proof of nonprofit status.
 
 ### Recommended FREE WordPress Plugins
 
