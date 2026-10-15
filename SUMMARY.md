@@ -19,6 +19,7 @@
   * [PC Accessibility & Optimization Software for Nonprofits](tech-recommendations/software/pc-accessibility-and-optimization-software-for-nonprofits.md)
   * [Task, Time, & Project Management for Nonprofits](tech-recommendations/software/task-time-and-project-management-for-nonprofits.md)
   * [Event & Volunteer Management Software for Nonprofits](tech-recommendations/software/volunteer-management-software-for-nonprofits.md)
+  * [Staff & Board Training for Nonprofits](tech-recommendations/software/staff-and-board-training-for-nonprofits.md)
   * [Web Browsers & Browser Extensions for Nonprofits](tech-recommendations/software/web-browsers-and-browser-extensions-for-nonprofits.md)
 * [Hardware](tech-recommendations/hardware/README.md)
   * [Computers & Servers](tech-recommendations/hardware/computers-and-servers.md)
