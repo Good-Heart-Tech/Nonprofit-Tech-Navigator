@@ -106,3 +106,20 @@ Ideal for basic workflows and internal data gathering.
 * Branding and collaboration via Microsoft 365
 
 Great for organizations already using Microsoft tools.
+
+### QuestionPro
+
+<div align="left"><figure><img src="../../.gitbook/assets/questionpro.svg" alt="QuestionPro" width="188"><figcaption></figcaption></figure></div>
+
+[QuestionPro](https://www.questionpro.com/) is an online survey platform with 35+ question types, skip logic, multilingual surveys, offline collection, and reporting. It is built for surveys and feedback, not general website forms like contact or signup forms.
+
+[Nonprofits can get a free license](https://www.questionpro.com/pricing/non-profit.html) (the Nonprofit Waiver) with the same features and support as paid plans. It is also available through TechSoup.
+
+**What to know:**
+
+* Unlimited surveys, up to 10,000 responses
+* One user per license by default
+* Requires a QuestionPro backlink on your website
+* Annual renewal requires a public G2 review and up to 3 nonprofit referrals
+
+Best for program evaluation, donor and member feedback, and event surveys.
