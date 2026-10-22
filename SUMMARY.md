@@ -119,6 +119,7 @@
   * [How to Delegate Admin Access in GiveButter](other-nonprofit-resources/nonprofit-partner-resources/how-to-delegate-admin-access-in-givebutter.md)
   * [How to Uninstall Good Heart Tech's Support Tools](other-nonprofit-resources/nonprofit-partner-resources/how-to-uninstall-good-heart-techs-support-tools.md)
   * [Available Services for Partners](other-nonprofit-resources/nonprofit-partner-resources/available-services-for-partners.md)
+  * [Vulnerability and Patching Management](other-nonprofit-resources/nonprofit-partner-resources/vulnerability-and-patching-management.md)
 * [Nonprofit Insurance](other-nonprofit-resources/nonprofit-insurance.md)
 * [Nonprofit Employee Benefits](other-nonprofit-resources/nonprofit-employee-benefits.md)
 * [Nonprofit Legal Resources](other-nonprofit-resources/nonprofit-legal-resources.md)
