@@ -41,22 +41,27 @@ Good Heart Tech provides the services below to our nonprofit partners at **no co
 
 ### Tools we use to deliver these services
 
-We believe in being open about the tools we use. We greatly appreciate our vendors who donate their tools to Good Heart Tech so we can support our nonprofit partners. Click any tool name to visit that vendor's website and learn more about them.
+We believe in being open about the tools we use. We greatly appreciate our vendors who donate their tools to Good Heart Tech so we can support our nonprofit partners. Click any tool name to visit that vendor's website and learn more about them. You can also see all of our [business partners](https://goodhearttech.org/business-partners) on our website.
 
 You do not need to learn or manage any of these. They work behind the scenes so we can support you quickly and keep your organization safe.
 
 | Tool | What it does | How it helps you |
 | ---- | ------------ | ---------------- |
-| **Halo** | Our ticketing system and support portal. Every request you send us is tracked here. | Nothing gets lost, and you can see the status of your requests. |
-| **[Level](https://level.io/)** | A small program on your computers that lets us see them and help remotely. | We can fix problems fast without visiting your office. |
-| **[TridentStack](https://tridentstack.com/)** | Installs Windows, Mac, and Linux updates and scans for known security problems. | Your computers stay up to date and harder to break into. |
-| **[Senteon](https://senteon.co/)** | Applies safer settings to your computers. | Fewer ways for criminals to get in. |
-| **Liongard** | Regularly checks your Microsoft 365, Google Workspace, domain, and website setup. | We spot risky changes early and keep your reports current. |
-| **Tier2Tickets** | Adds the Good Heart Tech icon to your desktop for sending a ticket. | Getting help takes one click, and we automatically see which computer needs help. |
-| **[Control D](https://controld.com/)** | Filters web addresses before your computer connects. | Blocks dangerous and fake websites before anyone can click them. |
-| **[Phishr](https://www.phishr.com/)** | Sends safe practice phishing emails and short training. | Staff learn to spot scam emails before a real one arrives. |
-| **CIPP** | Helps us manage and review Microsoft 365 settings. | Your email and accounts are set up securely and consistently. |
-| **[Hudu](https://www.hudu.com/)** | Our secure documentation system for your IT setup. | Any of our volunteers can quickly pick up where the last one left off. |
+| **[HaloPSA](https://halopsa.com)** | Our ticketing system and support portal. Every request you send us is tracked here. | Nothing gets lost, and you can see the status of your requests. |
+| **[Level](https://level.io)** | A small program on your computers that lets us see them and help remotely. | We can fix problems fast without visiting your office. |
+| **[TridentStack](https://tridentstack.com)** | Installs Windows, Mac, and Linux updates and scans for known security problems. | Your computers stay up to date and harder to break into. |
+| **[Senteon](https://senteon.com)** | Applies safer settings to your computers. | Fewer ways for criminals to get in. |
+| **[Liongard](https://www.liongard.com)** | Regularly checks your Microsoft 365, Google Workspace, domain, and website setup. | We spot risky changes early and keep your reports current. |
+| **[Tier2Tickets](https://www.tier2tickets.com)** | Adds the Good Heart Tech icon to your desktop for sending a ticket. | Getting help takes one click, and we automatically see which computer needs help. |
+| **[Control D](https://controld.com)** | Filters web addresses before your computer connects. | Blocks dangerous and fake websites before anyone can click them. |
+| **[Phishr](https://www.phishr.com)** | Sends safe practice phishing emails and short training. | Staff learn to spot scam emails before a real one arrives. |
+| **[CIPP](https://cipp.app)** | Helps us manage and review Microsoft 365 settings. | Your email and accounts are set up securely and consistently. |
+| **[Hudu](https://www.hudu.com)** | Our secure documentation system for your IT setup. | Any of our volunteers can quickly pick up where the last one left off. |
+| **[Overe](https://www.overe.io)** | Watches your Microsoft 365 accounts and apps for security risks and flags what needs attention first. | We catch account risks early and tell you what to fix first. |
+| **[MainWP](https://mainwp.com)** | Manages updates, backups, and security scans for your WordPress websites from one dashboard. | Your website stays updated and scanned without anyone logging in to each site. |
+| **[UpdraftPlus](https://updraftplus.com)** | Makes scheduled backups of your WordPress website and restores it with a few clicks. | If something goes wrong, your website can be restored quickly. |
+| **[Enhance](https://enhance.com)** | Control panel that runs the hosting for your websites, including backups. | Your free WordPress hosting is managed and backed up on a stable platform. |
+| **[CloudLinux](https://cloudlinux.com)** | Secure, stable Linux for web servers that keeps each website isolated from the others. | One website having a problem is less likely to affect the rest or the server. |
 
 {% hint style="info" %}
 Not sure where to start? [Submit a ticket to us](how-to-submit-a-support-ticket-to-good-heart-tech.md) and we’ll help you decide what to prioritize.
