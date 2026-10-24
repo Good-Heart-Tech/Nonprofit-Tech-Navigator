@@ -44,6 +44,7 @@ In the program list, uninstall **each** of the following if you see it:
 * **Liongard Agent**
 * **Senteon Agent**
 * **Tier2Tickets**
+* **TridentStack Agent**
 
 Uninstalling **Level** is especially important. If it stays installed, it can reinstall the other tools over time.
 

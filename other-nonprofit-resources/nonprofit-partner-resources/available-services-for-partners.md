@@ -39,6 +39,23 @@ Good Heart Tech provides the services below to our nonprofit partners at **no co
 | 📶 **Network & Wi‑Fi setup/repair**         | Diagnose coverage and performance issues and improve reliability.    |
 | ✅ **Security uplift + compliance projects** | Targeted improvements based on risk and requirements.                |
 
+### Tools we use to deliver these services
+
+You do not need to learn or manage any of these. They work behind the scenes so we can support you quickly and keep your organization safe.
+
+| Tool | What it does | How it helps you |
+| ---- | ------------ | ---------------- |
+| **Halo** | Our ticketing system and support portal. Every request you send us is tracked here. | Nothing gets lost, and you can see the status of your requests. |
+| **Level** | A small program on your computers that lets us see them and help remotely. | We can fix problems fast without visiting your office. |
+| **TridentStack** | Installs Windows, Mac, and Linux updates and scans for known security problems. | Your computers stay up to date and harder to break into. |
+| **Senteon** | Applies safer settings to your computers. | Fewer ways for criminals to get in. |
+| **Liongard** | Regularly checks your Microsoft 365, Google Workspace, domain, and website setup. | We spot risky changes early and keep your reports current. |
+| **Tier2Tickets** | Adds the Good Heart Tech icon to your desktop for sending a ticket. | Getting help takes one click, and we automatically see which computer needs help. |
+| **ControlD** | Filters web addresses before your computer connects. | Blocks dangerous and fake websites before anyone can click them. |
+| **Phishr** | Sends safe practice phishing emails and short training. | Staff learn to spot scam emails before a real one arrives. |
+| **CIPP** | Helps us manage and review Microsoft 365 settings. | Your email and accounts are set up securely and consistently. |
+| **Hudu** | Our secure documentation system for your IT setup. | Any of our volunteers can quickly pick up where the last one left off. |
+
 {% hint style="info" %}
 Not sure where to start? [Submit a ticket to us](how-to-submit-a-support-ticket-to-good-heart-tech.md) and we’ll help you decide what to prioritize.
 {% endhint %}
