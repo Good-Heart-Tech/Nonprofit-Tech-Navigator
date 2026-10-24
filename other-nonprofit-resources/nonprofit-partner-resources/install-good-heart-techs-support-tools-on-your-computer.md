@@ -25,9 +25,8 @@ Follow the steps below to install it on your computer.
    * Copy the installation command provided by Good Heart Tech. If you don't have it, email [support@goodhearttech.org](mailto:support@goodhearttech.org).&#x20;
    * To paste, **right-click** in the PowerShell window, then press **Enter**.
    * You should see a message about Level being successfully installed:
-     *
 
-         <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+     <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 3. **Restart Your Computer**
    * After the install finishes, reboot your computer. That’s it.
 
