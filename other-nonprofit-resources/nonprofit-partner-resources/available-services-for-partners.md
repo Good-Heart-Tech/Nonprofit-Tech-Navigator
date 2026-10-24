@@ -62,7 +62,6 @@ You do not need to learn or manage any of these. They work behind the scenes so 
 | **[MainWP](https://mainwp.com)** | Manages updates, backups, and security scans for your WordPress websites from one dashboard. | Your website stays updated and scanned without anyone logging in to each site. |
 | **[UpdraftPlus](https://updraftplus.com)** | Makes scheduled backups of your WordPress website and restores it with a few clicks. | If something goes wrong, your website can be restored quickly. |
 | **[Enhance](https://enhance.com)** | Control panel that runs the hosting for your websites, including backups. | Your free WordPress hosting is managed and backed up on a stable platform. |
-| **[CloudLinux](https://cloudlinux.com)** | Secure, stable Linux for web servers that keeps each website isolated from the others. | One website having a problem is less likely to affect the rest or the server. |
 
 {% hint style="info" %}
 Not sure where to start? [Submit a ticket to us](how-to-submit-a-support-ticket-to-good-heart-tech.md) and we’ll help you decide what to prioritize.
