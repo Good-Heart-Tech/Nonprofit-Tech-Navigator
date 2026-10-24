@@ -56,6 +56,7 @@ You do not need to learn or manage any of these. They work behind the scenes so 
 | **[Control D](https://controld.com)** | Filters web addresses before your computer connects. | Blocks dangerous and fake websites before anyone can click them. |
 | **[Phishr](https://www.phishr.com)** | Sends safe practice phishing emails and short training. | Staff learn to spot scam emails before a real one arrives. |
 | **[CIPP](https://cipp.app)** | Helps us manage and review Microsoft 365 settings. | Your email and accounts are set up securely and consistently. |
+| **[WOSP](https://wosp.app)** | Helps us manage and review Google Workspace accounts, groups, and settings. | Your Google accounts are set up securely and consistently. |
 | **[Hudu](https://www.hudu.com)** | Our secure documentation system for your IT setup. | Any of our volunteers can quickly pick up where the last one left off. |
 | **[Overe](https://www.overe.io)** | Watches your Microsoft 365 accounts and apps for security risks and flags what needs attention first. | We catch account risks early and tell you what to fix first. |
 | **[MainWP](https://mainwp.com)** | Manages updates, backups, and security scans for your WordPress websites from one dashboard. | Your website stays updated and scanned without anyone logging in to each site. |
