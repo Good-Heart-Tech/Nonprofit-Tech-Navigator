@@ -51,6 +51,18 @@ Best when you want normal Gmail—contacts, Sent folder, everyone sending from t
 
 You cannot delegate an **alias** on someone’s mailbox—it must be its own user (or use a group instead).
 
+#### Open a delegated mailbox in Gmail (staff)
+
+If your admin added you as a **delegate** on a shared mailbox (option 3), you do **not** sign in to that account’s password. You open it from your own Gmail.
+
+1. Go to [Gmail](https://mail.google.com) while signed in with your **everyday** Google account.
+2. Click your **profile picture** (top right).
+3. Under your name, you should see a list of **delegated accounts** (for example **info@yourorg.org**).
+4. If you do not see any delegated mailboxes, ask your **Google Workspace admin** to add you as a delegate on that user.
+5. Click the delegated mailbox. Gmail opens a **new tab** with that inbox. You stay signed in as yourself—you never need the shared account’s password.
+
+[Delegate & collaborate on email](https://support.google.com/mail/answer/138350) (Google’s guide)
+
 ---
 
 ## Who can email the address? (separate from the three options)
