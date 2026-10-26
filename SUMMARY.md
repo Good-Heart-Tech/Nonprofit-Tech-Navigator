@@ -62,6 +62,7 @@
   * [Setup PIN Sign-In on Windows 11](tech-guides/security-guides/setup-pin-sign-in-on-windows-11.md)
 * [Software Guides](tech-guides/software-guides/README.md)
   * [How to Use Incognito / InPrivate Browsing](tech-guides/software-guides/how-to-use-incognito-inprivate-browsing.md)
+  * [How to Use Separate Chrome / Edge Profiles for Work and Personal](tech-guides/software-guides/how-to-use-separate-chrome-and-edge-profiles-for-work-and-personal.md)
   * [How to Clear Cookies for a Specific Site](tech-guides/software-guides/how-to-clear-cookies-for-a-specific-site.md)
   * [How to Enable Cookies for a Website](tech-guides/software-guides/how-to-enable-cookies-for-a-website.md)
   * [Set up POINT for Volunteer Management](tech-guides/software-guides/set-up-point-for-volunteer-management.md)

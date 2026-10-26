@@ -26,6 +26,8 @@ Similarly, if your [nonprofit uses Microsoft 365](email-and-productivity-apps-fo
 
 While Chrome and Edge are customized for their respective platforms, they are built on the same Chromium engine, so their core performance and capabilities are similar. The real advantages come from aligning your email service with its corresponding browser, which enhances security, simplifies login, and streamlines the user experience. Nonprofits can fully use Google or Microsoft’s organizational management tools, keeping workflows secure and efficient.
 
+Staff who mix **work and personal** on one laptop should use [separate browser profiles](../../tech-guides/software-guides/how-to-use-separate-chrome-and-edge-profiles-for-work-and-personal.md) so sign-ins, bookmarks, and extensions do not bleed together.
+
 ## **Browser Extensions for Nonprofits**
 
 Browser extensions can greatly enhance productivity, security, and privacy for nonprofit organizations. Here are some valuable extensions that can help nonprofits streamline their online tasks and safeguard their digital environment.

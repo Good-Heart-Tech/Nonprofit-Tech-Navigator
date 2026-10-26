@@ -13,7 +13,7 @@ icon: user-hoodie
 Use a private browsing window when you need to:
 
 * **Bypass cached data -** Helpful when troubleshooting website issues or testing changes.
-* **Sign in with a different account -** Lets you log in without interfering with your main browser session.
+* **Sign in with a different account -** Lets you log in without interfering with your main browser session. For everyday work vs. personal separation, use [separate Chrome / Edge profiles](how-to-use-separate-chrome-and-edge-profiles-for-work-and-personal.md) instead.
 * **Avoid storing history, cookies, or temporary data -** Ideal for sensitive browsing or testing authentication flows.
 * **Verify behavior for first-time users -** Good for checking pages, redirects, or cookie banners.
 
