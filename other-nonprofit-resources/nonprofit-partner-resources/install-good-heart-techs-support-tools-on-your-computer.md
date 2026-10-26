@@ -26,7 +26,7 @@ Follow the steps below to install it on your computer.
    * To paste, **right-click** in the PowerShell window, then press **Enter**.
    * You should see a message about Level being successfully installed:
 
-     <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+     <figure><img src="../../.gitbook/assets/image%20(12).png" alt="Level install success message in PowerShell"><figcaption></figcaption></figure>
 3. **Restart Your Computer**
    * After the install finishes, reboot your computer. That’s it.
 
@@ -42,9 +42,8 @@ Follow the steps below to install it on your computer.
    * Paste it into Terminal, press **Enter**, and wait for the install to finish.
 3. **Accepting permissions**
    * After the installation is completed, a window will pop up, prompting you to allow Level to run. **Open System Settings** as directed.
-   *
 
-       <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+     <figure><img src="../../.gitbook/assets/image%20(13).png" alt="Mac prompt to open System Settings for Level permissions"><figcaption></figcaption></figure>
    * Once in _System Preferences_, go to _Accessibility_, _Full Disk Access_, and _Screen Recording_, and enable Level to run. You will need to enter admin credentials.
 4. **Restart Your Mac**
    * Once the process completes, reboot your Mac.
