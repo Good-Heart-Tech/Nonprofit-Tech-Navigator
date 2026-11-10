@@ -8,6 +8,8 @@ icon: hammer-brush
 
 {% hint style="warning" %}
 **Partners only.** These steps apply only if your nonprofit already receives free IT from Good Heart Tech. Public visitors: see [Free IT Support from Good Heart Tech](../../free-it-support-from-good-heart-tech.md).
+
+Partnership does **not** guarantee any level of compliance. Security and regulatory compliance remain **your organization’s responsibility**.
 {% endhint %}
 
 Good Heart Tech provides the services below to our nonprofit partners at **no cost**.
