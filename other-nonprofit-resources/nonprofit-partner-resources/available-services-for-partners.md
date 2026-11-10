@@ -19,6 +19,7 @@ Good Heart Tech provides the services below to our nonprofit partners at **no co
 | 🛠️ **Helpdesk support**                  | Troubleshooting for computers, accounts, email, and common apps.           |
 | 💻 **Computer repair & optimization**     | Fix and tune PCs for speed, stability, and usability.                      |
 | 🧭 **Consulting & strategic IT planning** | Practical guidance for tech decisions, planning, and vendor conversations. |
+| 🤖 **AI management**                      | Help choosing and rolling out AI tools safely: policies, licenses, admin settings, and staff guidance. See [AI Tools for Nonprofits](../../tech-recommendations/software/ai-tools-for-nonprofits.md). |
 
 ### Endpoint and security services
 
