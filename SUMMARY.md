@@ -81,6 +81,7 @@
   * [Configure Email Protection Settings in Google Workspace](google-workspace/google-workspace-nonprofit-setup/configure-email-protection-settings-in-google-workspace.md)
   * [Enabling Multi-factor Authentication (MFA) Enforcement in Google Workspace](google-workspace/google-workspace-nonprofit-setup/enabling-multi-factor-authentication-mfa-enforcement-in-google-workspace.md)
   * [Adding an Unlicensed Admin Account in Google Workspace](google-workspace/google-workspace-nonprofit-setup/adding-an-unlicensed-admin-account-in-google-workspace.md)
+  * [HIPAA, BAA & Legal Compliance in Google Workspace](google-workspace/google-workspace-nonprofit-setup/hipaa-baa-and-legal-compliance-in-google-workspace.md)
 
 ## Microsoft
 
