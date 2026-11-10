@@ -117,8 +117,7 @@ Migrate any email from other platforms or personal accounts into Google Workspac
 
 All these settings are located under [Account < Account Settings.](https://admin.google.com/ac/accountsettings)
 
-* **Enable Google Cloud Data Sharing**: Navigate to [_Account settings < Legal & Compliance_](https://admin.google.com/ac/companyprofile/legal)_,_ and mark Google Cloud Platform Sharing Options as **Enabled**.
-* **Accept Cloud Data Processing Agreement**: Navigate to [_Account settings < Legal & Compliance_](https://admin.google.com/ac/companyprofile/legal)_,_ and under _Cloud Data Processing Addendum (CDPA)_, click **Review & Accept**.
+* **Legal & compliance (CDPA, HIPAA BAA, privacy contacts):** See [HIPAA, BAA & Legal Compliance in Google Workspace](hipaa-baa-and-legal-compliance-in-google-workspace.md). On [_Account settings < Legal & Compliance_](https://admin.google.com/ac/companyprofile/legal), enable **Google Cloud Platform sharing options** if needed, accept the **CDPA**, and accept the **HIPAA BAA** only if your org handles PHI.
 * **Enable Conflicting Accounts Management**: Navigate to [_Account settings < Conflicting accounts management_](https://admin.google.com/ac/accountsettings/conflictaccountmanagement), then select '_Automatically invite users to transfer conflicting unmanaged accounts to managed ones_' and set the '_Send daily follow-up emails for_' to **2 weeks.** Select the sub option for **Replace their conflicting account with a managed one**
 * Review and apply security settings in the Security < [Security Advisor](https://admin.google.com/u/1/ac/security/home). Apply as many of the recommendations as possible for your organization.
 * **Disable Google Communications:** Under [Account Settings < Preferences < Email](https://admin.google.com/ac/accountsettings/preferences), disable all communications that would be sent from Google to end users.
