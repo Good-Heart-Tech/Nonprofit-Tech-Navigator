@@ -23,8 +23,7 @@ Follow the steps below to install it on your computer.
    * If prompted, click **Yes** to allow changes.
 2. **Paste the Command**
    * Copy the installation command provided by Good Heart Tech. If you don't have it, email [support@goodhearttech.org](mailto:support@goodhearttech.org).&#x20;
-   * To paste, **right-click** in the PowerShell window, then press **Enter**.
-   * You should see a message about Level being successfully installed:
+   * To paste, **right-click** in the PowerShell window, then press **Enter**. After about **10 seconds**, you should see a message about Level being successfully installed:
 
      <figure><img src="../../.gitbook/assets/image%20(12).png" alt="Level install success message in PowerShell"><figcaption></figcaption></figure>
 3. **Restart Your Computer**
