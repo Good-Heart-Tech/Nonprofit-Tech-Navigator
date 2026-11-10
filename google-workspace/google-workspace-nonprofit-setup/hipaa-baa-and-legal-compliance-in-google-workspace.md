@@ -13,6 +13,10 @@ Healthcare nonprofits, clinics, and other **compliance-conscious** organizations
 You must be a **super administrator**. Legacy free editions and non-admin accounts cannot accept these terms. Signing a BAA does **not** by itself make your org HIPAA-compliant—you still must follow [Google’s HIPAA guidance](https://knowledge.workspace.google.com/admin/compliance/hipaa-compliance-with-google-workspace-and-cloud-identity) and only use [HIPAA Included Functionality](https://workspace.google.com/terms/2017/10/premier/terms/included_functionality.html) with protected health information (PHI).
 {% endhint %}
 
+{% hint style="info" %}
+**Good Heart Tech partners:** Working with us does **not** guarantee any level of compliance (HIPAA, GDPR, or otherwise). **Your organization** is responsible for legal and regulatory compliance—including vendor agreements, data handling, and staff practices.
+{% endhint %}
+
 ## Open Legal & compliance
 
 1. Sign in to the [Google Admin console](https://admin.google.com) as a **super admin**.
