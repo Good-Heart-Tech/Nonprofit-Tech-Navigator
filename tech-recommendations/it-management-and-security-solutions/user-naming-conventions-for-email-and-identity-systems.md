@@ -34,5 +34,5 @@ This can foster a friendly tone and may work well internally. However, be aware 
 
 * **Reduces confusion** and support issues
 * **Improves readability** in directories and shared documents
-* **Standardizes onboarding/offboarding** processes
+* **Standardizes onboarding/offboarding** processes — see [Employee Onboarding & Offboarding (IT Checklist)](employee-onboarding-and-offboarding-it-checklist.md)
 * **Supports long-term scalability**

@@ -38,6 +38,7 @@
   * [Website & DNS Services for Nonprofits](tech-recommendations/it-management-and-security-solutions/website-and-dns-services-for-nonprofits.md)
   * [WordPress Website Hosting for Nonprofits](tech-recommendations/it-management-and-security-solutions/wordpress-website-hosting-for-nonprofits.md)
   * [User Naming Conventions for Email and Identity Systems](tech-recommendations/it-management-and-security-solutions/user-naming-conventions-for-email-and-identity-systems.md)
+  * [Employee Onboarding & Offboarding (IT Checklist)](tech-recommendations/it-management-and-security-solutions/employee-onboarding-and-offboarding-it-checklist.md)
 * [Phone Systems for Nonprofits](tech-recommendations/phone-systems-for-nonprofits.md)
 * [Internet Circuits for Nonprofits](tech-recommendations/internet-circuits-for-nonprofits.md)
 
