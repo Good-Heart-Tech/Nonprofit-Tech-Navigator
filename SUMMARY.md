@@ -60,6 +60,7 @@
   * [Cloudflare Zero Trust Setup](tech-guides/security-guides/cloudflare-zero-trust-setup.md)
   * [Logging Into Cloudflare Zero Trust](tech-guides/security-guides/logging-into-cloudflare-zero-trust.md)
   * [Why MFA is Crucial for Nonprofits](tech-guides/security-guides/why-mfa-is-crucial-for-nonprofits.md)
+  * [How to Spot Phishing and Scam Emails](tech-guides/security-guides/how-to-spot-phishing-and-scam-emails.md)
   * [Setup PIN Sign-In on Windows 11](tech-guides/security-guides/setup-pin-sign-in-on-windows-11.md)
 * [Software Guides](tech-guides/software-guides/README.md)
   * [How to Use Incognito / InPrivate Browsing](tech-guides/software-guides/how-to-use-incognito-inprivate-browsing.md)
