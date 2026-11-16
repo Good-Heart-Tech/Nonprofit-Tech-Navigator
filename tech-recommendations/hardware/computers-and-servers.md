@@ -29,6 +29,21 @@ We recommend only buying PCs that meet these minimum specs:
   * Home often ships with extra consumer apps (“bloatware”).
   * If you must buy Windows 10, get **Windows 10 Pro** (not Home).
 
+### Docking stations (dual monitors, mixed laptops)
+
+A **universal dock** helps when you swap between **Dell**, **HP**, and **Mac** laptops at a desk—one cable for monitors, Ethernet, keyboard, and mouse. Good Heart Tech often suggests **Plugable** docks in the **~$100–$150** range: solid for office work, widely used in nonprofits, and supported by a US-based help team.
+
+{% hint style="info" %}
+**Mac note:** These docks use **DisplayLink** for dual monitors. Install [Plugable’s Mac driver](https://plugable.com/displaylink) once per Mac (Windows usually installs via Windows Update). They are for **email, spreadsheets, and video calls**—not for protected streaming (Netflix, etc.) or gaming.
+{% endhint %}
+
+| Pick | Best when | Highlights |
+| --- | --- | --- |
+| **[Plugable UD-3900H](https://www.amazon.com/dp/B07BFJSYFM)** (~$96 on Amazon) | You want the **lowest cost** and your laptop **already charges** with its own USB-C brick | USB-C **or** USB-A to the dock; **dual monitors** (up to 1920×1200); Gigabit Ethernet; six USB ports. Works with Windows, ChromeOS, and Mac (including Apple Silicon). **Does not charge** the laptop—plug the laptop in separately. |
+| **[Plugable USBC-6950PDZ](https://www.amazon.com/dp/B0BKLT853Z)** (~$146 on Amazon) | You want **one cable** that also **charges** the laptop and runs **dual 4K** screens | Compact **USB-C** dock; up to **100W** pass-through charging (use your laptop’s USB-C power adapter in the dock); **dual HDMI at 4K 60Hz**; Ethernet and SD card slot. Fits most modern Dell Latitude, HP business laptops, and MacBooks with USB-C / Thunderbolt. |
+
+Buy from Amazon links above or directly from [Plugable](https://plugable.com/). Prices change—compare “Sold by” and warranty before you order.
+
 ## Computer Sources
 
 Here are some of the places you may consider looking for PCs for your nonprofit:
