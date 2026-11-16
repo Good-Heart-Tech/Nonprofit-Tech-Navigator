@@ -48,9 +48,18 @@ Buy from Amazon links above or directly from [Plugable](https://plugable.com/). 
 
 Here are some of the places you may consider looking for PCs for your nonprofit:
 
-| Organization                                                                  | Offers                         | Elibility Requirements                                                                                                                                                            | Cost                |
+{% hint style="warning" %}
+**Avoid Walmart, Costco, Sam’s Club, and similar big-box “doorbuster” PCs** when you can. Those systems often ship with **Windows 11 Home**, trial software, and other **bloatware** that slows the computer and makes support harder. Prefer business-grade or refurb sources below.
+{% endhint %}
+
+{% hint style="info" %}
+**Amazon is okay** if the listing clearly matches the [minimum requirements](#computer-minimum-requirements-recommended) above—especially **Windows 11 Pro**, **16 GB RAM**, and a **512 GB SSD**. Home edition and bundled junk apps are common on Amazon too, so read the specs before you buy.
+{% endhint %}
+
+| Organization                                                                  | Offers                         | Eligibility Requirements                                                                                                                                                            | Cost                |
 | ----------------------------------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| [TechSoup](https://www.techsoup.org/search/products/dell/)                    | Refurbished Dell, HP, & Levono | Nonprofit [application process](https://www.techsoup.org/joining-techsoup/how-to-join-techsoup)                                                                                   | Low                 |
+| [Amazon](https://www.amazon.com)                                              | New & refurbished from many sellers | None. Confirm every listing matches **Windows 11 Pro**, **16 GB RAM**, and **512 GB SSD** before ordering.                                                          | Variable            |
+| [TechSoup](https://www.techsoup.org/search/products/dell/)                    | Refurbished Dell, HP, & Lenovo | Nonprofit [application process](https://www.techsoup.org/joining-techsoup/how-to-join-techsoup)                                                                                   | Low                 |
 | [Dell Refurbished](https://www.dellrefurbished.com/)                          | Refurbished Dell               | N/A                                                                                                                                                                               | Low                 |
 | [Deals.dell.com](https://www.dell.com/en-us/shop/deals/dc)                       | New & Refurbished **De**ll     | N/A                                                                                                                                                                               | Low                 |
 | [CTL Reuse Store (3R Technology)](https://reuse.ctl.net/)            | Certified refurbished laptops, desktops, Chromebooks, and Macs. Live stock on the site. Same org as [CTL shop](https://ctl.net/pages/shop). | Based in Oregon and Washington; ships nationwide. Nonprofits can [email an EIN for extra discounts](https://reuse.ctl.net/collections/non-profits). | Low                 |
