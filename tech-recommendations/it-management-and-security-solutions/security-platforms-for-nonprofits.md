@@ -72,7 +72,7 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 [Phin](https://www.phinsecurity.com/) helps nonprofits run safe practice phishing emails and security awareness training so staff learn to spot scams before a real attack.
 
-**Good Heart Tech partners:** If we manage your IT, we deliver Phin as part of your security stack—aligned with your Microsoft 365 or Google Workspace. You do not need a separate Phin account unless we agree otherwise.
+**Good Heart Tech partners:** If we manage your IT, we deliver Phin as part of your security stack—aligned with your Microsoft 365 or Google Workspace. You do not need a separate Phin account unless we agree otherwise. We configure Phin’s recommended inbox delivery (including Microsoft or Google direct injection where applicable) and any required allowlisting per [Phin’s documentation](https://www.phinsecurity.com/knowledge)—you should not need to manage Phishr-era SMTP relays.
 
 **On your own:** Review [Phin’s knowledge base](https://www.phinsecurity.com/knowledge) and contact Phin for partner or direct licensing.
 
