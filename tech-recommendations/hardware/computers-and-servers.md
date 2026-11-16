@@ -20,14 +20,14 @@ We only recommend purchasing Windows 11 computers. [Windows 10 became obsolete i
 
 We recommend only buying PCs that meet these minimum specs:
 
-* **Windows 11**, not Windows 10. [Windows 10 became obsolete in October 2025](https://www.microsoft.com/en-us/windows/end-of-support?r=1).
-* **RAM:** 16 GB minimum
-* **Storage:** 512 GB **SSD** minimum
-* **Display**: Has a screen that's at least 1080p (1920 x 1080 pixels, AKA Full HD)
+* **Windows version:** **Windows 11**, not Windows 10. [Windows 10 became obsolete in October 2025](https://www.microsoft.com/en-us/windows/end-of-support?r=1).
 * **Windows edition:** **Windows 11 Pro** (not Home)
   * Home cannot join Microsoft Entra ID (Azure AD) or an Active Directory domain.
   * Home often ships with extra consumer apps (“bloatware”).
   * If you must buy Windows 10, get **Windows 10 Pro** (not Home).
+* **RAM:** 16 GB minimum
+* **Storage:** 512 GB **SSD** minimum
+* **Display**: Has a screen that's at least 1080p (1920 x 1080 pixels, AKA Full HD)
 
 ### Docking stations (dual monitors, mixed laptops)
 
