@@ -57,7 +57,7 @@ You do not need to learn or manage any of these. They work behind the scenes so 
 | **[Liongard](https://www.liongard.com)** | Regularly checks your Microsoft 365, Google Workspace, domain, and website setup. | We spot risky changes early and keep your reports current. |
 | **[Tier2Tickets](https://www.tier2tickets.com)** | Adds the Good Heart Tech icon to your desktop for sending a ticket. | Getting help takes one click, and we automatically see which computer needs help. |
 | **[Control D](https://controld.com)** | Filters web addresses before your computer connects. | Blocks dangerous and fake websites before anyone can click them. |
-| **[Phishr](https://www.phishr.com)** | Sends safe practice phishing emails and short training. | Staff learn to spot scam emails before a real one arrives. |
+| **[Phin](https://www.phinsecurity.com/)** | Practice phishing emails and short security awareness training. | Staff learn to spot scam emails before a real one arrives. Good Heart Tech is your partner—we configure this with your Microsoft 365 or Google Workspace. |
 | **[CIPP](https://cipp.app)** | Helps us manage and review Microsoft 365 settings. | Your email and accounts are set up securely and consistently. |
 | **[WOSP](https://wosp.app)** | Helps us manage and review Google Workspace accounts, groups, and settings. | Your Google accounts are set up securely and consistently. |
 | **[Hudu](https://www.hudu.com)** | Our secure documentation system for your IT setup. | Any of our volunteers can quickly pick up where the last one left off. |

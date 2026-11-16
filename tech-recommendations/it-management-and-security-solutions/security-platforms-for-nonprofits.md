@@ -68,13 +68,17 @@ Setup is usually straightforward. Install the connector where the internal resou
 
 [Nord VPN](https://nordvpn.com/) is a VPN software that provides advanced options and is known for privacy. They offer a [free tier of services to nonprofits](https://nordvpn.org/nonprofit/).
 
-## Phishing Simulation & Security Awareness Training (Phishr) <a id="phishr-phishing-simulation"></a>
+## Phishing Simulation & Security Awareness Training (Phin) <a id="phin-phishing-simulation"></a>
 
-<div align="left"><figure><img src="../../.gitbook/assets/phishr-dark.png" alt="Phishr" width="163"><figcaption></figcaption></figure></div>
+[Phin](https://www.phinsecurity.com/) helps nonprofits run safe practice phishing emails and security awareness training so staff learn to spot scams before a real attack.
 
-[Phishr](https://www.phishr.com/) simulates realistic phishing emails so you can find weak spots, train staff, and build security habits. Core phishing simulation is **free** for all organizations; paid options add support and extras.
+**Good Heart Tech partners:** If we manage your IT, we deliver Phin as part of your security stack—aligned with your Microsoft 365 or Google Workspace. You do not need a separate Phin account unless we agree otherwise.
 
-Getting started: create a free account, pick templates, run a campaign, review results, and assign training. Nonprofits can [contact Phishr](https://www.phishr.com/contact) to ask about free or discounted services for your size.
+**On your own:** Review [Phin’s knowledge base](https://www.phinsecurity.com/knowledge) and contact Phin for partner or direct licensing.
+
+{% hint style="info" %}
+We no longer recommend **Phishr** for new deployments. Existing GHT clients may still hear about Phishr during our migration to Phin.
+{% endhint %}
 
 ## Security Information and Event Management (SIEM) <a id="security-information-and-event-management-siem"></a>
 
