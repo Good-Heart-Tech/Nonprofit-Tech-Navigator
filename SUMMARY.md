@@ -123,6 +123,7 @@
   * [How to Uninstall Good Heart Tech's Support Tools](other-nonprofit-resources/nonprofit-partner-resources/how-to-uninstall-good-heart-techs-support-tools.md)
   * [Available Services for Partners](other-nonprofit-resources/nonprofit-partner-resources/available-services-for-partners.md)
   * [Vulnerability and Patching Management](other-nonprofit-resources/nonprofit-partner-resources/vulnerability-and-patching-management.md)
+  * [Security Awareness Training and Reporting Phishing](other-nonprofit-resources/nonprofit-partner-resources/security-awareness-training-and-reporting-phishing.md)
 * [Nonprofit Insurance](other-nonprofit-resources/nonprofit-insurance.md)
 * [Nonprofit Employee Benefits](other-nonprofit-resources/nonprofit-employee-benefits.md)
 * [Nonprofit Legal Resources](other-nonprofit-resources/nonprofit-legal-resources.md)
